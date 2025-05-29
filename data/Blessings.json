@@ -1,0 +1,5006 @@
+{
+    "Splitshot - General - Projectile Amount Blessing": {
+        "id": 0,
+        "basePrice": 300.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Multi-shot",
+            "pt-br": "Torrente de Chumbo",
+            "zh-cn": "多重射击"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Projectile Amount <style=\"GreenText\">+1</style>",
+            "pt-br": "Número de Projéteis <style=\"GreenText\">+1</style>",
+            "zh-cn": "投射物数量：<style=\"GreenText\">+1</style>"
+        }
+    },
+    "Shadow Dash - Add Charges - Increase Charges Amount Blessing": {
+        "id": 1,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Chain of Shadows",
+            "pt-br": "Corrente de Sombras",
+            "zh-cn": "暗影锁链"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Increase <b>charges</b> by <style=\"GreenText\">+1</style>",
+            "pt-br": "Aumenta <b>cargas</b> em <style=\"GreenText\">+1</style>",
+            "zh-cn": "<b>充能次数</b>增加 <style=\"GreenText\">+1</style>"
+        }
+    },
+    "Shadow Dash - General - Damage Blessing": {
+        "id": 2,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Swift Assault",
+            "pt-br": "Investida Fulminante",
+            "zh-cn": "迅捷袭击"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Splitshot - General - Critical Chance Blessing": {
+        "id": 3,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.05,
+            0.05
+        ],
+        "rareRollRange": [
+            0.075,
+            0.075
+        ],
+        "epicRollRange": [
+            0.1,
+            0.1
+        ],
+        "titleLocalizationKey": {
+            "en": "Deadly Aim",
+            "pt-br": "Mira Mortal",
+            "zh-cn": "致命瞄准"
+        },
+        "effectTypeIcon": "Icon_CriticalChance",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+10%</style>",
+            "pt-br": "Chance de Acerto Crítico <style=\"GreenText\">+10%</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
+        }
+    },
+    "Splitshot - General - Mana Cost Reduction Blessing": {
+        "id": 4,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.9,
+            0.9
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Efficient Reload",
+            "pt-br": "Recarga Eficiente",
+            "zh-cn": "高效装填"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Reflexes - General - Damage Blessing": {
+        "id": 5,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Sharp Strike",
+            "pt-br": "Corte Afiado",
+            "zh-cn": "利刃打击"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Reflexes - General - Range Blessing": {
+        "id": 6,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Heightened Senses",
+            "pt-br": "Sentidos Aguçados",
+            "zh-cn": "感知强化"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Damage Stat Blessing": {
+        "id": 12,
+        "basePrice": 504.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.05,
+            1.05
+        ],
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Power",
+            "pt-br": "Benção do Poder",
+            "zh-cn": "力量祝福"
+        },
+        "icon": "Icon_Damage_Base",
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "Precision 1 - Critical Chance - Stat Blessing": {
+        "id": 17,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision I",
+            "pt-br": "Benção da Precisão I",
+            "zh-cn": "精准祝福 I"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+4%</style>\r\n",
+            "pt-br": "Chance Crítica <style=\"GreenText\">+4%</style>\r\n",
+            "zh-cn": "暴击几率 <style=\"GreenText\">+4% </style>\r\n"
+        }
+    },
+    "Precision 2 - Critical Damage - Stat Blessing": {
+        "id": 18,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision II",
+            "pt-br": "Benção da Precisão II",
+            "zh-cn": "精准祝福 II"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Damage <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Dano Crítico <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "暴击伤害 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Lethality 2 - Bleed Chance - Stat Blessing": {
+        "id": 19,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality II",
+            "pt-br": "Benção da Letalidade II",
+            "zh-cn": "致命祝福 II"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Bleed Chance (Physical) <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Chance de Sangramento (Físico) <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "物理伤害施加流血的几率 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "ChanceToAppyIgnited Stat Blessing": {
+        "id": 20,
+        "basePrice": 360.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.1,
+            0.1
+        ],
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Ignition",
+            "pt-br": "Benção da Ignicão",
+            "zh-cn": "点燃祝福"
+        },
+        "icon": "IconStatus_Ignited",
+        "effectTypeIcon": "IconStatus_Ignited",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "Life Stat Blessing": {
+        "id": 22,
+        "basePrice": 360.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.5,
+            1.5
+        ],
+        "epicRollRange": [
+            1.75,
+            1.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Health",
+            "pt-br": "Benção da Saúde",
+            "zh-cn": "健康祝福"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "AttackSpeed Stat Blessing": {
+        "id": 23,
+        "basePrice": 504.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.05,
+            0.05
+        ],
+        "magicRollRange": [
+            0.1,
+            0.1
+        ],
+        "rareRollRange": [
+            0.15,
+            0.15
+        ],
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Swiftness",
+            "pt-br": "Benção da Agilidade",
+            "zh-cn": "敏捷祝福"
+        },
+        "icon": "Icon_AttackSpeed_Base",
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "MovementSpeed Stat Blessing": {
+        "id": 24,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.04,
+            0.04
+        ],
+        "rareRollRange": [
+            0.08,
+            0.08
+        ],
+        "epicRollRange": [
+            0.14,
+            0.14
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Mobility",
+            "pt-br": "Benção da Mobilidade",
+            "zh-cn": "行动祝福"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "Mana Stat Blessing": {
+        "id": 25,
+        "basePrice": 360.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.05,
+            1.05
+        ],
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Faith",
+            "pt-br": "Benção da Fé",
+            "zh-cn": "信仰祝福"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "CooldownSpeed Stat Blessing": {
+        "id": 26,
+        "basePrice": 444.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.05,
+            0.05
+        ],
+        "magicRollRange": [
+            0.1,
+            0.1
+        ],
+        "rareRollRange": [
+            0.15,
+            0.15
+        ],
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Aptitude",
+            "pt-br": "Benção da Aptidão",
+            "zh-cn": "健身祝福"
+        },
+        "icon": "Icon_Cooldown_Base",
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        }
+    },
+    "Splitshot - Mana to Damage - Damage Blessing": {
+        "id": 35,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.15,
+            1.15
+        ],
+        "titleLocalizationKey": {
+            "en": "Spiritual Burst",
+            "pt-br": "Impacto Espirutal",
+            "zh-cn": "灵能爆发"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Mana-to-Damage Conversion <style=\"GreenText\">+15%[+]</style>",
+            "pt-br": "Conversão de Mana-para-Dano <style=\"GreenText\">+15%[+]</style>",
+            "zh-cn": "法力转化为伤害的比例：<style=\"GreenText\">+15%[+]</style>"
+        }
+    },
+    "Prayer Of Vengeance - Explode on Kill - AoE Blessing": {
+        "id": 37,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Expanded Cataclysm",
+            "pt-br": "Cataclismo Expandido",
+            "zh-cn": "浩劫之潮"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Enemy Explosion Area of Effect <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Área de Efeito de Explosão de Inimigo <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "敌人爆炸范围：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Prayer Of Vengeance - Explode on Kill - Damage Blessing": {
+        "id": 38,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Pestilence Cataclysm",
+            "pt-br": "Cataclismo de Praga",
+            "zh-cn": "疫病浩劫"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Enemy Explosion Damage <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Dano de Explosão de Inimigo <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "敌人爆炸时造成的伤害：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Spearhead - Pierce - Damage Blessing": {
+        "id": 42,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Sustained Impact",
+            "pt-br": "Impacto Sustentado",
+            "zh-cn": "持续冲击"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Reduce Pierce Damage Penalty by <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Reduzir penalidade de dano por atravessar em <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "穿透造成的伤害惩罚降低 <style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Shadow Dash - Explosion on Target Hit - Damage Blessing": {
+        "id": 46,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.15,
+            1.15
+        ],
+        "titleLocalizationKey": {
+            "en": "Abyssal Expansion",
+            "pt-br": "Extensão Abissal",
+            "zh-cn": "深渊蔓延"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Shadow Dash Explosion Damage <style=\"GreenText\">+15%[+]</style>",
+            "pt-br": "Dano de Explosão <style=\"GreenText\">+15%[+]</style>",
+            "zh-cn": "暗影冲刺爆炸伤害：<style=\"GreenText\">+15%[+]</style>"
+        }
+    },
+    "Shadow Dash - Explosion on Target Hit - AoE Blessing": {
+        "id": 47,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Rift of Shadows",
+            "pt-br": "Ruptura das Trevas",
+            "zh-cn": "暗影之裂隙"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Sahdow Dash Explosion Area of Effect <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Área de Efeito da Explosão <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "暗影冲刺爆炸范围：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "The Sacrificed - Life Cost to Damage - Damage Blessing": {
+        "id": 66,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.15,
+            1.15
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Life-Fueled Wrath",
+            "pt-br": "Ira Alimentada pela Vida",
+            "zh-cn": "生命之怒"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Life-to-Damage Conversion <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Conversão de Vida para dano <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "生命值转化为伤害的比例：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Shadow Dash - General - Cooldown Blessing": {
+        "id": 73,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.85,
+            0.75
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.75,
+            0.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Shadow Readiness",
+            "pt-br": "Prontidão Sombria",
+            "zh-cn": "暗影蓄势"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑25%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑25%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑25%[x]</style>"
+        }
+    },
+    "Splitshot - General - Damage Blessing": {
+        "id": 74,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Heavy Shot",
+            "pt-br": "Chumbo Grosso",
+            "zh-cn": "重型射击"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Splitshot - General - Attack Speed Blessing": {
+        "id": 76,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.08,
+            1.08
+        ],
+        "magicRollRange": [
+            1.12,
+            1.12
+        ],
+        "rareRollRange": [
+            1.16,
+            1.16
+        ],
+        "epicRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Quick Trigger",
+            "pt-br": "Rápido no Gatilho",
+            "zh-cn": "快速触发"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Reflexes - General - Knife Regen Speed Blessing": {
+        "id": 78,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.85,
+            0.85
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.75,
+            0.75
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Swift Caster",
+            "pt-br": "Conjurador Ágil",
+            "zh-cn": "疾速施法"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Knife Generation Time and Throw Speed <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Tempo de geração e de arremesso de faca <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "飞刀生成时间：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Reflexes - General - Knives Amount Blessing": {
+        "id": 79,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "epicRollRange": [
+            2.0,
+            2.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blade Horde",
+            "pt-br": "Rebanho de Lâminas",
+            "zh-cn": "利刃群袭"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Max Knives <style=\"GreenText\">+2</style>",
+            "pt-br": "Facas Máximas <style=\"GreenText\">+2</style>",
+            "zh-cn": "最大飞刀数：<style=\"GreenText\">+2</style>"
+        }
+    },
+    "Reflexes - General - Increase Duration": {
+        "id": 80,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Enduring Reflexes",
+            "pt-br": "Reflexo Duradouro",
+            "zh-cn": "持久反应加速"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Increase <b>duration</b> by <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Aumenta <b>duração</b> em <color=green>+40%[+]</color>",
+            "zh-cn": "<b>持续时间</b>提高 <style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Reflexes - Battered Sheath - Bounce Amount Blessing": {
+        "id": 84,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Eternal Blade Echo",
+            "pt-br": "Eco das Lâminas Eternas",
+            "zh-cn": "永恒之刃回响"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Knife Bounce Amount <style=\"GreenText\">+1</style>",
+            "pt-br": "Ricocheteio de Facas <style=\"GreenText\">+1</style>",
+            "zh-cn": "飞刀弹射次数：<style=\"GreenText\">+1</style>"
+        }
+    },
+    "Molten Relic - Grenade On Hit - AoE Blessing": {
+        "id": 85,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare",
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Primordial Blast",
+            "pt-br": "Explosão Primordial",
+            "zh-cn": "原始爆破"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Grenade Area of Effect <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Área de Efeito de Granada <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "手雷爆炸范围：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Shadow Dash - General - Distance Blessing": {
+        "id": 88,
+        "basePrice": 300.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Shadow's Reach",
+            "pt-br": "Alcance Sombrio",
+            "zh-cn": "暗影之触"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Dash Distance <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Distância de Deslocamento <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "冲刺距离：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Slow Time - General - AoE Blessing": {
+        "id": 89,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Extended Warp",
+            "pt-br": "Distorção Expandida",
+            "zh-cn": "曲速延展"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Slow Time - General - Intensity Blessing": {
+        "id": 90,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Intense Distortion",
+            "pt-br": "Distorção Intensa",
+            "zh-cn": "强力扭曲"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Slow Debuff Intensity <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Intensidade de Desaceleração <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "减速减益强度：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Slow Time - General - Duration Blessing": {
+        "id": 92,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.25,
+            1.25
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.35,
+            1.35
+        ],
+        "titleLocalizationKey": {
+            "en": "Prolongued Distortion",
+            "pt-br": "Distorção Prolongada",
+            "zh-cn": "延时扭曲"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Duration <style=\"GreenText\">+35%[+]</style>",
+            "pt-br": "Duração <style=\"GreenText\">+35%[+]</style>",
+            "zh-cn": "持续时间：<style=\"GreenText\">+35%[+]</style>"
+        }
+    },
+    "Double Knives - General - Damage Blessing": {
+        "id": 93,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Power of the Gale",
+            "pt-br": "Poder do Vendaval",
+            "zh-cn": "疾风之力"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Double Knives - General - Radius Blessing": {
+        "id": 94,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Vast Whirlwind",
+            "pt-br": "Redemoinho Vasto",
+            "zh-cn": "浩旋风暴"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Double Knives - General - Mana Cost Blessing": {
+        "id": 96,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Efficient Flow",
+            "pt-br": "Fluxo Eficiente",
+            "zh-cn": "刃影流转"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Double Knives - General - Attack Speed Blessing": {
+        "id": 97,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.08,
+            1.08
+        ],
+        "magicRollRange": [
+            1.12,
+            1.12
+        ],
+        "rareRollRange": [
+            1.16,
+            1.16
+        ],
+        "epicRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Frenzied Dance",
+            "pt-br": "Dança Frenética",
+            "zh-cn": "狂刀乱舞"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Double Knives - General - Move Speed Blessing": {
+        "id": 98,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.12,
+            0.12
+        ],
+        "epicRollRange": [
+            0.18,
+            0.18
+        ],
+        "titleLocalizationKey": {
+            "en": "Storm Stride",
+            "pt-br": "Passos de Tormenta",
+            "zh-cn": "暴风疾步"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Movement Speed during spin <style=\"GreenText\">+18%</style>",
+            "pt-br": "Velocidade de Movimento ao girar <style=\"GreenText\">+18%</style>",
+            "zh-cn": "旋转时的移动速度：<style=\"GreenText\">+18%</style>"
+        }
+    },
+    "The Old Bell - General - Radius Blessing": {
+        "id": 99,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Amplified Reverberation",
+            "pt-br": "Ressonância Ampliada",
+            "zh-cn": "增幅回响"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "The Old Bell - General - Damage Blessing": {
+        "id": 100,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Relentless Collapse",
+            "pt-br": "Colapso Implacável",
+            "zh-cn": "无情崩塌"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "The Old Bell - General - Mana Cost Blessing": {
+        "id": 101,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Efficient Reverberation",
+            "pt-br": "Ressonância Eficiente",
+            "zh-cn": "高效回响"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Repeater - General - Damage Blessing": {
+        "id": 103,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Devastating Barrage",
+            "pt-br": "Rajada Devastadora",
+            "zh-cn": "毁灭弹雨"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Repeater - General - Attack Speed Blessing": {
+        "id": 105,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Infernal Barrage",
+            "pt-br": "Rajada Infernal",
+            "zh-cn": "地狱弹雨"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Repeater - General - Mana Cost Blessing": {
+        "id": 106,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.85,
+            0.85
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.75,
+            0.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Firing Efficiency",
+            "pt-br": "Eficiência de Disparo",
+            "zh-cn": "射击效率"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑25%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑25%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑25%[x]</style>"
+        }
+    },
+    "Repeater - General - Critical Chance Blessing": {
+        "id": 108,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.075,
+            0.075
+        ],
+        "epicRollRange": [
+            0.1,
+            0.1
+        ],
+        "titleLocalizationKey": {
+            "en": "Perfect Balance",
+            "pt-br": "Ajuste Perfeito",
+            "zh-cn": "完美平衡"
+        },
+        "effectTypeIcon": "Icon_CriticalChance",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+10%</style>",
+            "pt-br": "Chance de Acerto Crítico <style=\"GreenText\">+10%</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
+        }
+    },
+    "Blunderbuss Powder Bag - Explode Ignite - Damage Blessing": {
+        "id": 109,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare",
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Powerful Detonation",
+            "pt-br": "Detonação Potente",
+            "zh-cn": "强力引爆"
+        },
+        "icon": "Icon_ProjectileSkills",
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Ignited Enemy Explosion Damage <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Dano de explosão em inimigo em Ignição <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "点燃状态下的敌人爆炸时造成的伤害：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Unshakable Faith - Mana to Damage - Damage Blessing": {
+        "id": 110,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.1,
+            1.1
+        ],
+        "epicRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Echo of Spiritual Might",
+            "pt-br": "Eco da Força de Epírito",
+            "zh-cn": "灵息之力回响"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Mana-to-Damage Conversion <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Conversão de Energia para dano <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "法力转化为伤害的比例：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Slow Time - General - Cooldown Blessing": {
+        "id": 111,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Swift Distortion",
+            "pt-br": "Distorção Ágil",
+            "zh-cn": "迅捷扭曲"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Closed Body - Retaliation Aura Damage - Blessing": {
+        "id": 112,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Harsh punishment",
+            "pt-br": "Castigo Severo",
+            "zh-cn": "严酷惩戒"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Retaliation Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano da Retaliação <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "反击伤害：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "The Sacrificed - Life Cost to Damage - Cost Blessing": {
+        "id": 113,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.9,
+            0.9
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Lesser Sacrifice",
+            "pt-br": "Sacrifício Menor",
+            "zh-cn": "小型献祭"
+        },
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Life Cost <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Custo de Vida <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "生命值消耗：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Closed Body - Cooldown - Blessing": {
+        "id": 115,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Iron Will",
+            "pt-br": "Vontade de Ferro",
+            "zh-cn": "钢铁意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Judgement - General - Phys Plague Debuff Intensity": {
+        "id": 116,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.5,
+            1.5
+        ],
+        "epicRollRange": [
+            1.8,
+            1.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Damnation of Flesh",
+            "pt-br": "Condenação da Carne",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Physical/Plague Resist Shred Intensity <style=\"GreenText\">+80%[+]</style>",
+            "pt-br": "Intensidade da quebra de Resistência Física/Tóxica <style=\"GreenText\">+80%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
+        }
+    },
+    "Judgement - General - Fire Lightning Debuff Intensity": {
+        "id": 117,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.5,
+            1.5
+        ],
+        "epicRollRange": [
+            1.8,
+            1.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Elemental Scourge",
+            "pt-br": "Flagelo Elemental",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Fire/Lightning Resist Shred Intensity <style=\"GreenText\">+80%[+]</style>",
+            "pt-br": "Intensidade da quebra de Resistência a Fogo/Elétrico <style=\"GreenText\">+80%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
+        }
+    },
+    "Judgement - General - Status Duration": {
+        "id": 118,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Prolonged Torment",
+            "pt-br": "Tormento Prolongado",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Enemy Resistance Shred Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração da Quebra de Resistência do Inimigo <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Judgement - General - Mana Cost": {
+        "id": 119,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Efficient Damnation",
+            "pt-br": "Condenação Eficiente",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Judgement - General - Radius": {
+        "id": 120,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Spreading Doom",
+            "pt-br": "Perdição Alastrante",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Lasso - General - Radius": {
+        "id": 121,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Far-reaching Lasso",
+            "pt-br": "Laço de Longo Alcance",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Lasso - General - Bleeding Intensity": {
+        "id": 122,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Hemorrhagic Wrath",
+            "pt-br": "Ira Hemorrágica",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Lasso Bleeding Intensity <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Intensidade do Sangramento do Laço <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Lasso - General - Bleeding Duration": {
+        "id": 123,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Lingering Wounds",
+            "pt-br": "Feridas Persistentes",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Bleeding Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração do Sangramento <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Lasso - General - Stun Duration": {
+        "id": 125,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Prolonged Daze",
+            "pt-br": "Atordoamento Prolongado",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Stun Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração do Atordoamento <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Lasso - General - Cooldown": {
+        "id": 126,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Reaping Resurgence",
+            "pt-br": "Ressurgimento da Colheita",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Bombardment - General - Cooldown Blessing": {
+        "id": 127,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Quickening Storm",
+            "pt-br": "Tempestade Acelerada",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">+30%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">+30%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">+30%[x]</style>"
+        }
+    },
+    "Bombardment - General - Damage Blessing": {
+        "id": 128,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Relentless Onslaught",
+            "pt-br": "Ataque Implacável",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Bombardment - General - Duration Blessing": {
+        "id": 129,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Prolonged Storm",
+            "pt-br": "Tempestade Prolongada",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "持续时间：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Bombardment - General - AoE Blessing": {
+        "id": 130,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.05,
+            1.05
+        ],
+        "rareRollRange": [
+            1.15,
+            1.15
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Broader Storm",
+            "pt-br": "Tempestade Ampla",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Bombardment Reach and Explosion AoE <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Alcance do Bombardeio e Raio das Explosões <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Bombardment - General - Frequency Blessing": {
+        "id": 131,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.95,
+            0.95
+        ],
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Overwhelming Barrage",
+            "pt-br": "Bombardeio Avassalador",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Bombardment Frequency <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Frequência do Bombardeio <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Summon The Guard - General - Buff Duration": {
+        "id": 132,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Prolonged Vigil",
+            "pt-br": "Vigília Prolongada",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Guard's Rage Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração do Frenesi da Guarda <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Summon The Guard - General - Cooldown": {
+        "id": 133,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.85,
+            0.85
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.75,
+            0.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Quickened Recall",
+            "pt-br": "Retomada Rápida",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Guard's Rage Cooldown <style=\"GreenText\">+25%[x]</style>",
+            "pt-br": "Tempo de Recarga do Frenesi da Guarda <style=\"GreenText\">+25%[x]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[x]</style>"
+        }
+    },
+    "Summon The Guard - General - Summon Amount": {
+        "id": 134,
+        "basePrice": 0.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Legion of Martyrs",
+            "pt-br": "Legião dos Mártires",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Summoned Spirits <style=\"GreenText\">+1</style>",
+            "pt-br": "Espíritos invocados <style=\"GreenText\">+1</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+1</style>"
+        }
+    },
+    "Summon The Guard - General - Summon Attack Speed": {
+        "id": 135,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Divine Fire",
+            "pt-br": "Fogo Divino",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Catholic Guard Attack Speed <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Velocidade de ataque da Guarda Católica <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Summon The Guard - General - Summon Damage": {
+        "id": 136,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Celestial Impact",
+            "pt-br": "Impacto Celestial",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Catholic Guard Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano da Guarda Católica <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Matadeira - General - Damage": {
+        "id": 137,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Republican's Ruin",
+            "pt-br": "Ruína dos Republicanos",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Matadeira - General - Radius": {
+        "id": 139,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.1,
+            1.1
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Expansive Blast",
+            "pt-br": "Explosão Abrangente",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Matadeira - General - Anticipation Duration": {
+        "id": 140,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.6,
+            0.6
+        ],
+        "titleLocalizationKey": {
+            "en": "Haste of Retribution",
+            "pt-br": "Presteza da Retribuição",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Impact Delay <style=\"GreenText\">‑40%[x]</style>",
+            "pt-br": "Atraso no Impacto <style=\"GreenText\">‑40%[x]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">‑40%[x]</style>"
+        }
+    },
+    "Matadeira - General - Cooldown": {
+        "id": 141,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Quickened Cannon",
+            "pt-br": "Canhão Acelerado",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">+30%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">+30%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">+30%[x]</style>"
+        }
+    },
+    "Matadeira - General - DotDuration": {
+        "id": 142,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Inferno's Aftermath",
+            "pt-br": "Resquícios do Inferno",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Ignited Area Duration <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Duração da Área Incendiada <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Veil of Quills - General - Damage": {
+        "id": 143,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Ethereal Onslaught",
+            "pt-br": "Devastação Etérea",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Veil of Quills - General - Projectile Amount": {
+        "id": 144,
+        "basePrice": 300.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            2.0,
+            2.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Spectral Deluge",
+            "pt-br": "Dilúvio Espectral",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Quill Amount <style=\"GreenText\">+2</style>",
+            "pt-br": "Quantidade de Plumas <style=\"GreenText\">+2</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+2</style>"
+        }
+    },
+    "Veil of Quills - General - Projectile Speed": {
+        "id": 145,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.35,
+            1.35
+        ],
+        "titleLocalizationKey": {
+            "en": "Accelerated Quills",
+            "pt-br": "Plumas Aceleradas",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_ProjectileSkills",
+        "description": {
+            "en": "Quill Velocity <style=\"GreenText\">+35%[+]</style>",
+            "pt-br": "Velocidade das Pulmas <style=\"GreenText\">+35%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
+        }
+    },
+    "Veil of Quills - General - Mana Cost": {
+        "id": 146,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Spiritual Flow",
+            "pt-br": "Fluxo Espiritual",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Veil of Quills - General - Attack Speed": {
+        "id": 147,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Phantom Frenzy",
+            "pt-br": "Frenezi Fantasmagórico",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Holy Rosary - General - Damage": {
+        "id": 148,
+        "basePrice": 300.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Fervent Assault",
+            "pt-br": "Ataque Fervoroso",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Holy Rosary - General - Projectile Speed": {
+        "id": 149,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Haste of the Faithful",
+            "pt-br": "Aceleração dos Fiéis",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_ProjectileSkills",
+        "description": {
+            "en": "Projectile Speed <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Velocidade de Projétil <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "投射物速度：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Holy Rosary - General - Projectile Duration": {
+        "id": 150,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.35,
+            1.35
+        ],
+        "titleLocalizationKey": {
+            "en": "Lasting Faith",
+            "pt-br": "Fé Duradoura",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Projectile Duration <style=\"GreenText\">+35%[+]</style>",
+            "pt-br": "Duração do Projétil <style=\"GreenText\">+35%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
+        }
+    },
+    "Holy Rosary - General - Mana Cost": {
+        "id": 151,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.9,
+            0.9
+        ],
+        "rareRollRange": [
+            0.85,
+            0.85
+        ],
+        "epicRollRange": [
+            0.8,
+            0.8
+        ],
+        "titleLocalizationKey": {
+            "en": "Frugal Benediction",
+            "pt-br": "Bendição Frugal",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑20%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑20%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
+        }
+    },
+    "Holy Rosary - General - Attack Speed": {
+        "id": 152,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.08,
+            1.08
+        ],
+        "magicRollRange": [
+            1.12,
+            1.12
+        ],
+        "rareRollRange": [
+            1.16,
+            1.16
+        ],
+        "epicRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Fervent Assault",
+            "pt-br": "Ataque Fervoroso",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Repeater - General - Critical Damage Blessing": {
+        "id": 153,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.3,
+            0.3
+        ],
+        "magicRollRange": [
+            0.4,
+            0.4
+        ],
+        "rareRollRange": [
+            0.5,
+            0.5
+        ],
+        "epicRollRange": [
+            0.6,
+            0.6
+        ],
+        "titleLocalizationKey": {
+            "en": "Deadshot",
+            "pt-br": "Tiro Mortal",
+            "zh-cn": "百发百中"
+        },
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Increase <b>Critical Damage</b> by <style=\"GreenText\">+60%</style>",
+            "pt-br": "Aumenta <b>Dano Crítico</b> em <style=\"GreenText\">+60%</style>",
+            "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">+60%</style>"
+        }
+    },
+    "Shadow Dash - General - Width Blessing": {
+        "id": 154,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Shadow's Grasp",
+            "pt-br": "Sombra Expandida",
+            "zh-cn": "暗影之握"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "The Old Bell - General - Critical Damage Blessing": {
+        "id": 155,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            0.2,
+            0.2
+        ],
+        "magicRollRange": [
+            0.3,
+            0.3
+        ],
+        "rareRollRange": [
+            0.4,
+            0.4
+        ],
+        "epicRollRange": [
+            0.5,
+            0.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Soul Shatter",
+            "pt-br": "Quebra Almas",
+            "zh-cn": "灵魂碎裂"
+        },
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Increase <b>Critical Damage</b> by <style=\"GreenText\">+50%</style>",
+            "pt-br": "Aumenta <b>Dano Crítico</b> em <style=\"GreenText\">+50%</style>",
+            "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">+50%</style>"
+        }
+    },
+    "Shadow Dash - General - Speed Blessing": {
+        "id": 156,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.25,
+            1.25
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Shadow's Haste",
+            "pt-br": "Sombra Célere",
+            "zh-cn": "暗影之疾"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Dash Speed <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Velocidade de Deslocamento <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "冲刺速度 <style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Closed Body - Conviction Gain - Blessing": {
+        "id": 157,
+        "basePrice": 300.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.15,
+            1.15
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Conviction Surge",
+            "pt-br": "Surto de Convicção",
+            "zh-cn": "信念激增"
+        },
+        "effectTypeIcon": "Icon_Conviction_Gain",
+        "description": {
+            "en": "Conviction Gain on Activation <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Ganho de Convicção na Ativação <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Closed Body - Retaliation Aura Duration - Blessing": {
+        "id": 158,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.25,
+            1.25
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Lingering Resolve",
+            "pt-br": "Determinação Duradoura",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Retaliation Aura Duration <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Duração da Aura de Retaliação <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Closed Body - Retaliation Aura Radius - Blessing": {
+        "id": 159,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Expanding Retribution",
+            "pt-br": "Retribuição Expansiva",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Closed Body - Retaliation Aura Decay Resistance - Blessing": {
+        "id": 160,
+        "basePrice": 300.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.15,
+            1.15
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Unyielding Vigil",
+            "pt-br": "Vigília Inabalável",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Conviction_Resilience",
+        "description": {
+            "en": "Conviction Decay Resistance <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Resistência à Deterioração da Convicção <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Precision 2 - Critical Chance- Stat Blessing": {
+        "id": 161,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision II",
+            "pt-br": "Benção da Precisão II",
+            "zh-cn": "精准祝福 II"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+20%[+]</style>\r\n",
+            "pt-br": "Chance Crítica <style=\"GreenText\">+20%[+]</style>\r\n",
+            "zh-cn": "暴击几率 <style=\"GreenText\">+20%[+] </style>\r\n"
+        }
+    },
+    "Precision 3 - Critical Chance - Stat Blessing": {
+        "id": 162,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision III",
+            "pt-br": "Benção da Precisão III",
+            "zh-cn": "精准祝福 III"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+30%[+]</style>\r\n",
+            "pt-br": "Chance Crítica <style=\"GreenText\">+30%[+]</style>\r\n",
+            "zh-cn": "暴击几率 <style=\"GreenText\">+30%[+] </style>\r\n"
+        }
+    },
+    "Precision 3 - Critical Damage - Stat Blessing": {
+        "id": 163,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision III",
+            "pt-br": "Benção da Precisão III",
+            "zh-cn": "精准祝福 III"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Damage <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Dano Crítico <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "暴击伤害 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Precision 3 - Critical Chance and Damage - Stat Blessing": {
+        "id": 164,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision III",
+            "pt-br": "Benção da Precisão III",
+            "zh-cn": "精准祝福 III"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Damage <style=\"GreenText\">+25%[+]</style>\r\nCritical Hit Chance <style=\"GreenText\">+25%[+]</style>\r\n",
+            "pt-br": "Dano Crítico <style=\"GreenText\">+25%[+]</style>\r\nChance Crítica <style=\"GreenText\">+25%[+]</style>\r\n",
+            "zh-cn": "暴击伤害 <style=\"GreenText\">+25%[+] </style>\r\n暴击几率 <style=\"GreenText\">+25%[+] </style>\r\n"
+        }
+    },
+    "Precision 3 - Projectile Skill Damage - Skill Blessing": {
+        "id": 165,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision III",
+            "pt-br": "Benção da Precisão III",
+            "zh-cn": "精准祝福 III"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Increase all Projectile skill damage by <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Aumenta todo dano de habilidade de Projétil em <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "PrecisionFoundationProjectileDamageBlessing&<+50%[+]"
+        }
+    },
+    "Precision 4 - Critical Damage - Stat Blessing": {
+        "id": 166,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision IV",
+            "pt-br": "Benção da Precisão IV",
+            "zh-cn": "精准祝福 IV"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hit Damage <style=\"GreenText\">+40%</style>\r\n",
+            "pt-br": "Dano Crítico <style=\"GreenText\">+40%</style>\r\n",
+            "zh-cn": "暴击伤害 <style=\"GreenText\">+40% </style>\r\n"
+        }
+    },
+    "Precision 4 - Critical Hits Increase Crit Chance - Skill Blessing": {
+        "id": 167,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.045,
+            1.045
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision IV",
+            "pt-br": "Benção da Precisão IV",
+            "zh-cn": "精准祝福 IV"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Critical Hits increase Crit Chance by <style=\"GreenText\">+4.5%[+]</style> for 3s. Stacks up to 10 times.",
+            "pt-br": "Acertos Críticos aumentam a Chance de Crítico em <style=\"GreenText\">+4,5%[+]</style> por 3s. Acumula até 10 vezes.",
+            "zh-cn": "PrecisionFoundationCritChanceBuffBlessing&<+4.5%[+]"
+        }
+    },
+    "Precision 4 - Projectile Amount - Stat Blessing": {
+        "id": 168,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Precision IV",
+            "pt-br": "Benção da Precisão IV",
+            "zh-cn": "精准祝福 IV"
+        },
+        "icon": "Icon_CriticalDamage",
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Skill Projectile Amount <style=\"GreenText\">+100%</style>\r\nDamage <style=\"GreenText\">‑30%[x]</style>\r\n",
+            "pt-br": "Número de Projéteis de Habilidade <style=\"GreenText\">+100%</style>\r\nDano <style=\"GreenText\">‑30%[x]</style>\r\n",
+            "zh-cn": "技能投射物数量 <style=\"GreenText\">+100% </style>\r\n伤害 <style=\"GreenText\">‑30%[x] </style>\r\n"
+        }
+    },
+    "Lethality 1 - Phys Damage - Stat Blessing": {
+        "id": 169,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality I",
+            "pt-br": "Benção da Letalidade I",
+            "zh-cn": "致命祝福 I"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Physical Damage <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Dano Físico <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "物理伤害 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Lethality 2 - Melee Damage - Stat Blessing": {
+        "id": 170,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality II",
+            "pt-br": "Benção da Letalidade II",
+            "zh-cn": "致命祝福 II"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Skill Melee Damage <style=\"GreenText\">+25%</style>\r\n",
+            "pt-br": "Dano de Habilidade Corpo-A-Corpo  <style=\"GreenText\">+25%</style>\r\n",
+            "zh-cn": "技能近战伤害 <style=\"GreenText\">+25% </style>\r\n"
+        }
+    },
+    "Lethality 2 - Phys Damage - Stat Blessing": {
+        "id": 171,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality II",
+            "pt-br": "Benção da Letalidade II",
+            "zh-cn": "致命祝福 II"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Physical Damage <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Dano Físico <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "物理伤害 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Lethality 3 - Phys Damage - Stat Blessing": {
+        "id": 172,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality III",
+            "pt-br": "Benção da Letalidade III",
+            "zh-cn": "致命祝福 III"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_Physical_Resistance_Base",
+        "description": {
+            "en": "Physical Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano Físico <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "物理伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Lethality 3 - Bleed Damage - Stat Blessing": {
+        "id": 173,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality III",
+            "pt-br": "Benção da Letalidade III",
+            "zh-cn": "致命祝福 III"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Bleed Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano de Sangramento <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "流血伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Lethality 3 - Melee Damage - Stat Blessing": {
+        "id": 174,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality III",
+            "pt-br": "Benção da Letalidade III",
+            "zh-cn": "致命祝福 III"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Skill Melee Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano de Habilidade Corpo-A-Corpo  <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "技能近战伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Lethality 3 - Melee AoE - Skill Blessing": {
+        "id": 175,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality III",
+            "pt-br": "Benção da Letalidade III",
+            "zh-cn": "致命祝福 III"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Increase all melee skills AoE by <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Aumenta a área de todas as habilidades Corpo-a-Corpo em <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "LethalityFoundationMeleeAoeBlessing&<+30%[+]"
+        }
+    },
+    "Lethality 4 - Melee Damage - Stat Blessing": {
+        "id": 176,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality IV",
+            "pt-br": "Benção da Letalidade IV",
+            "zh-cn": "致命祝福 IV"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Skill Melee Damage <style=\"GreenText\">+50%</style>\r\n",
+            "pt-br": "Dano de Habilidade Corpo-A-Corpo  <style=\"GreenText\">+50%</style>\r\n",
+            "zh-cn": "技能近战伤害 <style=\"GreenText\">+50% </style>\r\n"
+        }
+    },
+    "Lethality 4 - Bleed Duration - Stat Blessing": {
+        "id": 177,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality IV",
+            "pt-br": "Benção da Letalidade IV",
+            "zh-cn": "致命祝福 IV"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Bleed Duration <style=\"GreenText\">+1</style>\r\n",
+            "pt-br": "Duração de Sangramento <style=\"GreenText\">+1</style>\r\n",
+            "zh-cn": "流血持续时间 <style=\"GreenText\">+1 </style>\r\n"
+        }
+    },
+    "Lethality 4 - Hits Reduce Phys Res - Skill Blessing": {
+        "id": 178,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Lethality IV",
+            "pt-br": "Benção da Letalidade IV",
+            "zh-cn": "致命祝福 IV"
+        },
+        "icon": "Icon_PhysicalDamage_Base",
+        "effectTypeIcon": "Icon_PhysicalDamage_Base",
+        "description": {
+            "en": "Hits reduce Physical Resistance by 20%",
+            "pt-br": "Acertos reduzem a Resistência Física em <style=\"GreenText\">20%</style>",
+            "zh-cn": "LethalityFoundationHitsReducePhysResBlessing&<20%"
+        }
+    },
+    "Alacrity 1 - Move Speed - Stat Blessing": {
+        "id": 179,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity I",
+            "pt-br": "Benção da Alacridade I",
+            "zh-cn": "敏捷祝福 I"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Move Speed <style=\"GreenText\">+7%</style>\r\n",
+            "pt-br": "Movimento <style=\"GreenText\">+7%</style>\r\n",
+            "zh-cn": "移动速度 <style=\"GreenText\">+7% </style>\r\n"
+        }
+    },
+    "Constitution 1 - Life - Stat Blessing": {
+        "id": 180,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution I",
+            "pt-br": "Benção da Constituição I",
+            "zh-cn": "宪法祝福 I"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Life <style=\"GreenText\">+15%[+]</style>\r\n",
+            "pt-br": "Vida <style=\"GreenText\">+15%[+]</style>\r\n",
+            "zh-cn": "生命 <style=\"GreenText\">+15%[+] </style>\r\n"
+        }
+    },
+    "Force 1 - Elemental Damage - Stat Blessing": {
+        "id": 181,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force I",
+            "pt-br": "Benção da Força I",
+            "zh-cn": "力量祝福 I"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Elemental Damage <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Dano Elemental <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "元素伤害 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Spirit 1 - Mana - Stat Blessing": {
+        "id": 182,
+        "basePrice": 600.0,
+        "supportedRarities": "Common",
+        "commonRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit I",
+            "pt-br": "Benção do Espírito I",
+            "zh-cn": "圣灵的祝福 I"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana <style=\"GreenText\">+15%[+]</style>\r\n",
+            "pt-br": "Energia <style=\"GreenText\">+15%[+]</style>\r\n",
+            "zh-cn": "法力值 <style=\"GreenText\">+15%[+] </style>\r\n"
+        }
+    },
+    "Force 2 - Elemental Ailment Duration - Stat Blessing": {
+        "id": 183,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force II",
+            "pt-br": "Benção da Força II",
+            "zh-cn": "力量祝福 II"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Elemental Ailment Duration <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Duração de Condições Elementais <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "元素异常状态持续时间 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 2 - Spell Damage - Stat Blessing": {
+        "id": 184,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force II",
+            "pt-br": "Benção da Força II",
+            "zh-cn": "力量祝福 II"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Elemental Damage <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Dano Elemental <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Force 4 - AoE - Stat Blessing": {
+        "id": 185,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Skill Area of Effect <style=\"GreenText\">+40%</style>\r\n",
+            "pt-br": "Área de Efeito de Magias <style=\"GreenText\">+40%</style>\r\n",
+            "zh-cn": "技能效果范围 <style=\"GreenText\">+40% </style>\r\n"
+        }
+    },
+    "Force 3 - Ignite Damage - Stat Blessing": {
+        "id": 186,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Ignite Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano de Ignição <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "点燃伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 3 - Elemental Ailment Duration - Stat Blessing": {
+        "id": 187,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Elemental Ailment Duration <style=\"GreenText\">+50%</style>\r\n",
+            "pt-br": "Duração de Condições Elementais <style=\"GreenText\">+50%</style>\r\n",
+            "zh-cn": "元素异常状态持续时间 <style=\"GreenText\">+50% </style>\r\n"
+        }
+    },
+    "Force 3 - Fire Damage - Stat Blessing": {
+        "id": 188,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Fire Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano Ígneo <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "火焰伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 3 - Lightning Damage - Stat Blessing": {
+        "id": 189,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Lightning Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano Elétrico <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "闪电伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 3 - Plague Damage - Stat Blessing": {
+        "id": 190,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Plague Damage <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Dano Tóxico <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "瘟疫伤害 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 3 - AoE - Stat Blessing": {
+        "id": 191,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Skill Area of Effect <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Área de Efeito de Magias <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "技能效果范围 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Force 2 - AoE Skills Damage - Skill Blessing": {
+        "id": 192,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force II",
+            "pt-br": "Benção da Força II",
+            "zh-cn": "力量祝福 II"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Increase damage of Area of Effect skills by <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Aumenta o dano de habilidades de Área de Efeito em <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "ForceFoundationAoeSkillsDamageBlessing&<+25%[+]"
+        }
+    },
+    "Force 3 - Elemental Damage - Stat Blessing": {
+        "id": 193,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force III",
+            "pt-br": "Benção da Força III",
+            "zh-cn": "力量祝福 III"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Elemental Damage <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Dano Elemental <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Force 4 - Ignite Duration - Stat Blessing": {
+        "id": 194,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Ignite Duration <style=\"GreenText\">+100%[+]</style>\r\n",
+            "pt-br": "Duração de Ignição <style=\"GreenText\">+100%[+]</style>\r\n",
+            "zh-cn": "点燃持续时间 <style=\"GreenText\">+100%[+] </style>\r\n"
+        }
+    },
+    "Force 4 - Shock and Blight Intensity - Stat Blessing": {
+        "id": 195,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Shock Intensity <style=\"GreenText\">+50%[+]</style>\r\nBlight Intensity <style=\"GreenText\">+50%[+]</style>\r\n",
+            "pt-br": "Intensidade de Choque <style=\"GreenText\">+50%[+]</style>\r\nIntensidade de Contaminação <style=\"GreenText\">+50%[+]</style>\r\n",
+            "zh-cn": "触电强度 <style=\"GreenText\">+50%[+] </style>\r\n枯疫强度 <style=\"GreenText\">+50%[+] </style>\r\n"
+        }
+    },
+    "Force 4 - Wither Buildup - Stat Blessing": {
+        "id": 196,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Wither Buildup Rate <style=\"GreenText\">+25%</style>\r\n",
+            "pt-br": "Taxa de Aplicação de Decrepitar <style=\"GreenText\">+25%</style>\r\n",
+            "zh-cn": "衰竭积蓄速率 <style=\"GreenText\">+25% </style>\r\n"
+        }
+    },
+    "Force 4 - Hits Reduce Fire Res - Skill Blessing": {
+        "id": 197,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Hits reduce Fire Resistance by <style=\"GreenText\">20%</style>",
+            "pt-br": "Acertos reduzem a Resistência a Fogo em <style=\"GreenText\">20%</style>",
+            "zh-cn": "ForceFoundationFireResShredBlessing&<20%"
+        }
+    },
+    "Force 4 - Hits Reduce Lightning Res - Skill Blessing": {
+        "id": 198,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Hits reduce Lightning Resistance by <style=\"GreenText\">20%</style>",
+            "pt-br": "Acertos reduzem a Resistência Elétrica em <style=\"GreenText\">20%</style>",
+            "zh-cn": "ForceFoundationLightningResShredBlessing&<20%"
+        }
+    },
+    "Force 4 - Hits Reduce Plague Res - Skill Blessing": {
+        "id": 199,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Hits reduce Plague Resistance by <style=\"GreenText\">20%</style>",
+            "pt-br": "Acertos reduzem a Resistência a Praga em <style=\"GreenText\">20%</style>",
+            "zh-cn": "ForceFoundationPlagueResShredBlessing&<20%"
+        }
+    },
+    "Force 4 - Hits Reduce Other Elemental Res - Skill Blessing": {
+        "id": 200,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Force IV",
+            "pt-br": "Benção da Força IV",
+            "zh-cn": "力量祝福 IV"
+        },
+        "icon": "Icon_BlessedGear_Base",
+        "effectTypeIcon": "Icon_BlessedGear_Base",
+        "description": {
+            "en": "Hits with Elemental damage reduce resistances to all other Elemental types by <style=\"GreenText\">20%</style>",
+            "pt-br": "Acertos com dano Elemental reduzem todas as outras Resistências elementais em <style=\"GreenText\">20%</style>",
+            "zh-cn": "ForceFoundationOtherElementalResShredBlessing&<20%"
+        }
+    },
+    "Constitution 2 - Life - Stat Blessing": {
+        "id": 201,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution II",
+            "pt-br": "Benção da Constituição II",
+            "zh-cn": "宪法祝福 II"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Life <style=\"GreenText\">+20%[+]</style>\r\n",
+            "pt-br": "Vida <style=\"GreenText\">+20%[+]</style>\r\n",
+            "zh-cn": "生命 <style=\"GreenText\">+20%[+] </style>\r\n"
+        }
+    },
+    "Constitution 2 - Life Regen - Stat Blessing": {
+        "id": 202,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution II",
+            "pt-br": "Benção da Constituição II",
+            "zh-cn": "宪法祝福 II"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Life Regeneration <style=\"GreenText\">+3%</style>\r\n",
+            "pt-br": "Regeneração de Vida <style=\"GreenText\">+3%</style>\r\n",
+            "zh-cn": "生命再生 <style=\"GreenText\">+3% </style>\r\n"
+        }
+    },
+    "Constitution 3 - Phys Res - Stat Blessing": {
+        "id": 203,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution III",
+            "pt-br": "Benção da Constituição III",
+            "zh-cn": "宪法祝福 III"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Physical Resistance <style=\"GreenText\">+12%</style>\r\n",
+            "pt-br": "Resistência Física <style=\"GreenText\">+12%</style>\r\n",
+            "zh-cn": "物理抗性 <style=\"GreenText\">+12% </style>\r\n"
+        }
+    },
+    "Constitution 3 - Life - Stat Blessing": {
+        "id": 204,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution III",
+            "pt-br": "Benção da Constituição III",
+            "zh-cn": "宪法祝福 III"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Life <style=\"GreenText\">+30%[+]</style>\r\n",
+            "pt-br": "Vida <style=\"GreenText\">+30%[+]</style>\r\n",
+            "zh-cn": "生命 <style=\"GreenText\">+30%[+] </style>\r\n"
+        }
+    },
+    "Constitution 3 - Max Potion - Stat Blessing": {
+        "id": 205,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution III",
+            "pt-br": "Benção da Constituição III",
+            "zh-cn": "宪法祝福 III"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Potion Capacity <style=\"GreenText\">+1</style>\r\n",
+            "pt-br": "Limite de Poções <style=\"GreenText\">+1</style>\r\n",
+            "zh-cn": "药水容量 <style=\"GreenText\">+1 </style>\r\n"
+        }
+    },
+    "Constitution 3 - Life on Kill - Skill Blessing": {
+        "id": 206,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            0.015,
+            0.015
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution III",
+            "pt-br": "Benção da Constituição III",
+            "zh-cn": "宪法祝福 III"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Heal <style=\"GreenText\">1.5%</style> Life on Kill",
+            "pt-br": "Cure <style=\"GreenText\">1,5%</style> de Vida ao matar",
+            "zh-cn": "击杀后恢复 <style=\"GreenText\">1.5% 生命值"
+        }
+    },
+    "Constitution 4 - Life on Hit Elites - Skill Blessing": {
+        "id": 207,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.03,
+            0.03
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution IV",
+            "pt-br": "Benção da Constituição IV",
+            "zh-cn": "宪法祝福 IV"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Heal <style=\"GreenText\">3%</style> Life when you hit Elites (cooldown: 1s)",
+            "pt-br": "Cure <style=\"GreenText\">3%</style> de Vida ao acertar Elites (Recarga: 1s)",
+            "zh-cn": "ConstitutionFoundationLifeOnHitElitesBlessing&<3%"
+        }
+    },
+    "Constitution 4 - Lifesteal Potion CD - Skill Blessing": {
+        "id": 208,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.01,
+            0.01
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution IV",
+            "pt-br": "Benção da Constituição IV",
+            "zh-cn": "宪法祝福 IV"
+        },
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Gain <style=\"GreenText\">1%</style> Global Lifesteal",
+            "pt-br": "Ganhe <style=\"GreenText\">1%</style> de Roubo De Vida Global",
+            "zh-cn": "获得<style=\"GreenText\">1% 全局吸血"
+        }
+    },
+    "Constitution 4 - Endurance - Stat Blessing": {
+        "id": 209,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution IV",
+            "pt-br": "Benção da Constituição IV",
+            "zh-cn": "宪法祝福 IV"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Endurance <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Persistência <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "耐力 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Constitution 4 - Life to Melee Damage - Skill Blessing": {
+        "id": 210,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.025,
+            0.025
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Constitution IV",
+            "pt-br": "Benção da Constituição IV",
+            "zh-cn": "宪法祝福 IV"
+        },
+        "icon": "Icon_Life_Base",
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Gain additional damage to Melee skills equal to <style=\"GreenText\">2.5%</style> of your current Life",
+            "pt-br": "Adicione mais dano a habilidades Corpo-a-Corpo equivalente a <style=\"GreenText\">2,5%</style> de sua Vida atual",
+            "zh-cn": "ConstitutionFoundationLifeToMeleeDamageBlessing&<2.5%"
+        }
+    },
+    "Alacrity 4 - Move Speed on No Damage - Passive Skill Blessing": {
+        "id": 211,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity IV",
+            "pt-br": "Benção da Alacridade IV",
+            "zh-cn": "欣欣祝福 IV"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "+15% MoveSpeed if you haven't taken damage in the last 4s",
+            "pt-br": "+15% de Velocidade de Movimento se não recebeu dano nos últimos 4s",
+            "zh-cn": "如果你在过去 4 秒内没有受到伤害，则移动速度 +15%"
+        }
+    },
+    "Alacrity 2 - Attack Speed - Stat Blessing": {
+        "id": 212,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity II",
+            "pt-br": "Benção da Alacridade II",
+            "zh-cn": "欣欣祝福 II"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Attack Speed <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Vel. de Ataque <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "攻击速度 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Alacrity 2 - Evasion - Stat Blessing": {
+        "id": 213,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity II",
+            "pt-br": "Benção da Alacridade II",
+            "zh-cn": "欣欣祝福 II"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Evasion <style=\"GreenText\">+10%</style>\r\n",
+            "pt-br": "Evasão <style=\"GreenText\">+10%</style>\r\n",
+            "zh-cn": "闪避 <style=\"GreenText\">+10% </style>\r\n"
+        }
+    },
+    "Alacrity 3 - Evasion - Stat Blessing": {
+        "id": 214,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity III",
+            "pt-br": "Benção da Alacridade III",
+            "zh-cn": "欣欣祝福 III"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Evasion <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Evasão <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "闪避 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Alacrity 4 - Speed on Evade - Skill Blessing": {
+        "id": 215,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.2,
+            0.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity IV",
+            "pt-br": "Benção da Alacridade IV",
+            "zh-cn": "欣欣祝福 IV"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Gain <style=\"GreenText\">+20%</style> Move Speed and Attack Speed for 3s after you Evade an attack",
+            "pt-br": "Ganhe <style=\"GreenText\">+20%</style> de Velocidade de Movimento e de Ataque por 3s após Evadir um ataque",
+            "zh-cn": "AlacrityFoundationSpeedOnEvadeBlessing&<+20%"
+        }
+    },
+    "Alacrity 3 - Attack Speed - Stat Blessing": {
+        "id": 216,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity III",
+            "pt-br": "Benção da Alacridade III",
+            "zh-cn": "欣欣祝福 III"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Attack Speed <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Vel. de Ataque <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "攻击速度 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Alacrity 4 - Attack Speed - Stat Blessing": {
+        "id": 217,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity IV",
+            "pt-br": "Benção da Alacridade IV",
+            "zh-cn": "欣欣祝福 IV"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Attack Speed <style=\"GreenText\">+100%</style>\r\nBase Damage <style=\"GreenText\">‑40%[+]</style>\r\n",
+            "pt-br": "Vel. de Ataque <style=\"GreenText\">+100%</style>\r\nDano Base <style=\"GreenText\">‑40%[+]</style>\r\n",
+            "zh-cn": "攻击速度 <style=\"GreenText\">+100% </style>\r\n基础伤害值 <style=\"GreenText\">‑40%[+] </style>\r\n"
+        }
+    },
+    "Alacrity 3 - Move Speed - Stat Blessing": {
+        "id": 218,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Alacrity III",
+            "pt-br": "Benção da Alacridade III",
+            "zh-cn": "欣欣祝福 III"
+        },
+        "icon": "Icon_MoveSpeed_Base",
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Move Speed <style=\"GreenText\">+10%</style>\r\n",
+            "pt-br": "Movimento <style=\"GreenText\">+10%</style>\r\n",
+            "zh-cn": "移动速度 <style=\"GreenText\">+10% </style>\r\n"
+        }
+    },
+    "Spirit 2 - CDR - Stat Blessing": {
+        "id": 219,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit II",
+            "pt-br": "Benção do Espírito II",
+            "zh-cn": "圣灵祝福 II"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Cooldown Speed <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Vel. de Recarga <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "冷却速度 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Spirit 2 - Mana Regen - Stat Blessing": {
+        "id": 220,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit II",
+            "pt-br": "Benção do Espírito II",
+            "zh-cn": "圣灵祝福 II"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Regeneration <style=\"GreenText\">+30%[+]</style>\r\n",
+            "pt-br": "Regen. de Energia <style=\"GreenText\">+30%[+]</style>\r\n",
+            "zh-cn": "法力再生 <style=\"GreenText\">+30%[+] </style>\r\n"
+        }
+    },
+    "Spirit 2 - Conviction Gain - Stat Blessing": {
+        "id": 221,
+        "basePrice": 600.0,
+        "supportedRarities": "Magic",
+        "magicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit II",
+            "pt-br": "Benção do Espírito II",
+            "zh-cn": "圣灵祝福 II"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Conviction Gain <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Ganho de Convicção <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "信念获取 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Spirit 3 - CDR - Stat Blessing": {
+        "id": 222,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit III",
+            "pt-br": "Benção do Espírito III",
+            "zh-cn": "圣灵祝福 III"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Cooldown Speed <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Vel. de Recarga <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "冷却速度 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Spirit 3 - Mana Cost - Stat Blessing": {
+        "id": 223,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit III",
+            "pt-br": "Benção do Espírito III",
+            "zh-cn": "圣灵祝福 III"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Skill Mana Cost <style=\"GreenText\">‑10%</style>\r\n",
+            "pt-br": "Custo Geral de Energia <style=\"GreenText\">‑10%</style>\r\n",
+            "zh-cn": "技能法力消耗 <style=\"GreenText\">‑10% </style>\r\n"
+        }
+    },
+    "Spirit 3 - Mana - Stat Blessing": {
+        "id": 224,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit III",
+            "pt-br": "Benção do Espírito III",
+            "zh-cn": "圣灵祝福 III"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana <style=\"GreenText\">+25%[+]</style>\r\n",
+            "pt-br": "Energia <style=\"GreenText\">+25%[+]</style>\r\n",
+            "zh-cn": "法力值 <style=\"GreenText\">+25%[+] </style>\r\n"
+        }
+    },
+    "Spirit 3 - Conviction Decay Resistance - Stat Blessing": {
+        "id": 225,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit III",
+            "pt-br": "Benção do Espírito III",
+            "zh-cn": "圣灵祝福 III"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Conv. Decay Resistance <style=\"GreenText\">+15%</style>\r\n",
+            "pt-br": "Resist. ao Decaimento <style=\"GreenText\">+15%</style>\r\n",
+            "zh-cn": "信念减弱抗性 <style=\"GreenText\">+15% </style>\r\n"
+        }
+    },
+    "Spirit 3 - Conviction Gain - Stat Blessing": {
+        "id": 226,
+        "basePrice": 600.0,
+        "supportedRarities": "Rare",
+        "rareRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit III",
+            "pt-br": "Benção do Espírito III",
+            "zh-cn": "圣灵祝福 III"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Conviction Gain <style=\"GreenText\">+30%</style>\r\n",
+            "pt-br": "Ganho de Convicção <style=\"GreenText\">+30%</style>\r\n",
+            "zh-cn": "信念获取 <style=\"GreenText\">+30% </style>\r\n"
+        }
+    },
+    "Spirit 4 - Conviction from Mana - Stat Blessing": {
+        "id": 227,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit IV",
+            "pt-br": "Benção do Espírito IV",
+            "zh-cn": "圣灵祝福 IV"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Conv. from Mana Spent <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Conv. por Energia Gasta <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "法力消耗转化 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Spirit 4 - Mana Shield - Stat Blessing": {
+        "id": 228,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit IV",
+            "pt-br": "Benção do Espírito IV",
+            "zh-cn": "圣灵祝福 IV"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Mana Shield <style=\"GreenText\">+20%</style>\r\n",
+            "pt-br": "Escudo de Energia <style=\"GreenText\">+20%</style>\r\n",
+            "zh-cn": "法力护盾 <style=\"GreenText\">+20% </style>\r\n"
+        }
+    },
+    "Spirit 4 - Cooldown On Kill - Skill Blessing": {
+        "id": 229,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.02,
+            0.02
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit IV",
+            "pt-br": "Benção do Espírito IV",
+            "zh-cn": "圣灵祝福 IV"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Reduce all skills cooldown by <style=\"GreenText\">+2%</style> on Kill",
+            "pt-br": "Reduz o Tempo de Recarga de todas as habilidades em <style=\"GreenText\">+2%</style> ao matar",
+            "zh-cn": "SpiritFoundationCooldownOnKillBlessing&<+2%"
+        }
+    },
+    "Spirit 4 - Mana to Spell Damage - Skill Blessing": {
+        "id": 230,
+        "basePrice": 600.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            0.02,
+            0.02
+        ],
+        "titleLocalizationKey": {
+            "en": "Blessing of Spirit IV",
+            "pt-br": "Benção do Espírito IV",
+            "zh-cn": "圣灵祝福 IV"
+        },
+        "icon": "Icon_Mana_Base",
+        "effectTypeIcon": "Icon_Mana_Base",
+        "description": {
+            "en": "Add more damage to Spells, equal to <style=\"GreenText\">+2%</style> of your current Mana",
+            "pt-br": "Adicione mais dano a habilidades de Magia equivalente a <style=\"GreenText\">+2%</style> de sua Energia atual",
+            "zh-cn": "SpiritFoundationManaToSpellDamageBlessing&<+2%"
+        }
+    },
+    "Veil of Quills - Feathered Dagger - Projectile Life Time": {
+        "id": 231,
+        "basePrice": 300.0,
+        "supportedRarities": "Magic, Rare",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Enduring Echoes",
+            "pt-br": "Ecos Duradouros",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Projectile Duration <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Duração do Projétil <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Prayer of Health - General - Buff Duration Blessing": {
+        "id": 232,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Lasting Benediction",
+            "pt-br": "Bendição Duradoura",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Buff Duration <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Duração do Buff <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Prayer of Health - General - Life Per Second Blessing": {
+        "id": 233,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Constant Prayer",
+            "pt-br": "Prece Constante",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Life_Increase",
+        "description": {
+            "en": "Life per Second <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Vida por Segundo <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Prayer of Health - General - Cooldown Blessing": {
+        "id": 234,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.9,
+            0.9
+        ],
+        "magicRollRange": [
+            0.85,
+            0.85
+        ],
+        "rareRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Calming Faith",
+            "pt-br": "Fé Calmante",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Prayer of Health - General - Activation Life Restored Blessing": {
+        "id": 235,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Instant Jubilation",
+            "pt-br": "Júbilo Instantâneo",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Life_Increase",
+        "description": {
+            "en": "Life Restored on Activation <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Vida restaurada na ativação <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Prayer of Health - General - Activation Damage Reduction Blessing": {
+        "id": 236,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.4,
+            1.4
+        ],
+        "titleLocalizationKey": {
+            "en": "Sublime Protection",
+            "pt-br": "Proteção Sublime",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Physical_Resistance_Base",
+        "description": {
+            "en": "Damage Resistance on Activation <style=\"GreenText\">+40%[+]</style>",
+            "pt-br": "Resistência a danos na ativação <style=\"GreenText\">+40%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+        }
+    },
+    "Prayer of Vengeance - General - Critical Chance Blessing": {
+        "id": 237,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Assured Revenge",
+            "pt-br": "Vingança Garantida",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_CriticalChance",
+        "description": {
+            "en": "Critical Hit Chance <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Chance de Acerto Crítico <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Prayer of Vengeance - General - Critical Damage Blessing": {
+        "id": 238,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            1.5,
+            1.5
+        ],
+        "magicRollRange": [
+            1.7,
+            1.7
+        ],
+        "rareRollRange": [
+            1.9,
+            1.9
+        ],
+        "titleLocalizationKey": {
+            "en": "Brutal Smite",
+            "pt-br": "Golpe Brutal",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Increase <b>Critical Damage</b> by <style=\"GreenText\">90%[+]</style>",
+            "pt-br": "Aumenta <b>Dano Crítico</b> em <style=\"GreenText\">90%[+]</style>",
+            "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">90%[+]</style>"
+        }
+    },
+    "Prayer of Vengeance - General - Buff Duration Blessing": {
+        "id": 239,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.6,
+            1.6
+        ],
+        "titleLocalizationKey": {
+            "en": "Everlasting Might",
+            "pt-br": "Força Imutável",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Buff Duration <style=\"GreenText\">+60%[+]</style>",
+            "pt-br": "Duração do Buff <style=\"GreenText\">+60%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
+        }
+    },
+    "Prayer of Vengeance - General - Buff Intensity Blessing": {
+        "id": 240,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.6,
+            1.6
+        ],
+        "titleLocalizationKey": {
+            "en": "Violent Potency",
+            "pt-br": "Potência Violenta",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Intensity",
+        "description": {
+            "en": "Buff Intensity <style=\"GreenText\">+60%[+]</style>",
+            "pt-br": "Intensidade do Buff <style=\"GreenText\">+60%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
+        }
+    },
+    "Prayer of Vengeance - General - Cooldown Blessing": {
+        "id": 241,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.9,
+            0.9
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Soothing Anger",
+            "pt-br": "Raiva Calmante",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "UI_Icon_Cooldown",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Summon Brute - General - Damage Blessing": {
+        "id": 242,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Brutal Force",
+            "pt-br": "Força Brutal",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Brute - General - Life Blessing": {
+        "id": 243,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Overwhelming Grit",
+            "pt-br": "Garra Avassaladora",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Brute Life <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Vida Bruta <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Brute - General - Taunt Duration Blessing": {
+        "id": 244,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Immense Outrage",
+            "pt-br": "Indignação Imensa",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Taunt Duration <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Duração da Provocação <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Brute - General - Cooldown Blessing": {
+        "id": 245,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.85,
+            0.85
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.75,
+            0.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Colossal Cutback",
+            "pt-br": "Redução Colossal",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Life_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑25%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑25%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑25%[x]</style>"
+        }
+    },
+    "Summon Brute - General - Respawn Blessing": {
+        "id": 246,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.8,
+            0.8
+        ],
+        "epicRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Massive Persistence",
+            "pt-br": "Persistência Massiva",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Respawn Time <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Tempo de respawn <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Passage - General - Cooldown Blessing": {
+        "id": 247,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.7,
+            0.7
+        ],
+        "epicRollRange": [
+            0.6,
+            0.6
+        ],
+        "titleLocalizationKey": {
+            "en": "Trimmed Transmission",
+            "pt-br": "Transmissão Aparada",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Cooldown <style=\"GreenText\">‑40%[x]</style>",
+            "pt-br": "Tempo de Recarga <style=\"GreenText\">‑40%[x]</style>",
+            "zh-cn": "冷却时间：<style=\"GreenText\">‑40%[x]</style>"
+        }
+    },
+    "Passage - General - Mana Cost Blessing": {
+        "id": 248,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.9,
+            0.9
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Reasonable Drift",
+            "pt-br": "Desvio Razoável",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Cooldown_Base",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Passage - General - Teleport Distance Blessing": {
+        "id": 249,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            1.1,
+            1.1
+        ],
+        "magicRollRange": [
+            1.2,
+            1.2
+        ],
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Streched Motion",
+            "pt-br": "Movimento Esticado",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Teleport Distance <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Distância de teletransporte <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Passage - General - Area Radius Blessing": {
+        "id": 250,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.3,
+            1.3
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Robust Migration",
+            "pt-br": "Migração Robusta",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Passage - General - Damage Blessing": {
+        "id": 251,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Ruinous Shift",
+            "pt-br": "Mudança Ruinosa",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_MoveSpeed_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Marksmen - General - Summon Amount Blessing": {
+        "id": 252,
+        "basePrice": 0.0,
+        "supportedRarities": "Epic",
+        "epicRollRange": [
+            1.0,
+            1.0
+        ],
+        "titleLocalizationKey": {
+            "en": "Multiple Armament",
+            "pt-br": "Armamento Múltiplo",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Amount",
+        "description": {
+            "en": "Maximum Marksmen <style=\"GreenText\">+1</style>",
+            "pt-br": "Atiradores Máximos <style=\"GreenText\">+1</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+1</style>"
+        }
+    },
+    "Summon Marksmen - General - Damage Blessing": {
+        "id": 253,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Extreme Prejudice",
+            "pt-br": "Agravante Extremo",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Marksmen - General - Summon Duration Blessing": {
+        "id": 254,
+        "basePrice": 0.0,
+        "supportedRarities": "Everything",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Sustained Salvo",
+            "pt-br": "Salva Contínua",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Duration",
+        "description": {
+            "en": "Duration <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Duração <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "持续时间：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Summon Marksmen - General - Summon Attack Speed Blessing": {
+        "id": 255,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.15,
+            1.15
+        ],
+        "rareRollRange": [
+            1.2,
+            1.2
+        ],
+        "epicRollRange": [
+            1.25,
+            1.25
+        ],
+        "titleLocalizationKey": {
+            "en": "Rapid Response",
+            "pt-br": "Resposta Rápida",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Marksmen Attack Speed <style=\"GreenText\">+25%[+]</style>",
+            "pt-br": "Velocidade de ataque dos Atiradores <style=\"GreenText\">+25%[+]</style>",
+            "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+        }
+    },
+    "Summon Marksmen - General - Mana Cost Blessing": {
+        "id": 256,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.9,
+            0.9
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.7,
+            0.7
+        ],
+        "titleLocalizationKey": {
+            "en": "Sparing Shelling",
+            "pt-br": "Fuzilamento Econômico",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "UI_Icon_Mana",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑30%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑30%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
+        }
+    },
+    "Feitors Lash - General - Damage Blessing": {
+        "id": 257,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare, Epic",
+        "commonRollRange": [
+            1.2,
+            1.2
+        ],
+        "magicRollRange": [
+            1.3,
+            1.3
+        ],
+        "rareRollRange": [
+            1.4,
+            1.4
+        ],
+        "epicRollRange": [
+            1.5,
+            1.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Sharp Slap",
+            "pt-br": "Lapada Nervosa",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_Damage_Base",
+        "description": {
+            "en": "Damage <style=\"GreenText\">+50%[+]</style>",
+            "pt-br": "Dano <style=\"GreenText\">+50%[+]</style>",
+            "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
+        }
+    },
+    "Feitors Lash - General - Radius Blessing": {
+        "id": 258,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            1.24,
+            1.24
+        ],
+        "epicRollRange": [
+            1.3,
+            1.3
+        ],
+        "titleLocalizationKey": {
+            "en": "Broad Beating",
+            "pt-br": "Surra Abrangente",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AreaofEffect",
+        "description": {
+            "en": "Area of Effect <style=\"GreenText\">+30%[+]</style>",
+            "pt-br": "Área de Efeito <style=\"GreenText\">+30%[+]</style>",
+            "zh-cn": "效果范围：<style=\"GreenText\">+30%[+]</style>"
+        }
+    },
+    "Feitors Lash - General - Skill Speed Blessing": {
+        "id": 259,
+        "basePrice": 0.0,
+        "supportedRarities": "Magic, Rare, Epic",
+        "magicRollRange": [
+            1.12,
+            1.12
+        ],
+        "rareRollRange": [
+            1.16,
+            1.16
+        ],
+        "epicRollRange": [
+            1.2,
+            1.2
+        ],
+        "titleLocalizationKey": {
+            "en": "Fast Thrashing",
+            "pt-br": "Varada Veloz",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_AttackSpeed_Base",
+        "description": {
+            "en": "Skill Speed <style=\"GreenText\">+20%[+]</style>",
+            "pt-br": "Velocidade da Habilidade <style=\"GreenText\">+20%[+]</style>",
+            "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
+        }
+    },
+    "Feitors Lash - General - Critical Damage Blessing": {
+        "id": 260,
+        "basePrice": 0.0,
+        "supportedRarities": "Rare, Epic",
+        "rareRollRange": [
+            0.4,
+            0.4
+        ],
+        "epicRollRange": [
+            0.5,
+            0.5
+        ],
+        "titleLocalizationKey": {
+            "en": "Potent Knout",
+            "pt-br": "Chicotada Pujante",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "Icon_CriticalDamage",
+        "description": {
+            "en": "Increase <b>Critical Damage</b> by <style=\"GreenText\">50%[+]</style>",
+            "pt-br": "Aumenta <b>Dano Crítico</b> em <style=\"GreenText\">50%[+]</style>",
+            "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">50%[+]</style>"
+        }
+    },
+    "Feitors Lash - General - Mana Cost Blessing": {
+        "id": 261,
+        "basePrice": 0.0,
+        "supportedRarities": "Common, Magic, Rare",
+        "commonRollRange": [
+            0.85,
+            0.85
+        ],
+        "magicRollRange": [
+            0.8,
+            0.8
+        ],
+        "rareRollRange": [
+            0.75,
+            0.75
+        ],
+        "titleLocalizationKey": {
+            "en": "Cheap Whip",
+            "pt-br": "Chibatada Barata",
+            "zh-cn": "残存意志"
+        },
+        "effectTypeIcon": "UI_Icon_Mana",
+        "description": {
+            "en": "Mana Cost <style=\"GreenText\">‑25%[x]</style>",
+            "pt-br": "Custo de Energia <style=\"GreenText\">‑25%[x]</style>",
+            "zh-cn": "法力消耗：<style=\"GreenText\">‑25%[x]</style>"
+        }
+    }
+}

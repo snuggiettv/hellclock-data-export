@@ -1,0 +1,577 @@
+{
+    "BasicAttackDefinition": {
+        "id": 0,
+        "localizedName": {
+            "en": "Attack",
+            "pt-br": "Ataque",
+            "zh-cn": "攻击"
+        },
+        "descriptionKey": {
+            "en": "Basic revolver shot. Restores 15% of maximum Mana on hit.",
+            "pt-br": "Disparo básico de revólver. Recupera 15% de Mana ao atingir um alvo.",
+            "zh-cn": "基础左轮手枪射击。命中时恢复最大法力值的 15%。"
+        },
+        "icon": "IconSkill_BasicAttack",
+        "baseDamageMod": 1.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 0.4,
+        "minCooldown": 0.1,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 15.0,
+        "skillTags": [
+            "Single Target",
+            "Marksman ",
+            "Projectile",
+            "Attack"
+        ]
+    },
+    "SplitshotDefinition": {
+        "id": 1,
+        "localizedName": {
+            "en": "Split Shot",
+            "pt-br": "Tiro Disperso",
+            "zh-cn": "分裂射击"
+        },
+        "descriptionKey": {
+            "en": "Shoot multiple bullets in a cone in front of you. Especially strong against nearby enemies.",
+            "pt-br": "Atira múltiplos projéteis em forma de cone na sua frente. Especialmente forte contra inimigos próximos.",
+            "zh-cn": "向前方锥形区域发射多枚子弹，对附近敌人效果更强。"
+        },
+        "icon": "IconSkill_SplitShot",
+        "baseDamageMod": 0.6,
+        "eDamageType": "FIRE",
+        "cooldown": 0.3,
+        "minCooldown": 0.1,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 15.0,
+        "skillTags": [
+            "Marksman ",
+            "Projectile",
+            "Attack"
+        ]
+    },
+    "ShadowDashDefinition": {
+        "id": 2,
+        "localizedName": {
+            "en": "Shadow Dash",
+            "pt-br": "Investida Sombria",
+            "zh-cn": "暗影冲刺"
+        },
+        "descriptionKey": {
+            "en": "Dash very quickly, dealing damage to enemies on your path.",
+            "pt-br": "Avança rapidamente, causando dano aos inimigos no seu caminho.",
+            "zh-cn": "极速冲刺，对路径上的敌人造成伤害。"
+        },
+        "icon": "IconSkill_ShadowDash",
+        "baseDamageMod": 0.8,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 3.0,
+        "minCooldown": 0.15,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Mobility"
+        ]
+    },
+    "RepeaterDefinition": {
+        "id": 3,
+        "localizedName": {
+            "en": "Repeater",
+            "pt-br": "Tiro de Repetição",
+            "zh-cn": "连发射击"
+        },
+        "descriptionKey": {
+            "en": "By holding the skill button, machinegun-like fire on a single target.",
+            "pt-br": "Ao segurar o botão da habilidade, atire como uma metralhadora em um único alvo.",
+            "zh-cn": "按住技能按钮可对单一目标进行机枪式连续射击。"
+        },
+        "icon": "IconSkill_Repeater",
+        "baseDamageMod": 0.66,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 0.5,
+        "minCooldown": 0.1,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 15.0,
+        "skillTags": [
+            "Marksman ",
+            "Projectile",
+            "Attack"
+        ]
+    },
+    "ReflexesDefinition": {
+        "id": 4,
+        "localizedName": {
+            "en": "Reflexes",
+            "pt-br": "Reflexos",
+            "zh-cn": "反应加速"
+        },
+        "descriptionKey": {
+            "en": "Summons a ring of Spectral Knives around the player that are automatically thrown at nearby enemies.",
+            "pt-br": "Conjura um anel de Facas Espectrais em volta do jogador, que são automaticamente arremessadas em inimigos próximos.",
+            "zh-cn": "在玩家周围召唤一圈幽冥飞刀，这些飞刀会自动投向附近的敌人。"
+        },
+        "icon": "IconSkill_Reflexes",
+        "baseDamageMod": 0.75,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 8.0,
+        "minCooldown": 0.5,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 7.0,
+        "skillTags": [
+            "Projectile"
+        ]
+    },
+    "PrayerOfHealthSkillDefinition": {
+        "id": 46,
+        "localizedName": {
+            "en": "Prayer Of Health",
+            "pt-br": "Reza da Saúde",
+            "zh-cn": "生命之祷"
+        },
+        "descriptionKey": {
+            "en": "Gain Life Regen per second.\n\nActivating the Prayer heals you instantly and gives you 20% damage reduction temporarily.\n\nThis Skill affects both you and your allies.",
+            "pt-br": "Ganhe Regeneração de Vida por segundo.\n\nAtivar a Reza cura você instantaneamente e concede 20% de redução de dano temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados.",
+            "zh-cn": "每秒获得生命再生。\n\n激活祈祷时，立即恢复生命值，并获得短暂的伤害减免效果。\n\n该技能的所有效果同时作用于你和盟友。"
+        },
+        "icon": "IconSkill_PrayerofHealth",
+        "baseDamageMod": 0.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 14.5,
+        "minCooldown": 0.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Enchantment",
+            "Prayer"
+        ]
+    },
+    "PrayerOfVengeanceSkillDefinition": {
+        "id": 49,
+        "localizedName": {
+            "en": "Prayer of Vengeance",
+            "pt-br": "Reza de Proteção",
+            "zh-cn": "复仇之祷"
+        },
+        "descriptionKey": {
+            "en": "Gain +20%[+] to Critical Chance and Critical Damage passively.\n\nActivating the Prayer increases the intensity of this effect by 50% temporarily.\n\nThis Skill affects both you and your allies.",
+            "pt-br": "Ganhe +20%[+] de Chance de Crítico e Dano de Crítico passivamente.\n\nAtivar a Reza aumenta a intensidade deste efeito em 50% temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados.",
+            "zh-cn": "获得暴击几率与暴击伤害的被动加成。\n\n激活祈祷时，这些效果的强度获得短暂提升。\n\n该技能的所有效果同时作用于你和盟友。"
+        },
+        "icon": "IconSkill_PrayerofVengeance",
+        "baseDamageMod": 0.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 20.0,
+        "minCooldown": 0.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Enchantment",
+            "Prayer"
+        ]
+    },
+    "TheOldBellSkillDefinition": {
+        "id": 50,
+        "localizedName": {
+            "en": "Old Bell",
+            "pt-br": "Velho Sino",
+            "zh-cn": "古钟"
+        },
+        "descriptionKey": {
+            "en": "The Old Bell comes crashing down on your enemies",
+            "pt-br": "O velho sino desaba sobre os seus inimigos.",
+            "zh-cn": "一口古钟从天而降，猛烈砸向敌人"
+        },
+        "icon": "IconSkill_OldBell",
+        "baseDamageMod": 2.5,
+        "eDamageType": "PLAGUE",
+        "cooldown": 0.5,
+        "minCooldown": 0.16,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 15.0,
+        "skillTags": [
+            "Area of Effect",
+            "Spell"
+        ]
+    },
+    "JudgementDefinition": {
+        "id": 67,
+        "localizedName": {
+            "en": "Judgement",
+            "pt-br": "Julgamento",
+            "zh-cn": "审判"
+        },
+        "descriptionKey": {
+            "en": "All enemies in the target area are judged, reducing all their resistances by 40% during 4s.",
+            "pt-br": "Todos os inimigos na área alvo são julgados, reduzindo todas suas resistências em 40% durante 4s.",
+            "zh-cn": "目标区域内的所有敌人被审判，全体抗性降低 40%，持续 4 秒。"
+        },
+        "icon": "IconSkill_Judgement",
+        "baseDamageMod": 0.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 1.0,
+        "minCooldown": 0.2,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Area of Effect",
+            "Enchantment"
+        ]
+    },
+    "DoubleKnivesSkillDefinition": {
+        "id": 69,
+        "localizedName": {
+            "en": "Double Knives",
+            "pt-br": "Peixeiras",
+            "zh-cn": "双刃旋斩"
+        },
+        "descriptionKey": {
+            "en": "Continuously spin two blades around while you move, dealing Physical damage to nearby enemies.",
+            "pt-br": "Gire continuamente duas lâminas enquanto você se move, causando dano Físico aos inimigos próximos.",
+            "zh-cn": "移动时持续旋转双刃，对附近敌人造成物理伤害。"
+        },
+        "icon": "IconSkill_DoubleKnives",
+        "baseDamageMod": 0.75,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 0.5,
+        "minCooldown": 0.16,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 4.0,
+        "skillTags": [
+            "Melee",
+            "Attack"
+        ]
+    },
+    "PassageSkillDefinition": {
+        "id": 70,
+        "localizedName": {
+            "en": "Passage",
+            "pt-br": "Passagem",
+            "zh-cn": "虚空通道"
+        },
+        "descriptionKey": {
+            "en": "Cut a passage through space and time, instantly appearing somewhere else.",
+            "pt-br": "Corte uma passagem pelo espaço e tempo, aparecendo instantaneamente em outro lugar.",
+            "zh-cn": "撕裂时空，瞬间传送至目标位置。"
+        },
+        "icon": "IconSkill_Passage",
+        "baseDamageMod": 1.0,
+        "eDamageType": "LIGHTNING",
+        "cooldown": 2.5,
+        "minCooldown": 0.4,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Mobility",
+            "Spell"
+        ]
+    },
+    "LassoSkillDefinition": {
+        "id": 71,
+        "localizedName": {
+            "en": "Lasso",
+            "pt-br": "Laço",
+            "zh-cn": "套索牵制"
+        },
+        "descriptionKey": {
+            "en": "Grapples and pulls enemies in an area, stunning them for 2 seconds with a 20% chance to cause Bleeding for 4 seconds. Bosses are not pulled, but can still suffer Bleeding and Stun.",
+            "pt-br": "Puxa inimigos para uma área, Atordoando-os por 2s e com 20% de chance de causar Sangramento por 4s. Chefes são imunes ao puxão, mas ainda podem sofrer Atordoamento e Sangramento.",
+            "zh-cn": "用套索钩住并拉拽区域内敌人，使其眩晕 2 秒，并有 20% 的几率造成流血，持续 4 秒。敌人首领不会被拉拽或眩晕，但仍可受到流血伤害。"
+        },
+        "icon": "IconSkill_Lasso",
+        "baseDamageMod": 0.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 11.5,
+        "minCooldown": 0.1,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 20.0,
+        "skillTags": [
+            "Area of Effect",
+            "Melee"
+        ]
+    },
+    "FeitorsLashSkillDefinition": {
+        "id": 72,
+        "localizedName": {
+            "en": "Feitor’s Lash",
+            "pt-br": "Chicote do Feitor",
+            "zh-cn": "惩戒之鞭"
+        },
+        "descriptionKey": {
+            "en": "Lash at nearby enemies in an arc in front of you.",
+            "pt-br": "Ataque os inimigos próximos em um arco à sua frente.",
+            "zh-cn": "挥鞭横扫前方弧形区域的敌人。"
+        },
+        "icon": "IconSkill_FeitorsLash",
+        "baseDamageMod": 1.0,
+        "eDamageType": "FIRE",
+        "cooldown": 0.5,
+        "minCooldown": 0.16,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 8.0,
+        "skillTags": [
+            "Melee",
+            "Attack"
+        ]
+    },
+    "SlowTimeSkillDefinition": {
+        "id": 74,
+        "localizedName": {
+            "en": "Slow Time",
+            "pt-br": "Tempo Manso",
+            "zh-cn": "时间凝滞"
+        },
+        "descriptionKey": {
+            "en": "All enemies have their movement speed, attack speed and projectile speed reduced.",
+            "pt-br": "Conjura uma Bolha de Distorção Temporal, que reduz a velocidade de movimento, ataque e projéteis de inimigos.",
+            "zh-cn": "降低区域内所有敌人的移动速度、攻击速度和投射物速度。"
+        },
+        "icon": "IconSkill_SlowTime",
+        "baseDamageMod": 0.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 11.0,
+        "minCooldown": 0.2,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Area of Effect",
+            "Spell"
+        ]
+    },
+    "Use Potion Skill Definition": {
+        "id": 150,
+        "localizedName": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        },
+        "descriptionKey": {
+            "en": "",
+            "pt-br": "",
+            "zh-cn": ""
+        },
+        "icon": "Icon_Potion_Base",
+        "baseDamageMod": 1.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 0.15,
+        "minCooldown": 0.05,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": []
+    },
+    "ClosedBodySkillDefinition": {
+        "id": 157,
+        "localizedName": {
+            "en": "Closed Body",
+            "pt-br": "Corpo Fechado",
+            "zh-cn": "封闭躯壳"
+        },
+        "descriptionKey": {
+            "en": "Envelops you in a Barrier of Conviction based on your Maximum Mana. While Closed Body is active, your Conviction Decay is reduced by 50%, and every attack received is retaliated with a Physical Damage Explosion.",
+            "pt-br": "Envolve você em uma barreira de Convicção baseada na sua Energia Máxima. Enquanto a Corpo Fechado está ativa, seu Decaímento de Convicção é reduzido em 50% e todo ataque recebido é retaliado com uma Explosão de dano Físico em área.",
+            "zh-cn": "该技能基于最大法力值构筑一层“信念屏障”。封闭躯壳持续期间，信念减弱速度降低 50%，并在每次受到攻击时触发一次物理伤害爆炸反击敌人。"
+        },
+        "icon": "IconSkill_ClosedBody",
+        "baseDamageMod": 1.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 15.0,
+        "minCooldown": 1.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Area of Effect",
+            "Enchantment"
+        ]
+    },
+    "BombardmentSkillDefinition": {
+        "id": 201,
+        "localizedName": {
+            "en": "Bombardment",
+            "pt-br": "Bombardeio",
+            "zh-cn": "炮火倾泻"
+        },
+        "descriptionKey": {
+            "en": "Summons a Bombardment over a large area for 8s, dealing AoE Physical damage on impact. ",
+            "pt-br": "Conjura um Bombardeio em uma grande área durante 8s, causando Dano Físico em área no impacto.",
+            "zh-cn": "在一片广阔区域内召唤炮火倾泻，持续 8 秒，命中时造成范围物理伤害。 "
+        },
+        "icon": "IconSkill_RainOfHeads",
+        "baseDamageMod": 1.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 10.0,
+        "minCooldown": 1.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 15.0,
+        "skillTags": [
+            "Area of Effect",
+            "Spell"
+        ]
+    },
+    "Summon The Guard Skill Definition": {
+        "id": 203,
+        "localizedName": {
+            "en": "Summon the Guard",
+            "pt-br": "Chamado da Guarda",
+            "zh-cn": "召唤卫兵"
+        },
+        "descriptionKey": {
+            "en": "Spirits of the Canudos Catholic Guard are summoned to fight by your side.\n\nGuard's Rage: Upon skill activation, all Catholic Guard's Spirits receive a 200% boost to attack speed for 4 seconds.\n\n",
+            "pt-br": "Espíritos da Guarda Católica de Canudos são invocados para lutar ao seu lado.\n\nFrenesi da Guarda: Ao ativar a habilidade, todos os Espíritos da Guarda Católica recebem um aumento de 200% na velocidade de ataque por 4 segundos.\n\n",
+            "zh-cn": "召唤卡努杜斯天主教卫队的英灵协助作战。\n\n卫兵之怒：技能激活时，所有天主教卫队英灵的攻击速度提升 200%，持续 4 秒。\n\n"
+        },
+        "icon": "IconSkill_SummonTheGuard",
+        "baseDamageMod": 0.4,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 15.0,
+        "minCooldown": 0.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 10.0,
+        "skillTags": [
+            "Summon",
+            "Projectile"
+        ]
+    },
+    "Matadeira Skill Definition": {
+        "id": 209,
+        "localizedName": {
+            "en": "Matadeira",
+            "pt-br": "Matadeira",
+            "zh-cn": "歼击炮"
+        },
+        "descriptionKey": {
+            "en": "Mark an area to be bombarded by a powerful cannon shot. The explosion area ignites for 3 seconds.",
+            "pt-br": "Marque uma área para ser bombardeada por um poderoso tiro de canhão. A área de explosão é incendiada por 3 segundos.",
+            "zh-cn": "标记一个区域，用强力炮弹对该区域轰炸，爆炸区域持续燃烧 3 秒。"
+        },
+        "icon": "IconSkill_EnemyCannons",
+        "baseDamageMod": 1.2,
+        "eDamageType": "FIRE",
+        "cooldown": 5.0,
+        "minCooldown": 1.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 20.0,
+        "skillTags": [
+            "Area of Effect",
+            "Marksman "
+        ]
+    },
+    "Holy Rosary Skill Definition": {
+        "id": 210,
+        "localizedName": {
+            "en": "Holy Rosary",
+            "pt-br": "Santo Rosário",
+            "zh-cn": "神圣念珠"
+        },
+        "descriptionKey": {
+            "en": "Summon beads of the Rosary that orbit in a spiral around you, dealing {0} Lightning damage.",
+            "pt-br": "Conjura contas do Rosário que orbitam em espiral ao seu redor, causando {0} de dano Relâmpago.",
+            "zh-cn": "召唤念珠呈螺旋状环绕自身，造成 {0} 闪电伤害。"
+        },
+        "icon": "IconSkill_HolyRosary",
+        "baseDamageMod": 1.2,
+        "eDamageType": "LIGHTNING",
+        "cooldown": 0.4,
+        "minCooldown": 0.13,
+        "useAttackSpeed": true,
+        "ignoreCooldownSpeed": false,
+        "range": 0.0,
+        "skillTags": [
+            "Projectile",
+            "Spell",
+            "Attack"
+        ]
+    },
+    "Veil of Quils Skill Definition": {
+        "id": 211,
+        "localizedName": {
+            "en": "Veil of Quills",
+            "pt-br": "Véu de Plumas",
+            "zh-cn": "幽羽帷幕"
+        },
+        "descriptionKey": {
+            "en": "Unleashes a flurry of spectral quills that seek out nearby enemies, dealing 70% Plague damage.",
+            "pt-br": "Conjura uma rajada de penas espectrais que perseguem inimigos próximos, causando 70% de dano de Praga.",
+            "zh-cn": "释放一连串幽冥羽矢，主动搜寻附近敌人并造成 70% 瘟疫伤害。"
+        },
+        "icon": "IconSkill_HomingProjectiles",
+        "baseDamageMod": 0.6,
+        "eDamageType": "PLAGUE",
+        "cooldown": 0.5,
+        "minCooldown": 0.16,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 20.0,
+        "skillTags": [
+            "Projectile",
+            "Spell"
+        ]
+    },
+    "Summon Brute Skill Definition": {
+        "id": 323,
+        "localizedName": {
+            "en": "Summon Brute",
+            "pt-br": "Invocar o Cabrunco",
+            "zh-cn": "召唤蛮人"
+        },
+        "descriptionKey": {
+            "en": "Summons a large ally that can be targeted by enemies.\n\nThe Brute is automatically summoned and will revive 20 seconds after it is killed.\n\nActivate the Skill to force all nearby enemies to exclusively attack the Brute for 6 seconds.",
+            "pt-br": "Invoca um aliado poderoso que pode ser atacado pelos inimigos.\n\nO Cabrunco Espectral é invocado automaticamente e ressuscita 20 segundos após ser morto.\n\nAtivação: O Cabrunco força todos os inimigos próximos a atacá-lo por 6 segundos.",
+            "zh-cn": "召唤一名能被敌人锁定的强大盟友。\n\n蛮人会被自动召唤，并在被击杀后于 20 秒内自动复活。\n\n激活该技能将迫使附近所有敌人优先攻击蛮人，持续 6 秒。"
+        },
+        "icon": "IconSkill_SummonBrute",
+        "baseDamageMod": 1.0,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 12.0,
+        "minCooldown": 0.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 10.0,
+        "skillTags": [
+            "Summon",
+            "Projectile"
+        ]
+    },
+    "Summon Marksmen Skill Definition": {
+        "id": 326,
+        "localizedName": {
+            "en": "Summon Marksmen",
+            "pt-br": "Rifles Espectrais",
+            "zh-cn": "召唤神射手"
+        },
+        "descriptionKey": {
+            "en": "Summon a stationary phantom rifle that shoots at the nearest enemies.\n\nA maximum of 2 rifles can be active at once.",
+            "pt-br": "Invoca um rifle fantasma estacionário que atira nos inimigos mais próximos.\n\nNo máximo 2 rifles podem estar ativos ao mesmo tempo.",
+            "zh-cn": "召唤一把定点幻影步枪，自动射击最近的敌人。\n\n最多可同时激活 2 把步枪。"
+        },
+        "icon": "IconSkill_PhantomMarksmen",
+        "baseDamageMod": 0.8,
+        "eDamageType": "PHYSICAL",
+        "cooldown": 10.0,
+        "minCooldown": 0.0,
+        "useAttackSpeed": false,
+        "ignoreCooldownSpeed": false,
+        "range": 20.0,
+        "skillTags": [
+            "Summon",
+            "Projectile"
+        ]
+    }
+}

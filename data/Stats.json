@@ -1,0 +1,1352 @@
+{
+    "BaseDamage": {
+        "id": 0,
+        "localizedName": {
+            "en": "Base Damage",
+            "pt-br": "Dano Base",
+            "zh-cn": "基础伤害值"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 100.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "CriticalChance": {
+        "id": 1,
+        "localizedName": {
+            "en": "Critical Hit Chance",
+            "pt-br": "Chance Crítica",
+            "zh-cn": "暴击几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.05,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "CriticalDamage": {
+        "id": 2,
+        "localizedName": {
+            "en": "Critical Hit Damage",
+            "pt-br": "Dano Crítico",
+            "zh-cn": "暴击伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.5,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "Life": {
+        "id": 3,
+        "localizedName": {
+            "en": "Life",
+            "pt-br": "Vida",
+            "zh-cn": "生命"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 100.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PhysicalResistance": {
+        "id": 4,
+        "localizedName": {
+            "en": "Physical Resistance",
+            "pt-br": "Resistência Física",
+            "zh-cn": "物理抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "MagicResistance": {
+        "id": 5,
+        "localizedName": {
+            "en": "Elemental Resistance",
+            "pt-br": "Resistência Mágica",
+            "zh-cn": "元素抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "MovementSpeed": {
+        "id": 6,
+        "localizedName": {
+            "en": "Move Speed",
+            "pt-br": "Movimento",
+            "zh-cn": "移动速度"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 3.0
+    },
+    "AttackSpeed": {
+        "id": 7,
+        "localizedName": {
+            "en": "Attack Speed",
+            "pt-br": "Vel. de Ataque",
+            "zh-cn": "攻击速度"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 6.0
+    },
+    "CooldownSpeed": {
+        "id": 8,
+        "localizedName": {
+            "en": "Cooldown Speed",
+            "pt-br": "Vel. de Recarga",
+            "zh-cn": "冷却速度"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 6.0
+    },
+    "ExperienceGain": {
+        "id": 9,
+        "localizedName": {
+            "en": "Experience Gain",
+            "pt-br": "Ganho de Experiencia",
+            "zh-cn": "经验值获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "Mana": {
+        "id": 10,
+        "localizedName": {
+            "en": "Mana",
+            "pt-br": "Energia",
+            "zh-cn": "法力值"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 100.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ItemFind": {
+        "id": 11,
+        "localizedName": {
+            "en": "Item Find",
+            "pt-br": "Encontrar Items",
+            "zh-cn": "物品掉落"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "Damage": {
+        "id": 12,
+        "localizedName": {
+            "en": "Damage",
+            "pt-br": "Dano",
+            "zh-cn": "伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "MagicDamage": {
+        "id": 13,
+        "localizedName": {
+            "en": "Elemental Damage",
+            "pt-br": "Dano Elemental",
+            "zh-cn": "元素伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "AdditionalPhysicalDamage": {
+        "id": 14,
+        "localizedName": {
+            "en": "Added Physical Damage",
+            "pt-br": "Dano Físico Adicional",
+            "zh-cn": "附加物理伤害"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PhysicalDamage": {
+        "id": 15,
+        "localizedName": {
+            "en": "Physical Damage",
+            "pt-br": "Dano Físico",
+            "zh-cn": "物理伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "AdditionalFireDamage": {
+        "id": 16,
+        "localizedName": {
+            "en": "Added Fire Damage",
+            "pt-br": "Dano Ígneo Adicional",
+            "zh-cn": "附加火焰伤害"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "FireDamage": {
+        "id": 17,
+        "localizedName": {
+            "en": "Fire Damage",
+            "pt-br": "Dano Ígneo",
+            "zh-cn": "火焰伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "AdditionalPlagueDamage": {
+        "id": 18,
+        "localizedName": {
+            "en": "Added Plague Damage",
+            "pt-br": "Dano Tóxico Adicional",
+            "zh-cn": "附加瘟疫伤害"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PlagueDamage": {
+        "id": 19,
+        "localizedName": {
+            "en": "Plague Damage",
+            "pt-br": "Dano Tóxico",
+            "zh-cn": "瘟疫伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "AdditionalLightningDamage": {
+        "id": 20,
+        "localizedName": {
+            "en": "Added Lightning Damage",
+            "pt-br": "Dano Elétrico Adicional",
+            "zh-cn": "附加闪电伤害"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "LightningDamage": {
+        "id": 21,
+        "localizedName": {
+            "en": "Lightning Damage",
+            "pt-br": "Dano Elétrico",
+            "zh-cn": "闪电伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "SoulStoneGain": {
+        "id": 22,
+        "localizedName": {
+            "en": "Soulstone Gain",
+            "pt-br": "Ganho de Frag. de Almas",
+            "zh-cn": "魂石获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "BlessedGearDropChanceBonus": {
+        "id": 23,
+        "localizedName": {
+            "en": "Bonus Gear Drop Chance",
+            "pt-br": "Bônus em achar Equips.",
+            "zh-cn": "装备掉落几率加成"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "BonusRelicDropsFromBoss": {
+        "id": 24,
+        "localizedName": {
+            "en": "Bonus Relic Drops from Boss",
+            "pt-br": "Chance Bônus de encontrar Relíquias em bosses",
+            "zh-cn": "首领遗物掉落加成"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "FireResistance": {
+        "id": 25,
+        "localizedName": {
+            "en": "Fire Resistance",
+            "pt-br": "Resistência Ígnea",
+            "zh-cn": "火焰抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "LightningResistance": {
+        "id": 26,
+        "localizedName": {
+            "en": "Lightning Resistance",
+            "pt-br": "Resistência Elétrica",
+            "zh-cn": "闪电抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "PlagueResistance": {
+        "id": 27,
+        "localizedName": {
+            "en": "Plague Resistance",
+            "pt-br": "Resistência Tóxica",
+            "zh-cn": "瘟疫抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "LifeRegen": {
+        "id": 28,
+        "localizedName": {
+            "en": "Life Regeneration",
+            "pt-br": "Regeneração de Vida",
+            "zh-cn": "生命再生"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "ManaRegen": {
+        "id": 29,
+        "localizedName": {
+            "en": "Mana Regeneration",
+            "pt-br": "Regen. de Energia",
+            "zh-cn": "法力再生"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "ChanceToApplyBleed": {
+        "id": 30,
+        "localizedName": {
+            "en": "Bleed Chance (Physical)",
+            "pt-br": "Chance de Sangramento (Físico)",
+            "zh-cn": "物理伤害施加流血的几率"
+        },
+        "icon": "IconStatus_Bleeding_white",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ChanceToApplyIgnite": {
+        "id": 31,
+        "localizedName": {
+            "en": "Ignite Chance (Fire)",
+            "pt-br": "Chance de Queimadura (Fogo)",
+            "zh-cn": "火焰伤害施加点燃的几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ChanceToApplyShock": {
+        "id": 32,
+        "localizedName": {
+            "en": "Shock Chance (Lightning)",
+            "pt-br": "Chance de Choque (Elétrico)",
+            "zh-cn": "闪电伤害施加电击的几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ChanceToApplyBlight": {
+        "id": 33,
+        "localizedName": {
+            "en": "Blight Chance (Plague)",
+            "pt-br": "Chance de Contaminação (Praga)",
+            "zh-cn": "瘟疫伤害施加枯疫的几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "AdditionalChanceToReceiveCritical": {
+        "id": 34,
+        "localizedName": {
+            "en": "Additional Chance to Receive Critical",
+            "pt-br": "Chance adicional de receber Dano Crítico",
+            "zh-cn": "额外暴击几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "DamageOverTimeResistance": {
+        "id": 35,
+        "localizedName": {
+            "en": "Damage Over Time Resistance",
+            "pt-br": "Resistência a Dano ao Longo do Tempo",
+            "zh-cn": "持续伤害抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "StunResistance": {
+        "id": 36,
+        "localizedName": {
+            "en": "Stun Resistance",
+            "pt-br": "Resistência a Atordoamento",
+            "zh-cn": "眩晕抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 1.0
+    },
+    "CrowdControlResistance": {
+        "id": 37,
+        "localizedName": {
+            "en": "Crowd Control Resistance",
+            "pt-br": "Resistência a Efeitos Debilitantes",
+            "zh-cn": "控场抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "DamageLifeRegen": {
+        "id": 38,
+        "localizedName": {
+            "en": "Life Steal",
+            "pt-br": "Vampirismo de Vida",
+            "zh-cn": "吸血"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "DamageManaRegen": {
+        "id": 39,
+        "localizedName": {
+            "en": "Mana Steal",
+            "pt-br": "Vampirismo de Mana",
+            "zh-cn": "法力偷取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "GoldGain": {
+        "id": 40,
+        "localizedName": {
+            "en": "Gold Gain",
+            "pt-br": "Ganho de Ouro",
+            "zh-cn": "金币获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "ManaSpentBarrierRegen": {
+        "id": 41,
+        "localizedName": {
+            "en": "Conv. from Mana Spent",
+            "pt-br": "Conv. por Energia Gasta",
+            "zh-cn": "法力消耗转化"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BarrierGeneration": {
+        "id": 42,
+        "localizedName": {
+            "en": "Conviction Generation",
+            "pt-br": "Geração de Convicção",
+            "zh-cn": "信念生成"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BarrierDecayThreshold": {
+        "id": 43,
+        "localizedName": {
+            "en": "Conv. Decay Threshold",
+            "pt-br": "Limite de Decaimento",
+            "zh-cn": "信念减弱阈值"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BarrierGain": {
+        "id": 44,
+        "localizedName": {
+            "en": "Conviction Gain",
+            "pt-br": "Ganho de Convicção",
+            "zh-cn": "信念获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BarrierDecayResilience": {
+        "id": 45,
+        "localizedName": {
+            "en": "Conv. Decay Resistance",
+            "pt-br": "Resist. ao Decaimento",
+            "zh-cn": "信念减弱抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ChanceToFindPotion": {
+        "id": 46,
+        "localizedName": {
+            "en": "Chance to Find Potion",
+            "pt-br": "Chance de Encontrar Poção",
+            "zh-cn": "药水寻获几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "PotionCapacity": {
+        "id": 47,
+        "localizedName": {
+            "en": "Potion Capacity",
+            "pt-br": "Limite de Poções",
+            "zh-cn": "药水容量"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 3.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PotionLifePercentageRegen": {
+        "id": 48,
+        "localizedName": {
+            "en": "Potion Life Percentage Regen",
+            "pt-br": "Regeneração de Percentual de Vida por Poção",
+            "zh-cn": "药水生命再生 (%)"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.15,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PotionLifeFlatRegen": {
+        "id": 49,
+        "localizedName": {
+            "en": "Potion Life Flat Regen",
+            "pt-br": "Regeneração de Vida Fixa por Poção",
+            "zh-cn": "药水生命再生 (固定值)"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 100.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "PotionEfficiency": {
+        "id": 50,
+        "localizedName": {
+            "en": "Potion Efficiency",
+            "pt-br": "Eficiência de Poções",
+            "zh-cn": "药水效能"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "TrinketDropChanceBonus": {
+        "id": 51,
+        "localizedName": {
+            "en": "Bonus Trinket Drop Chance",
+            "pt-br": "Bônus em achar Vestígios\n",
+            "zh-cn": "护符掉落几率加成"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "RelicDropChanceBonus": {
+        "id": 52,
+        "localizedName": {
+            "en": "Bonus Relic Drop Chance",
+            "pt-br": "Bônus em achar Relíquias",
+            "zh-cn": "遗物掉落几率加成"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "SummonLifePercentage": {
+        "id": 53,
+        "localizedName": {
+            "en": "Summon Life",
+            "pt-br": "Vida de Invocações",
+            "zh-cn": "召唤物生命值"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "SummonDamagePercentage": {
+        "id": 54,
+        "localizedName": {
+            "en": "Summon Damage",
+            "pt-br": "Dano de Invocações",
+            "zh-cn": "召唤物伤害值"
+        },
+        "icon": "IconSkill_SummonTheGuard_grayscale",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 10000.0
+    },
+    "SkillManaCost": {
+        "id": 57,
+        "localizedName": {
+            "en": "Skill Mana Cost",
+            "pt-br": "Custo Geral de Energia",
+            "zh-cn": "技能法力消耗"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": true,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "AilmentDuration": {
+        "id": 58,
+        "localizedName": {
+            "en": "Ailment Duration",
+            "pt-br": "Duração de Condições",
+            "zh-cn": "异常状态持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BleedDuration": {
+        "id": 59,
+        "localizedName": {
+            "en": "Bleed Duration",
+            "pt-br": "Duração de Sangramento",
+            "zh-cn": "流血持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 3.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "IgniteDuration": {
+        "id": 60,
+        "localizedName": {
+            "en": "Ignite Duration",
+            "pt-br": "Duração de Ignição",
+            "zh-cn": "点燃持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 5.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "ShockDuration": {
+        "id": 61,
+        "localizedName": {
+            "en": "Shock Duration",
+            "pt-br": "Duração de Choque",
+            "zh-cn": "触电持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 2.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "BlightDuration": {
+        "id": 62,
+        "localizedName": {
+            "en": "Blight Duration",
+            "pt-br": "Duração de Contaminação",
+            "zh-cn": "枯疫持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 4.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "WitherDuration": {
+        "id": 63,
+        "localizedName": {
+            "en": "Wither Duration",
+            "pt-br": "Duração de Decrepitar",
+            "zh-cn": "衰竭持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 5.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "StunDuration": {
+        "id": 64,
+        "localizedName": {
+            "en": "Stun Duration",
+            "pt-br": "Duração de Atordoar",
+            "zh-cn": "眩晕持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "DEFAULT",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1000.0
+    },
+    "AilmentDamage": {
+        "id": 65,
+        "localizedName": {
+            "en": "Ailment Damage",
+            "pt-br": "Dano de Condições",
+            "zh-cn": "异常状态伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "IgniteDamage": {
+        "id": 66,
+        "localizedName": {
+            "en": "Ignite Damage",
+            "pt-br": "Dano de Ignição",
+            "zh-cn": "点燃伤害"
+        },
+        "icon": "IconStatus_Ignited_white",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ShockIntensity": {
+        "id": 67,
+        "localizedName": {
+            "en": "Shock Intensity",
+            "pt-br": "Intensidade de Choque",
+            "zh-cn": "触电强度"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BlightIntensity": {
+        "id": 68,
+        "localizedName": {
+            "en": "Blight Intensity",
+            "pt-br": "Intensidade de Contaminação",
+            "zh-cn": "枯疫强度"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "WitherBuildupRate": {
+        "id": 69,
+        "localizedName": {
+            "en": "Wither Buildup Rate",
+            "pt-br": "Taxa de Aplicação de Decrepitar",
+            "zh-cn": "衰竭积蓄速率"
+        },
+        "icon": "IconStatus_Wither_white",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 100.0
+    },
+    "StunBuildupRate": {
+        "id": 70,
+        "localizedName": {
+            "en": "Stun Buildup Rate",
+            "pt-br": "Taxa de Aplicação de Atordoar",
+            "zh-cn": "眩晕积蓄速率"
+        },
+        "icon": "IconStatus_Stunned_white",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 100.0
+    },
+    "AilmentResistance": {
+        "id": 71,
+        "localizedName": {
+            "en": "Ailment Resistance",
+            "pt-br": "Resistência a Condições",
+            "zh-cn": "异常状态抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "BleedDamage": {
+        "id": 72,
+        "localizedName": {
+            "en": "Bleed Damage",
+            "pt-br": "Dano de Sangramento",
+            "zh-cn": "流血伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "WitherResistance": {
+        "id": 73,
+        "localizedName": {
+            "en": "Wither Resistance",
+            "pt-br": "Resistência a Decrepitar",
+            "zh-cn": "衰竭抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 1.0
+    },
+    "Evasion": {
+        "id": 74,
+        "localizedName": {
+            "en": "Evasion",
+            "pt-br": "Evasão",
+            "zh-cn": "闪避"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 0.75
+    },
+    "SkillAreaOfEffect": {
+        "id": 75,
+        "localizedName": {
+            "en": "Skill Area of Effect",
+            "pt-br": "Área de Efeito de Magias",
+            "zh-cn": "技能效果范围"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ManaShield": {
+        "id": 76,
+        "localizedName": {
+            "en": "Mana Shield",
+            "pt-br": "Escudo de Energia",
+            "zh-cn": "法力护盾"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": true,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "DamageResistance": {
+        "id": 77,
+        "localizedName": {
+            "en": "Damage Resistance",
+            "pt-br": "Resistência a Dano",
+            "zh-cn": "伤害抗性"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": -10000.0,
+        "maximumValue": 0.75
+    },
+    "Endurance": {
+        "id": 78,
+        "localizedName": {
+            "en": "Endurance",
+            "pt-br": "Persistência",
+            "zh-cn": "耐力"
+        },
+        "icon": "IconStatus_VigorOrb_white",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 0.75
+    },
+    "AntiMagic": {
+        "id": 79,
+        "localizedName": {
+            "en": "Anti-Magic",
+            "pt-br": "Anti-Magia",
+            "zh-cn": "反魔法"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 0.75
+    },
+    "ChanceToMiss": {
+        "id": 80,
+        "localizedName": {
+            "en": "Chance to Miss",
+            "pt-br": "Chance de Erro",
+            "zh-cn": "命中失败率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 0.75
+    },
+    "AilmentApplication": {
+        "id": 81,
+        "localizedName": {
+            "en": "Ailment Chance",
+            "pt-br": "Chance de Condições",
+            "zh-cn": "异常状态施加几率"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "SkillProjectileAmount": {
+        "id": 82,
+        "localizedName": {
+            "en": "Skill Projectile Amount",
+            "pt-br": "Número de Projéteis de Habilidade",
+            "zh-cn": "技能投射物数量"
+        },
+        "icon": "Icon_ProjectileSkills",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "SkillMeleeDamage": {
+        "id": 83,
+        "localizedName": {
+            "en": "Skill Melee Damage",
+            "pt-br": "Dano de Habilidade Corpo-A-Corpo ",
+            "zh-cn": "技能近战伤害"
+        },
+        "icon": "Icon_Damage_Base",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ElementalAilmentDuration": {
+        "id": 84,
+        "localizedName": {
+            "en": "Elemental Ailment Duration",
+            "pt-br": "Duração de Condições Elementais",
+            "zh-cn": "元素异常状态持续时间"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "SkillSpellDamage": {
+        "id": 85,
+        "localizedName": {
+            "en": "Skill Spell Damage",
+            "pt-br": "Dano de Habilidade de Magia",
+            "zh-cn": "技能法术伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "LifeGain": {
+        "id": 86,
+        "localizedName": {
+            "en": "Life Gain",
+            "pt-br": "Ganho de Vida",
+            "zh-cn": "生命获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ManaGain": {
+        "id": 87,
+        "localizedName": {
+            "en": "Mana Gain",
+            "pt-br": "Ganho de Mana",
+            "zh-cn": "法力获取"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 1.0,
+        "isPlayerStat": false,
+        "willClamp": false,
+        "minimumValue": 0.0,
+        "maximumValue": 0.0
+    },
+    "ImmuneToPhysicalDamage": {
+        "id": 88,
+        "localizedName": {
+            "en": "Immune to Physical Damage",
+            "pt-br": "Imune a dano Físico",
+            "zh-cn": "免疫物理伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "ImmuneToFireDamage": {
+        "id": 89,
+        "localizedName": {
+            "en": "Immune to Fire Damage",
+            "pt-br": "Imune a dano Ígneo",
+            "zh-cn": "免疫火焰伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "ImmuneToPlagueDamage": {
+        "id": 90,
+        "localizedName": {
+            "en": "Immune to Plague Damage",
+            "pt-br": "Imune a dano Tóxico",
+            "zh-cn": "免疫瘟疫伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    },
+    "ImmuneToLightningDamage": {
+        "id": 91,
+        "localizedName": {
+            "en": "Immune to Lightning Damage",
+            "pt-br": "Imune a dano Elétrico",
+            "zh-cn": "免疫闪电伤害"
+        },
+        "icon": "",
+        "eStatFormat": "PERCENTAGE",
+        "baseValue": 0.0,
+        "isPlayerStat": false,
+        "willClamp": true,
+        "minimumValue": 0.0,
+        "maximumValue": 1.0
+    }
+}
