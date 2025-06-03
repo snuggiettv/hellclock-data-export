@@ -1,6 +1,7 @@
 {
-    "Skills": {
-        "BasicAttackDefinition": {
+    "Skills": [
+        {
+            "name": "BasicAttackDefinition",
             "id": 0,
             "localizedName": {
                 "en": "Attack",
@@ -28,7 +29,8 @@
                 "Attack"
             ]
         },
-        "SplitshotDefinition": {
+        {
+            "name": "SplitshotDefinition",
             "id": 1,
             "localizedName": {
                 "en": "Split Shot",
@@ -56,7 +58,8 @@
                 "Attack"
             ]
         },
-        "ShadowDashDefinition": {
+        {
+            "name": "ShadowDashDefinition",
             "id": 2,
             "localizedName": {
                 "en": "Shadow Dash",
@@ -81,7 +84,8 @@
                 "Physical Damage"
             ]
         },
-        "RepeaterDefinition": {
+        {
+            "name": "RepeaterDefinition",
             "id": 3,
             "localizedName": {
                 "en": "Repeater",
@@ -108,7 +112,8 @@
                 "Attack"
             ]
         },
-        "ReflexesDefinition": {
+        {
+            "name": "ReflexesDefinition",
             "id": 4,
             "localizedName": {
                 "en": "Reflexes",
@@ -133,7 +138,8 @@
                 "Physical Damage"
             ]
         },
-        "PrayerOfHealthSkillDefinition": {
+        {
+            "name": "PrayerOfHealthSkillDefinition",
             "id": 46,
             "localizedName": {
                 "en": "Prayer Of Health",
@@ -158,7 +164,8 @@
                 "Prayer"
             ]
         },
-        "PrayerOfVengeanceSkillDefinition": {
+        {
+            "name": "PrayerOfVengeanceSkillDefinition",
             "id": 49,
             "localizedName": {
                 "en": "Prayer of Vengeance",
@@ -183,7 +190,8 @@
                 "Prayer"
             ]
         },
-        "TheOldBellSkillDefinition": {
+        {
+            "name": "TheOldBellSkillDefinition",
             "id": 50,
             "localizedName": {
                 "en": "Old Bell",
@@ -210,7 +218,8 @@
                 "Elemental Damage"
             ]
         },
-        "JudgementDefinition": {
+        {
+            "name": "JudgementDefinition",
             "id": 67,
             "localizedName": {
                 "en": "Judgement",
@@ -235,7 +244,8 @@
                 "Enchantment"
             ]
         },
-        "DoubleKnivesSkillDefinition": {
+        {
+            "name": "DoubleKnivesSkillDefinition",
             "id": 69,
             "localizedName": {
                 "en": "Double Knives",
@@ -261,7 +271,8 @@
                 "Attack"
             ]
         },
-        "PassageSkillDefinition": {
+        {
+            "name": "PassageSkillDefinition",
             "id": 70,
             "localizedName": {
                 "en": "Passage",
@@ -288,7 +299,8 @@
                 "Elemental Damage"
             ]
         },
-        "LassoSkillDefinition": {
+        {
+            "name": "LassoSkillDefinition",
             "id": 71,
             "localizedName": {
                 "en": "Lasso",
@@ -313,7 +325,8 @@
                 "Melee"
             ]
         },
-        "FeitorsLashSkillDefinition": {
+        {
+            "name": "FeitorsLashSkillDefinition",
             "id": 72,
             "localizedName": {
                 "en": "Feitor’s Lash",
@@ -340,7 +353,8 @@
                 "Attack"
             ]
         },
-        "SlowTimeSkillDefinition": {
+        {
+            "name": "SlowTimeSkillDefinition",
             "id": 74,
             "localizedName": {
                 "en": "Slow Time",
@@ -365,7 +379,8 @@
                 "Spell"
             ]
         },
-        "Use Potion Skill Definition": {
+        {
+            "name": "Use Potion Skill Definition",
             "id": 150,
             "localizedName": {
                 "en": "",
@@ -389,7 +404,8 @@
                 "Physical Damage"
             ]
         },
-        "ClosedBodySkillDefinition": {
+        {
+            "name": "ClosedBodySkillDefinition",
             "id": 157,
             "localizedName": {
                 "en": "Closed Body",
@@ -415,7 +431,8 @@
                 "Physical Damage"
             ]
         },
-        "BombardmentSkillDefinition": {
+        {
+            "name": "BombardmentSkillDefinition",
             "id": 201,
             "localizedName": {
                 "en": "Bombardment",
@@ -441,7 +458,8 @@
                 "Physical Damage"
             ]
         },
-        "Summon The Guard Skill Definition": {
+        {
+            "name": "Summon The Guard Skill Definition",
             "id": 203,
             "localizedName": {
                 "en": "Summon the Guard",
@@ -467,7 +485,8 @@
                 "Physical Damage"
             ]
         },
-        "Matadeira Skill Definition": {
+        {
+            "name": "Matadeira Skill Definition",
             "id": 209,
             "localizedName": {
                 "en": "Matadeira",
@@ -494,7 +513,8 @@
                 "Elemental Damage"
             ]
         },
-        "Holy Rosary Skill Definition": {
+        {
+            "name": "Holy Rosary Skill Definition",
             "id": 210,
             "localizedName": {
                 "en": "Holy Rosary",
@@ -522,7 +542,8 @@
                 "Attack"
             ]
         },
-        "Veil of Quils Skill Definition": {
+        {
+            "name": "Veil of Quils Skill Definition",
             "id": 211,
             "localizedName": {
                 "en": "Veil of Quills",
@@ -549,7 +570,8 @@
                 "Elemental Damage"
             ]
         },
-        "Summon Brute Skill Definition": {
+        {
+            "name": "Summon Brute Skill Definition",
             "id": 323,
             "localizedName": {
                 "en": "Summon Brute",
@@ -575,7 +597,8 @@
                 "Physical Damage"
             ]
         },
-        "Summon Marksmen Skill Definition": {
+        {
+            "name": "Summon Marksmen Skill Definition",
             "id": 326,
             "localizedName": {
                 "en": "Summon Marksmen",
@@ -601,5 +624,5 @@
                 "Physical Damage"
             ]
         }
-    }
+    ]
 }

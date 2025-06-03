@@ -1,6 +1,7 @@
 {
-    "Blessings": {
-        "Splitshot - General - Projectile Amount Blessing": {
+    "Blessings": [
+        {
+            "name": "Splitshot - General - Projectile Amount Blessing",
             "id": 0,
             "basePrice": 300.0,
             "supportedRarities": "Epic",
@@ -20,7 +21,8 @@
                 "zh-cn": "投射物数量：<style=\"GreenText\">+1</style>"
             }
         },
-        "Shadow Dash - Add Charges - Increase Charges Amount Blessing": {
+        {
+            "name": "Shadow Dash - Add Charges - Increase Charges Amount Blessing",
             "id": 1,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -40,7 +42,8 @@
                 "zh-cn": "<b>充能次数</b>增加 <style=\"GreenText\">+1</style>"
             }
         },
-        "Shadow Dash - General - Damage Blessing": {
+        {
+            "name": "Shadow Dash - General - Damage Blessing",
             "id": 2,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -72,7 +75,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Splitshot - General - Critical Chance Blessing": {
+        {
+            "name": "Splitshot - General - Critical Chance Blessing",
             "id": 3,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -100,7 +104,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
             }
         },
-        "Splitshot - General - Mana Cost Reduction Blessing": {
+        {
+            "name": "Splitshot - General - Mana Cost Reduction Blessing",
             "id": 4,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -124,7 +129,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Reflexes - General - Damage Blessing": {
+        {
+            "name": "Reflexes - General - Damage Blessing",
             "id": 5,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -156,7 +162,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Reflexes - General - Range Blessing": {
+        {
+            "name": "Reflexes - General - Range Blessing",
             "id": 6,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -184,7 +191,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Damage Stat Blessing": {
+        {
+            "name": "Damage Stat Blessing",
             "id": 12,
             "basePrice": 504.0,
             "supportedRarities": "Everything",
@@ -217,7 +225,8 @@
                 "zh-cn": ""
             }
         },
-        "Precision 1 - Critical Chance - Stat Blessing": {
+        {
+            "name": "Precision 1 - Critical Chance - Stat Blessing",
             "id": 17,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -238,7 +247,8 @@
                 "zh-cn": "暴击几率 <style=\"GreenText\">+4% </style>\r\n"
             }
         },
-        "Precision 2 - Critical Damage - Stat Blessing": {
+        {
+            "name": "Precision 2 - Critical Damage - Stat Blessing",
             "id": 18,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -259,7 +269,8 @@
                 "zh-cn": "暴击伤害 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Lethality 2 - Bleed Chance - Stat Blessing": {
+        {
+            "name": "Lethality 2 - Bleed Chance - Stat Blessing",
             "id": 19,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -280,7 +291,8 @@
                 "zh-cn": "物理伤害施加流血的几率 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "ChanceToAppyIgnited Stat Blessing": {
+        {
+            "name": "ChanceToAppyIgnited Stat Blessing",
             "id": 20,
             "basePrice": 360.0,
             "supportedRarities": "Rare, Epic",
@@ -305,7 +317,8 @@
                 "zh-cn": ""
             }
         },
-        "Life Stat Blessing": {
+        {
+            "name": "Life Stat Blessing",
             "id": 22,
             "basePrice": 360.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -338,7 +351,8 @@
                 "zh-cn": ""
             }
         },
-        "AttackSpeed Stat Blessing": {
+        {
+            "name": "AttackSpeed Stat Blessing",
             "id": 23,
             "basePrice": 504.0,
             "supportedRarities": "Everything",
@@ -371,7 +385,8 @@
                 "zh-cn": ""
             }
         },
-        "MovementSpeed Stat Blessing": {
+        {
+            "name": "MovementSpeed Stat Blessing",
             "id": 24,
             "basePrice": 600.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -400,7 +415,8 @@
                 "zh-cn": ""
             }
         },
-        "Mana Stat Blessing": {
+        {
+            "name": "Mana Stat Blessing",
             "id": 25,
             "basePrice": 360.0,
             "supportedRarities": "Everything",
@@ -433,7 +449,8 @@
                 "zh-cn": ""
             }
         },
-        "CooldownSpeed Stat Blessing": {
+        {
+            "name": "CooldownSpeed Stat Blessing",
             "id": 26,
             "basePrice": 444.0,
             "supportedRarities": "Everything",
@@ -466,7 +483,8 @@
                 "zh-cn": ""
             }
         },
-        "Splitshot - Mana to Damage - Damage Blessing": {
+        {
+            "name": "Splitshot - Mana to Damage - Damage Blessing",
             "id": 35,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -486,7 +504,8 @@
                 "zh-cn": "法力转化为伤害的比例：<style=\"GreenText\">+15%[+]</style>"
             }
         },
-        "Prayer Of Vengeance - Explode on Kill - AoE Blessing": {
+        {
+            "name": "Prayer Of Vengeance - Explode on Kill - AoE Blessing",
             "id": 37,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare",
@@ -510,7 +529,8 @@
                 "zh-cn": "敌人爆炸范围：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Prayer Of Vengeance - Explode on Kill - Damage Blessing": {
+        {
+            "name": "Prayer Of Vengeance - Explode on Kill - Damage Blessing",
             "id": 38,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -530,7 +550,8 @@
                 "zh-cn": "敌人爆炸时造成的伤害：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Spearhead - Pierce - Damage Blessing": {
+        {
+            "name": "Spearhead - Pierce - Damage Blessing",
             "id": 42,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -550,7 +571,8 @@
                 "zh-cn": "穿透造成的伤害惩罚降低 <style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Shadow Dash - Explosion on Target Hit - Damage Blessing": {
+        {
+            "name": "Shadow Dash - Explosion on Target Hit - Damage Blessing",
             "id": 46,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -570,7 +592,8 @@
                 "zh-cn": "暗影冲刺爆炸伤害：<style=\"GreenText\">+15%[+]</style>"
             }
         },
-        "Shadow Dash - Explosion on Target Hit - AoE Blessing": {
+        {
+            "name": "Shadow Dash - Explosion on Target Hit - AoE Blessing",
             "id": 47,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -590,7 +613,8 @@
                 "zh-cn": "暗影冲刺爆炸范围：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "The Sacrificed - Life Cost to Damage - Damage Blessing": {
+        {
+            "name": "The Sacrificed - Life Cost to Damage - Damage Blessing",
             "id": 66,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -614,7 +638,8 @@
                 "zh-cn": "生命值转化为伤害的比例：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Shadow Dash - General - Cooldown Blessing": {
+        {
+            "name": "Shadow Dash - General - Cooldown Blessing",
             "id": 73,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -642,7 +667,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑25%[x]</style>"
             }
         },
-        "Splitshot - General - Damage Blessing": {
+        {
+            "name": "Splitshot - General - Damage Blessing",
             "id": 74,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -674,7 +700,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Splitshot - General - Attack Speed Blessing": {
+        {
+            "name": "Splitshot - General - Attack Speed Blessing",
             "id": 76,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -706,7 +733,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Reflexes - General - Knife Regen Speed Blessing": {
+        {
+            "name": "Reflexes - General - Knife Regen Speed Blessing",
             "id": 78,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -738,7 +766,8 @@
                 "zh-cn": "飞刀生成时间：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Reflexes - General - Knives Amount Blessing": {
+        {
+            "name": "Reflexes - General - Knives Amount Blessing",
             "id": 79,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -762,7 +791,8 @@
                 "zh-cn": "最大飞刀数：<style=\"GreenText\">+2</style>"
             }
         },
-        "Reflexes - General - Increase Duration": {
+        {
+            "name": "Reflexes - General - Increase Duration",
             "id": 80,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -790,7 +820,8 @@
                 "zh-cn": "<b>持续时间</b>提高 <style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Reflexes - Battered Sheath - Bounce Amount Blessing": {
+        {
+            "name": "Reflexes - Battered Sheath - Bounce Amount Blessing",
             "id": 84,
             "basePrice": 300.0,
             "supportedRarities": "Rare",
@@ -810,7 +841,8 @@
                 "zh-cn": "飞刀弹射次数：<style=\"GreenText\">+1</style>"
             }
         },
-        "Molten Relic - Grenade On Hit - AoE Blessing": {
+        {
+            "name": "Molten Relic - Grenade On Hit - AoE Blessing",
             "id": 85,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare",
@@ -834,7 +866,8 @@
                 "zh-cn": "手雷爆炸范围：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Shadow Dash - General - Distance Blessing": {
+        {
+            "name": "Shadow Dash - General - Distance Blessing",
             "id": 88,
             "basePrice": 300.0,
             "supportedRarities": "Epic",
@@ -854,7 +887,8 @@
                 "zh-cn": "冲刺距离：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Slow Time - General - AoE Blessing": {
+        {
+            "name": "Slow Time - General - AoE Blessing",
             "id": 89,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -882,7 +916,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Slow Time - General - Intensity Blessing": {
+        {
+            "name": "Slow Time - General - Intensity Blessing",
             "id": 90,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -914,7 +949,8 @@
                 "zh-cn": "减速减益强度：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Slow Time - General - Duration Blessing": {
+        {
+            "name": "Slow Time - General - Duration Blessing",
             "id": 92,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -946,7 +982,8 @@
                 "zh-cn": "持续时间：<style=\"GreenText\">+35%[+]</style>"
             }
         },
-        "Double Knives - General - Damage Blessing": {
+        {
+            "name": "Double Knives - General - Damage Blessing",
             "id": 93,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -978,7 +1015,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Double Knives - General - Radius Blessing": {
+        {
+            "name": "Double Knives - General - Radius Blessing",
             "id": 94,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1006,7 +1044,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Double Knives - General - Mana Cost Blessing": {
+        {
+            "name": "Double Knives - General - Mana Cost Blessing",
             "id": 96,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1034,7 +1073,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Double Knives - General - Attack Speed Blessing": {
+        {
+            "name": "Double Knives - General - Attack Speed Blessing",
             "id": 97,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1066,7 +1106,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Double Knives - General - Move Speed Blessing": {
+        {
+            "name": "Double Knives - General - Move Speed Blessing",
             "id": 98,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1090,7 +1131,8 @@
                 "zh-cn": "旋转时的移动速度：<style=\"GreenText\">+18%</style>"
             }
         },
-        "The Old Bell - General - Radius Blessing": {
+        {
+            "name": "The Old Bell - General - Radius Blessing",
             "id": 99,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1118,7 +1160,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "The Old Bell - General - Damage Blessing": {
+        {
+            "name": "The Old Bell - General - Damage Blessing",
             "id": 100,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1150,7 +1193,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "The Old Bell - General - Mana Cost Blessing": {
+        {
+            "name": "The Old Bell - General - Mana Cost Blessing",
             "id": 101,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1178,7 +1222,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Repeater - General - Damage Blessing": {
+        {
+            "name": "Repeater - General - Damage Blessing",
             "id": 103,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -1210,7 +1255,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Repeater - General - Attack Speed Blessing": {
+        {
+            "name": "Repeater - General - Attack Speed Blessing",
             "id": 105,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1238,7 +1284,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Repeater - General - Mana Cost Blessing": {
+        {
+            "name": "Repeater - General - Mana Cost Blessing",
             "id": 106,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1266,7 +1313,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑25%[x]</style>"
             }
         },
-        "Repeater - General - Critical Chance Blessing": {
+        {
+            "name": "Repeater - General - Critical Chance Blessing",
             "id": 108,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1290,7 +1338,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
             }
         },
-        "Blunderbuss Powder Bag - Explode Ignite - Damage Blessing": {
+        {
+            "name": "Blunderbuss Powder Bag - Explode Ignite - Damage Blessing",
             "id": 109,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare",
@@ -1315,7 +1364,8 @@
                 "zh-cn": "点燃状态下的敌人爆炸时造成的伤害：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Unshakable Faith - Mana to Damage - Damage Blessing": {
+        {
+            "name": "Unshakable Faith - Mana to Damage - Damage Blessing",
             "id": 110,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1339,7 +1389,8 @@
                 "zh-cn": "法力转化为伤害的比例：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Slow Time - General - Cooldown Blessing": {
+        {
+            "name": "Slow Time - General - Cooldown Blessing",
             "id": 111,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1367,7 +1418,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Closed Body - Retaliation Aura Damage - Blessing": {
+        {
+            "name": "Closed Body - Retaliation Aura Damage - Blessing",
             "id": 112,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -1399,7 +1451,8 @@
                 "zh-cn": "反击伤害：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "The Sacrificed - Life Cost to Damage - Cost Blessing": {
+        {
+            "name": "The Sacrificed - Life Cost to Damage - Cost Blessing",
             "id": 113,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1423,7 +1476,8 @@
                 "zh-cn": "生命值消耗：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Closed Body - Cooldown - Blessing": {
+        {
+            "name": "Closed Body - Cooldown - Blessing",
             "id": 115,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1451,7 +1505,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Judgement - General - Phys Plague Debuff Intensity": {
+        {
+            "name": "Judgement - General - Phys Plague Debuff Intensity",
             "id": 116,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1483,7 +1538,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
             }
         },
-        "Judgement - General - Fire Lightning Debuff Intensity": {
+        {
+            "name": "Judgement - General - Fire Lightning Debuff Intensity",
             "id": 117,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1515,7 +1571,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
             }
         },
-        "Judgement - General - Status Duration": {
+        {
+            "name": "Judgement - General - Status Duration",
             "id": 118,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1543,7 +1600,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Judgement - General - Mana Cost": {
+        {
+            "name": "Judgement - General - Mana Cost",
             "id": 119,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1571,7 +1629,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Judgement - General - Radius": {
+        {
+            "name": "Judgement - General - Radius",
             "id": 120,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1595,7 +1654,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Lasso - General - Radius": {
+        {
+            "name": "Lasso - General - Radius",
             "id": 121,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -1619,7 +1679,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Lasso - General - Bleeding Intensity": {
+        {
+            "name": "Lasso - General - Bleeding Intensity",
             "id": 122,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1647,7 +1708,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Lasso - General - Bleeding Duration": {
+        {
+            "name": "Lasso - General - Bleeding Duration",
             "id": 123,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1679,7 +1741,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Lasso - General - Stun Duration": {
+        {
+            "name": "Lasso - General - Stun Duration",
             "id": 125,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -1711,7 +1774,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Lasso - General - Cooldown": {
+        {
+            "name": "Lasso - General - Cooldown",
             "id": 126,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1739,7 +1803,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Bombardment - General - Cooldown Blessing": {
+        {
+            "name": "Bombardment - General - Cooldown Blessing",
             "id": 127,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1767,7 +1832,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">+30%[x]</style>"
             }
         },
-        "Bombardment - General - Damage Blessing": {
+        {
+            "name": "Bombardment - General - Damage Blessing",
             "id": 128,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1799,7 +1865,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Bombardment - General - Duration Blessing": {
+        {
+            "name": "Bombardment - General - Duration Blessing",
             "id": 129,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1827,7 +1894,8 @@
                 "zh-cn": "持续时间：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Bombardment - General - AoE Blessing": {
+        {
+            "name": "Bombardment - General - AoE Blessing",
             "id": 130,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1855,7 +1923,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Bombardment - General - Frequency Blessing": {
+        {
+            "name": "Bombardment - General - Frequency Blessing",
             "id": 131,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -1887,7 +1956,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Summon The Guard - General - Buff Duration": {
+        {
+            "name": "Summon The Guard - General - Buff Duration",
             "id": 132,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1915,7 +1985,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Summon The Guard - General - Cooldown": {
+        {
+            "name": "Summon The Guard - General - Cooldown",
             "id": 133,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1943,7 +2014,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[x]</style>"
             }
         },
-        "Summon The Guard - General - Summon Amount": {
+        {
+            "name": "Summon The Guard - General - Summon Amount",
             "id": 134,
             "basePrice": 0.0,
             "supportedRarities": "Epic",
@@ -1963,7 +2035,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+1</style>"
             }
         },
-        "Summon The Guard - General - Summon Attack Speed": {
+        {
+            "name": "Summon The Guard - General - Summon Attack Speed",
             "id": 135,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -1991,7 +2064,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Summon The Guard - General - Summon Damage": {
+        {
+            "name": "Summon The Guard - General - Summon Damage",
             "id": 136,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -2023,7 +2097,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Matadeira - General - Damage": {
+        {
+            "name": "Matadeira - General - Damage",
             "id": 137,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -2055,7 +2130,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Matadeira - General - Radius": {
+        {
+            "name": "Matadeira - General - Radius",
             "id": 139,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2083,7 +2159,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Matadeira - General - Anticipation Duration": {
+        {
+            "name": "Matadeira - General - Anticipation Duration",
             "id": 140,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -2107,7 +2184,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">‑40%[x]</style>"
             }
         },
-        "Matadeira - General - Cooldown": {
+        {
+            "name": "Matadeira - General - Cooldown",
             "id": 141,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2135,7 +2213,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">+30%[x]</style>"
             }
         },
-        "Matadeira - General - DotDuration": {
+        {
+            "name": "Matadeira - General - DotDuration",
             "id": 142,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2167,7 +2246,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Veil of Quills - General - Damage": {
+        {
+            "name": "Veil of Quills - General - Damage",
             "id": 143,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -2199,7 +2279,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Veil of Quills - General - Projectile Amount": {
+        {
+            "name": "Veil of Quills - General - Projectile Amount",
             "id": 144,
             "basePrice": 300.0,
             "supportedRarities": "Epic",
@@ -2219,7 +2300,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+2</style>"
             }
         },
-        "Veil of Quills - General - Projectile Speed": {
+        {
+            "name": "Veil of Quills - General - Projectile Speed",
             "id": 145,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2247,7 +2329,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
             }
         },
-        "Veil of Quills - General - Mana Cost": {
+        {
+            "name": "Veil of Quills - General - Mana Cost",
             "id": 146,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2275,7 +2358,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Veil of Quills - General - Attack Speed": {
+        {
+            "name": "Veil of Quills - General - Attack Speed",
             "id": 147,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2303,7 +2387,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Holy Rosary - General - Damage": {
+        {
+            "name": "Holy Rosary - General - Damage",
             "id": 148,
             "basePrice": 300.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -2335,7 +2420,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Holy Rosary - General - Projectile Speed": {
+        {
+            "name": "Holy Rosary - General - Projectile Speed",
             "id": 149,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2363,7 +2449,8 @@
                 "zh-cn": "投射物速度：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Holy Rosary - General - Projectile Duration": {
+        {
+            "name": "Holy Rosary - General - Projectile Duration",
             "id": 150,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -2387,7 +2474,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
             }
         },
-        "Holy Rosary - General - Mana Cost": {
+        {
+            "name": "Holy Rosary - General - Mana Cost",
             "id": 151,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2415,7 +2503,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑20%[x]</style>"
             }
         },
-        "Holy Rosary - General - Attack Speed": {
+        {
+            "name": "Holy Rosary - General - Attack Speed",
             "id": 152,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2447,7 +2536,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Repeater - General - Critical Damage Blessing": {
+        {
+            "name": "Repeater - General - Critical Damage Blessing",
             "id": 153,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2479,7 +2569,8 @@
                 "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">+60%</style>"
             }
         },
-        "Shadow Dash - General - Width Blessing": {
+        {
+            "name": "Shadow Dash - General - Width Blessing",
             "id": 154,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2507,7 +2598,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "The Old Bell - General - Critical Damage Blessing": {
+        {
+            "name": "The Old Bell - General - Critical Damage Blessing",
             "id": 155,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2539,7 +2631,8 @@
                 "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">+50%</style>"
             }
         },
-        "Shadow Dash - General - Speed Blessing": {
+        {
+            "name": "Shadow Dash - General - Speed Blessing",
             "id": 156,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2571,7 +2664,8 @@
                 "zh-cn": "冲刺速度 <style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Closed Body - Conviction Gain - Blessing": {
+        {
+            "name": "Closed Body - Conviction Gain - Blessing",
             "id": 157,
             "basePrice": 300.0,
             "supportedRarities": "Everything",
@@ -2603,7 +2697,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Closed Body - Retaliation Aura Duration - Blessing": {
+        {
+            "name": "Closed Body - Retaliation Aura Duration - Blessing",
             "id": 158,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2631,7 +2726,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Closed Body - Retaliation Aura Radius - Blessing": {
+        {
+            "name": "Closed Body - Retaliation Aura Radius - Blessing",
             "id": 159,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -2659,7 +2755,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Closed Body - Retaliation Aura Decay Resistance - Blessing": {
+        {
+            "name": "Closed Body - Retaliation Aura Decay Resistance - Blessing",
             "id": 160,
             "basePrice": 300.0,
             "supportedRarities": "Rare, Epic",
@@ -2683,7 +2780,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Precision 2 - Critical Chance- Stat Blessing": {
+        {
+            "name": "Precision 2 - Critical Chance- Stat Blessing",
             "id": 161,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -2704,7 +2802,8 @@
                 "zh-cn": "暴击几率 <style=\"GreenText\">+20%[+] </style>\r\n"
             }
         },
-        "Precision 3 - Critical Chance - Stat Blessing": {
+        {
+            "name": "Precision 3 - Critical Chance - Stat Blessing",
             "id": 162,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2725,7 +2824,8 @@
                 "zh-cn": "暴击几率 <style=\"GreenText\">+30%[+] </style>\r\n"
             }
         },
-        "Precision 3 - Critical Damage - Stat Blessing": {
+        {
+            "name": "Precision 3 - Critical Damage - Stat Blessing",
             "id": 163,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2746,7 +2846,8 @@
                 "zh-cn": "暴击伤害 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Precision 3 - Critical Chance and Damage - Stat Blessing": {
+        {
+            "name": "Precision 3 - Critical Chance and Damage - Stat Blessing",
             "id": 164,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2767,7 +2868,8 @@
                 "zh-cn": "暴击伤害 <style=\"GreenText\">+25%[+] </style>\r\n暴击几率 <style=\"GreenText\">+25%[+] </style>\r\n"
             }
         },
-        "Precision 3 - Projectile Skill Damage - Skill Blessing": {
+        {
+            "name": "Precision 3 - Projectile Skill Damage - Skill Blessing",
             "id": 165,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2788,7 +2890,8 @@
                 "zh-cn": "PrecisionFoundationProjectileDamageBlessing&<+50%[+]"
             }
         },
-        "Precision 4 - Critical Damage - Stat Blessing": {
+        {
+            "name": "Precision 4 - Critical Damage - Stat Blessing",
             "id": 166,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -2809,7 +2912,8 @@
                 "zh-cn": "暴击伤害 <style=\"GreenText\">+40% </style>\r\n"
             }
         },
-        "Precision 4 - Critical Hits Increase Crit Chance - Skill Blessing": {
+        {
+            "name": "Precision 4 - Critical Hits Increase Crit Chance - Skill Blessing",
             "id": 167,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -2830,7 +2934,8 @@
                 "zh-cn": "PrecisionFoundationCritChanceBuffBlessing&<+4.5%[+]"
             }
         },
-        "Precision 4 - Projectile Amount - Stat Blessing": {
+        {
+            "name": "Precision 4 - Projectile Amount - Stat Blessing",
             "id": 168,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -2851,7 +2956,8 @@
                 "zh-cn": "技能投射物数量 <style=\"GreenText\">+100% </style>\r\n伤害 <style=\"GreenText\">‑30%[x] </style>\r\n"
             }
         },
-        "Lethality 1 - Phys Damage - Stat Blessing": {
+        {
+            "name": "Lethality 1 - Phys Damage - Stat Blessing",
             "id": 169,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -2872,7 +2978,8 @@
                 "zh-cn": "物理伤害 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Lethality 2 - Melee Damage - Stat Blessing": {
+        {
+            "name": "Lethality 2 - Melee Damage - Stat Blessing",
             "id": 170,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -2893,7 +3000,8 @@
                 "zh-cn": "技能近战伤害 <style=\"GreenText\">+25% </style>\r\n"
             }
         },
-        "Lethality 2 - Phys Damage - Stat Blessing": {
+        {
+            "name": "Lethality 2 - Phys Damage - Stat Blessing",
             "id": 171,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -2914,7 +3022,8 @@
                 "zh-cn": "物理伤害 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Lethality 3 - Phys Damage - Stat Blessing": {
+        {
+            "name": "Lethality 3 - Phys Damage - Stat Blessing",
             "id": 172,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2935,7 +3044,8 @@
                 "zh-cn": "物理伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Lethality 3 - Bleed Damage - Stat Blessing": {
+        {
+            "name": "Lethality 3 - Bleed Damage - Stat Blessing",
             "id": 173,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2956,7 +3066,8 @@
                 "zh-cn": "流血伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Lethality 3 - Melee Damage - Stat Blessing": {
+        {
+            "name": "Lethality 3 - Melee Damage - Stat Blessing",
             "id": 174,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2977,7 +3088,8 @@
                 "zh-cn": "技能近战伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Lethality 3 - Melee AoE - Skill Blessing": {
+        {
+            "name": "Lethality 3 - Melee AoE - Skill Blessing",
             "id": 175,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -2998,7 +3110,8 @@
                 "zh-cn": "LethalityFoundationMeleeAoeBlessing&<+30%[+]"
             }
         },
-        "Lethality 4 - Melee Damage - Stat Blessing": {
+        {
+            "name": "Lethality 4 - Melee Damage - Stat Blessing",
             "id": 176,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3019,7 +3132,8 @@
                 "zh-cn": "技能近战伤害 <style=\"GreenText\">+50% </style>\r\n"
             }
         },
-        "Lethality 4 - Bleed Duration - Stat Blessing": {
+        {
+            "name": "Lethality 4 - Bleed Duration - Stat Blessing",
             "id": 177,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3040,7 +3154,8 @@
                 "zh-cn": "流血持续时间 <style=\"GreenText\">+1 </style>\r\n"
             }
         },
-        "Lethality 4 - Hits Reduce Phys Res - Skill Blessing": {
+        {
+            "name": "Lethality 4 - Hits Reduce Phys Res - Skill Blessing",
             "id": 178,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3061,7 +3176,8 @@
                 "zh-cn": "LethalityFoundationHitsReducePhysResBlessing&<20%"
             }
         },
-        "Alacrity 1 - Move Speed - Stat Blessing": {
+        {
+            "name": "Alacrity 1 - Move Speed - Stat Blessing",
             "id": 179,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -3082,7 +3198,8 @@
                 "zh-cn": "移动速度 <style=\"GreenText\">+7% </style>\r\n"
             }
         },
-        "Constitution 1 - Life - Stat Blessing": {
+        {
+            "name": "Constitution 1 - Life - Stat Blessing",
             "id": 180,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -3103,7 +3220,8 @@
                 "zh-cn": "生命 <style=\"GreenText\">+15%[+] </style>\r\n"
             }
         },
-        "Force 1 - Elemental Damage - Stat Blessing": {
+        {
+            "name": "Force 1 - Elemental Damage - Stat Blessing",
             "id": 181,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -3124,7 +3242,8 @@
                 "zh-cn": "元素伤害 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Spirit 1 - Mana - Stat Blessing": {
+        {
+            "name": "Spirit 1 - Mana - Stat Blessing",
             "id": 182,
             "basePrice": 600.0,
             "supportedRarities": "Common",
@@ -3145,7 +3264,8 @@
                 "zh-cn": "法力值 <style=\"GreenText\">+15%[+] </style>\r\n"
             }
         },
-        "Force 2 - Elemental Ailment Duration - Stat Blessing": {
+        {
+            "name": "Force 2 - Elemental Ailment Duration - Stat Blessing",
             "id": 183,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3166,7 +3286,8 @@
                 "zh-cn": "元素异常状态持续时间 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 2 - Spell Damage - Stat Blessing": {
+        {
+            "name": "Force 2 - Spell Damage - Stat Blessing",
             "id": 184,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3187,7 +3308,8 @@
                 "zh-cn": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Force 4 - AoE - Stat Blessing": {
+        {
+            "name": "Force 4 - AoE - Stat Blessing",
             "id": 185,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3208,7 +3330,8 @@
                 "zh-cn": "技能效果范围 <style=\"GreenText\">+40% </style>\r\n"
             }
         },
-        "Force 3 - Ignite Damage - Stat Blessing": {
+        {
+            "name": "Force 3 - Ignite Damage - Stat Blessing",
             "id": 186,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3229,7 +3352,8 @@
                 "zh-cn": "点燃伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 3 - Elemental Ailment Duration - Stat Blessing": {
+        {
+            "name": "Force 3 - Elemental Ailment Duration - Stat Blessing",
             "id": 187,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3250,7 +3374,8 @@
                 "zh-cn": "元素异常状态持续时间 <style=\"GreenText\">+50% </style>\r\n"
             }
         },
-        "Force 3 - Fire Damage - Stat Blessing": {
+        {
+            "name": "Force 3 - Fire Damage - Stat Blessing",
             "id": 188,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3271,7 +3396,8 @@
                 "zh-cn": "火焰伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 3 - Lightning Damage - Stat Blessing": {
+        {
+            "name": "Force 3 - Lightning Damage - Stat Blessing",
             "id": 189,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3292,7 +3418,8 @@
                 "zh-cn": "闪电伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 3 - Plague Damage - Stat Blessing": {
+        {
+            "name": "Force 3 - Plague Damage - Stat Blessing",
             "id": 190,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3313,7 +3440,8 @@
                 "zh-cn": "瘟疫伤害 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 3 - AoE - Stat Blessing": {
+        {
+            "name": "Force 3 - AoE - Stat Blessing",
             "id": 191,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3334,7 +3462,8 @@
                 "zh-cn": "技能效果范围 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Force 2 - AoE Skills Damage - Skill Blessing": {
+        {
+            "name": "Force 2 - AoE Skills Damage - Skill Blessing",
             "id": 192,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3355,7 +3484,8 @@
                 "zh-cn": "ForceFoundationAoeSkillsDamageBlessing&<+25%[+]"
             }
         },
-        "Force 3 - Elemental Damage - Stat Blessing": {
+        {
+            "name": "Force 3 - Elemental Damage - Stat Blessing",
             "id": 193,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3376,7 +3506,8 @@
                 "zh-cn": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Force 4 - Ignite Duration - Stat Blessing": {
+        {
+            "name": "Force 4 - Ignite Duration - Stat Blessing",
             "id": 194,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3397,7 +3528,8 @@
                 "zh-cn": "点燃持续时间 <style=\"GreenText\">+100%[+] </style>\r\n"
             }
         },
-        "Force 4 - Shock and Blight Intensity - Stat Blessing": {
+        {
+            "name": "Force 4 - Shock and Blight Intensity - Stat Blessing",
             "id": 195,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3418,7 +3550,8 @@
                 "zh-cn": "触电强度 <style=\"GreenText\">+50%[+] </style>\r\n枯疫强度 <style=\"GreenText\">+50%[+] </style>\r\n"
             }
         },
-        "Force 4 - Wither Buildup - Stat Blessing": {
+        {
+            "name": "Force 4 - Wither Buildup - Stat Blessing",
             "id": 196,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3439,7 +3572,8 @@
                 "zh-cn": "衰竭积蓄速率 <style=\"GreenText\">+25% </style>\r\n"
             }
         },
-        "Force 4 - Hits Reduce Fire Res - Skill Blessing": {
+        {
+            "name": "Force 4 - Hits Reduce Fire Res - Skill Blessing",
             "id": 197,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3460,7 +3594,8 @@
                 "zh-cn": "ForceFoundationFireResShredBlessing&<20%"
             }
         },
-        "Force 4 - Hits Reduce Lightning Res - Skill Blessing": {
+        {
+            "name": "Force 4 - Hits Reduce Lightning Res - Skill Blessing",
             "id": 198,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3481,7 +3616,8 @@
                 "zh-cn": "ForceFoundationLightningResShredBlessing&<20%"
             }
         },
-        "Force 4 - Hits Reduce Plague Res - Skill Blessing": {
+        {
+            "name": "Force 4 - Hits Reduce Plague Res - Skill Blessing",
             "id": 199,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3502,7 +3638,8 @@
                 "zh-cn": "ForceFoundationPlagueResShredBlessing&<20%"
             }
         },
-        "Force 4 - Hits Reduce Other Elemental Res - Skill Blessing": {
+        {
+            "name": "Force 4 - Hits Reduce Other Elemental Res - Skill Blessing",
             "id": 200,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3523,7 +3660,8 @@
                 "zh-cn": "ForceFoundationOtherElementalResShredBlessing&<20%"
             }
         },
-        "Constitution 2 - Life - Stat Blessing": {
+        {
+            "name": "Constitution 2 - Life - Stat Blessing",
             "id": 201,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3544,7 +3682,8 @@
                 "zh-cn": "生命 <style=\"GreenText\">+20%[+] </style>\r\n"
             }
         },
-        "Constitution 2 - Life Regen - Stat Blessing": {
+        {
+            "name": "Constitution 2 - Life Regen - Stat Blessing",
             "id": 202,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3565,7 +3704,8 @@
                 "zh-cn": "生命再生 <style=\"GreenText\">+3% </style>\r\n"
             }
         },
-        "Constitution 3 - Phys Res - Stat Blessing": {
+        {
+            "name": "Constitution 3 - Phys Res - Stat Blessing",
             "id": 203,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3586,7 +3726,8 @@
                 "zh-cn": "物理抗性 <style=\"GreenText\">+12% </style>\r\n"
             }
         },
-        "Constitution 3 - Life - Stat Blessing": {
+        {
+            "name": "Constitution 3 - Life - Stat Blessing",
             "id": 204,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3607,7 +3748,8 @@
                 "zh-cn": "生命 <style=\"GreenText\">+30%[+] </style>\r\n"
             }
         },
-        "Constitution 3 - Max Potion - Stat Blessing": {
+        {
+            "name": "Constitution 3 - Max Potion - Stat Blessing",
             "id": 205,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3628,7 +3770,8 @@
                 "zh-cn": "药水容量 <style=\"GreenText\">+1 </style>\r\n"
             }
         },
-        "Constitution 3 - Life on Kill - Skill Blessing": {
+        {
+            "name": "Constitution 3 - Life on Kill - Skill Blessing",
             "id": 206,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3649,7 +3792,8 @@
                 "zh-cn": "击杀后恢复 <style=\"GreenText\">1.5% 生命值"
             }
         },
-        "Constitution 4 - Life on Hit Elites - Skill Blessing": {
+        {
+            "name": "Constitution 4 - Life on Hit Elites - Skill Blessing",
             "id": 207,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3670,7 +3814,8 @@
                 "zh-cn": "ConstitutionFoundationLifeOnHitElitesBlessing&<3%"
             }
         },
-        "Constitution 4 - Lifesteal Potion CD - Skill Blessing": {
+        {
+            "name": "Constitution 4 - Lifesteal Potion CD - Skill Blessing",
             "id": 208,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3690,7 +3835,8 @@
                 "zh-cn": "获得<style=\"GreenText\">1% 全局吸血"
             }
         },
-        "Constitution 4 - Endurance - Stat Blessing": {
+        {
+            "name": "Constitution 4 - Endurance - Stat Blessing",
             "id": 209,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3711,7 +3857,8 @@
                 "zh-cn": "耐力 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Constitution 4 - Life to Melee Damage - Skill Blessing": {
+        {
+            "name": "Constitution 4 - Life to Melee Damage - Skill Blessing",
             "id": 210,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3732,7 +3879,8 @@
                 "zh-cn": "ConstitutionFoundationLifeToMeleeDamageBlessing&<2.5%"
             }
         },
-        "Alacrity 4 - Move Speed on No Damage - Passive Skill Blessing": {
+        {
+            "name": "Alacrity 4 - Move Speed on No Damage - Passive Skill Blessing",
             "id": 211,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3753,7 +3901,8 @@
                 "zh-cn": "如果你在过去 4 秒内没有受到伤害，则移动速度 +15%"
             }
         },
-        "Alacrity 2 - Attack Speed - Stat Blessing": {
+        {
+            "name": "Alacrity 2 - Attack Speed - Stat Blessing",
             "id": 212,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3774,7 +3923,8 @@
                 "zh-cn": "攻击速度 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Alacrity 2 - Evasion - Stat Blessing": {
+        {
+            "name": "Alacrity 2 - Evasion - Stat Blessing",
             "id": 213,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3795,7 +3945,8 @@
                 "zh-cn": "闪避 <style=\"GreenText\">+10% </style>\r\n"
             }
         },
-        "Alacrity 3 - Evasion - Stat Blessing": {
+        {
+            "name": "Alacrity 3 - Evasion - Stat Blessing",
             "id": 214,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3816,7 +3967,8 @@
                 "zh-cn": "闪避 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Alacrity 4 - Speed on Evade - Skill Blessing": {
+        {
+            "name": "Alacrity 4 - Speed on Evade - Skill Blessing",
             "id": 215,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3837,7 +3989,8 @@
                 "zh-cn": "AlacrityFoundationSpeedOnEvadeBlessing&<+20%"
             }
         },
-        "Alacrity 3 - Attack Speed - Stat Blessing": {
+        {
+            "name": "Alacrity 3 - Attack Speed - Stat Blessing",
             "id": 216,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3858,7 +4011,8 @@
                 "zh-cn": "攻击速度 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Alacrity 4 - Attack Speed - Stat Blessing": {
+        {
+            "name": "Alacrity 4 - Attack Speed - Stat Blessing",
             "id": 217,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -3879,7 +4033,8 @@
                 "zh-cn": "攻击速度 <style=\"GreenText\">+100% </style>\r\n基础伤害值 <style=\"GreenText\">‑40%[+] </style>\r\n"
             }
         },
-        "Alacrity 3 - Move Speed - Stat Blessing": {
+        {
+            "name": "Alacrity 3 - Move Speed - Stat Blessing",
             "id": 218,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3900,7 +4055,8 @@
                 "zh-cn": "移动速度 <style=\"GreenText\">+10% </style>\r\n"
             }
         },
-        "Spirit 2 - CDR - Stat Blessing": {
+        {
+            "name": "Spirit 2 - CDR - Stat Blessing",
             "id": 219,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3921,7 +4077,8 @@
                 "zh-cn": "冷却速度 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Spirit 2 - Mana Regen - Stat Blessing": {
+        {
+            "name": "Spirit 2 - Mana Regen - Stat Blessing",
             "id": 220,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3942,7 +4099,8 @@
                 "zh-cn": "法力再生 <style=\"GreenText\">+30%[+] </style>\r\n"
             }
         },
-        "Spirit 2 - Conviction Gain - Stat Blessing": {
+        {
+            "name": "Spirit 2 - Conviction Gain - Stat Blessing",
             "id": 221,
             "basePrice": 600.0,
             "supportedRarities": "Magic",
@@ -3963,7 +4121,8 @@
                 "zh-cn": "信念获取 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Spirit 3 - CDR - Stat Blessing": {
+        {
+            "name": "Spirit 3 - CDR - Stat Blessing",
             "id": 222,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -3984,7 +4143,8 @@
                 "zh-cn": "冷却速度 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Spirit 3 - Mana Cost - Stat Blessing": {
+        {
+            "name": "Spirit 3 - Mana Cost - Stat Blessing",
             "id": 223,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -4005,7 +4165,8 @@
                 "zh-cn": "技能法力消耗 <style=\"GreenText\">‑10% </style>\r\n"
             }
         },
-        "Spirit 3 - Mana - Stat Blessing": {
+        {
+            "name": "Spirit 3 - Mana - Stat Blessing",
             "id": 224,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -4026,7 +4187,8 @@
                 "zh-cn": "法力值 <style=\"GreenText\">+25%[+] </style>\r\n"
             }
         },
-        "Spirit 3 - Conviction Decay Resistance - Stat Blessing": {
+        {
+            "name": "Spirit 3 - Conviction Decay Resistance - Stat Blessing",
             "id": 225,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -4047,7 +4209,8 @@
                 "zh-cn": "信念减弱抗性 <style=\"GreenText\">+15% </style>\r\n"
             }
         },
-        "Spirit 3 - Conviction Gain - Stat Blessing": {
+        {
+            "name": "Spirit 3 - Conviction Gain - Stat Blessing",
             "id": 226,
             "basePrice": 600.0,
             "supportedRarities": "Rare",
@@ -4068,7 +4231,8 @@
                 "zh-cn": "信念获取 <style=\"GreenText\">+30% </style>\r\n"
             }
         },
-        "Spirit 4 - Conviction from Mana - Stat Blessing": {
+        {
+            "name": "Spirit 4 - Conviction from Mana - Stat Blessing",
             "id": 227,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -4089,7 +4253,8 @@
                 "zh-cn": "法力消耗转化 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Spirit 4 - Mana Shield - Stat Blessing": {
+        {
+            "name": "Spirit 4 - Mana Shield - Stat Blessing",
             "id": 228,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -4110,7 +4275,8 @@
                 "zh-cn": "法力护盾 <style=\"GreenText\">+20% </style>\r\n"
             }
         },
-        "Spirit 4 - Cooldown On Kill - Skill Blessing": {
+        {
+            "name": "Spirit 4 - Cooldown On Kill - Skill Blessing",
             "id": 229,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -4131,7 +4297,8 @@
                 "zh-cn": "SpiritFoundationCooldownOnKillBlessing&<+2%"
             }
         },
-        "Spirit 4 - Mana to Spell Damage - Skill Blessing": {
+        {
+            "name": "Spirit 4 - Mana to Spell Damage - Skill Blessing",
             "id": 230,
             "basePrice": 600.0,
             "supportedRarities": "Epic",
@@ -4152,7 +4319,8 @@
                 "zh-cn": "SpiritFoundationManaToSpellDamageBlessing&<+2%"
             }
         },
-        "Veil of Quills - Feathered Dagger - Projectile Life Time": {
+        {
+            "name": "Veil of Quills - Feathered Dagger - Projectile Life Time",
             "id": 231,
             "basePrice": 300.0,
             "supportedRarities": "Magic, Rare",
@@ -4176,7 +4344,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Prayer of Health - General - Buff Duration Blessing": {
+        {
+            "name": "Prayer of Health - General - Buff Duration Blessing",
             "id": 232,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4200,7 +4369,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Prayer of Health - General - Life Per Second Blessing": {
+        {
+            "name": "Prayer of Health - General - Life Per Second Blessing",
             "id": 233,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4232,7 +4402,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Prayer of Health - General - Cooldown Blessing": {
+        {
+            "name": "Prayer of Health - General - Cooldown Blessing",
             "id": 234,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4260,7 +4431,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Prayer of Health - General - Activation Life Restored Blessing": {
+        {
+            "name": "Prayer of Health - General - Activation Life Restored Blessing",
             "id": 235,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4288,7 +4460,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Prayer of Health - General - Activation Damage Reduction Blessing": {
+        {
+            "name": "Prayer of Health - General - Activation Damage Reduction Blessing",
             "id": 236,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -4316,7 +4489,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
             }
         },
-        "Prayer of Vengeance - General - Critical Chance Blessing": {
+        {
+            "name": "Prayer of Vengeance - General - Critical Chance Blessing",
             "id": 237,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4344,7 +4518,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Prayer of Vengeance - General - Critical Damage Blessing": {
+        {
+            "name": "Prayer of Vengeance - General - Critical Damage Blessing",
             "id": 238,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4372,7 +4547,8 @@
                 "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">90%[+]</style>"
             }
         },
-        "Prayer of Vengeance - General - Buff Duration Blessing": {
+        {
+            "name": "Prayer of Vengeance - General - Buff Duration Blessing",
             "id": 239,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4396,7 +4572,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
             }
         },
-        "Prayer of Vengeance - General - Buff Intensity Blessing": {
+        {
+            "name": "Prayer of Vengeance - General - Buff Intensity Blessing",
             "id": 240,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4420,7 +4597,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
             }
         },
-        "Prayer of Vengeance - General - Cooldown Blessing": {
+        {
+            "name": "Prayer of Vengeance - General - Cooldown Blessing",
             "id": 241,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4448,7 +4626,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Summon Brute - General - Damage Blessing": {
+        {
+            "name": "Summon Brute - General - Damage Blessing",
             "id": 242,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4480,7 +4659,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Brute - General - Life Blessing": {
+        {
+            "name": "Summon Brute - General - Life Blessing",
             "id": 243,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4512,7 +4692,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Brute - General - Taunt Duration Blessing": {
+        {
+            "name": "Summon Brute - General - Taunt Duration Blessing",
             "id": 244,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4536,7 +4717,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Brute - General - Cooldown Blessing": {
+        {
+            "name": "Summon Brute - General - Cooldown Blessing",
             "id": 245,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4564,7 +4746,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑25%[x]</style>"
             }
         },
-        "Summon Brute - General - Respawn Blessing": {
+        {
+            "name": "Summon Brute - General - Respawn Blessing",
             "id": 246,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4588,7 +4771,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Passage - General - Cooldown Blessing": {
+        {
+            "name": "Passage - General - Cooldown Blessing",
             "id": 247,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -4616,7 +4800,8 @@
                 "zh-cn": "冷却时间：<style=\"GreenText\">‑40%[x]</style>"
             }
         },
-        "Passage - General - Mana Cost Blessing": {
+        {
+            "name": "Passage - General - Mana Cost Blessing",
             "id": 248,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4644,7 +4829,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Passage - General - Teleport Distance Blessing": {
+        {
+            "name": "Passage - General - Teleport Distance Blessing",
             "id": 249,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4672,7 +4858,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Passage - General - Area Radius Blessing": {
+        {
+            "name": "Passage - General - Area Radius Blessing",
             "id": 250,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4696,7 +4883,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Passage - General - Damage Blessing": {
+        {
+            "name": "Passage - General - Damage Blessing",
             "id": 251,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4728,7 +4916,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Marksmen - General - Summon Amount Blessing": {
+        {
+            "name": "Summon Marksmen - General - Summon Amount Blessing",
             "id": 252,
             "basePrice": 0.0,
             "supportedRarities": "Epic",
@@ -4748,7 +4937,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+1</style>"
             }
         },
-        "Summon Marksmen - General - Damage Blessing": {
+        {
+            "name": "Summon Marksmen - General - Damage Blessing",
             "id": 253,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4780,7 +4970,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Marksmen - General - Summon Duration Blessing": {
+        {
+            "name": "Summon Marksmen - General - Summon Duration Blessing",
             "id": 254,
             "basePrice": 0.0,
             "supportedRarities": "Everything",
@@ -4812,7 +5003,8 @@
                 "zh-cn": "持续时间：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Summon Marksmen - General - Summon Attack Speed Blessing": {
+        {
+            "name": "Summon Marksmen - General - Summon Attack Speed Blessing",
             "id": 255,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -4840,7 +5032,8 @@
                 "zh-cn": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
             }
         },
-        "Summon Marksmen - General - Mana Cost Blessing": {
+        {
+            "name": "Summon Marksmen - General - Mana Cost Blessing",
             "id": 256,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -4868,7 +5061,8 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑30%[x]</style>"
             }
         },
-        "Feitors Lash - General - Damage Blessing": {
+        {
+            "name": "Feitors Lash - General - Damage Blessing",
             "id": 257,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare, Epic",
@@ -4900,7 +5094,8 @@
                 "zh-cn": "伤害值：<style=\"GreenText\">+50%[+]</style>"
             }
         },
-        "Feitors Lash - General - Radius Blessing": {
+        {
+            "name": "Feitors Lash - General - Radius Blessing",
             "id": 258,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4924,7 +5119,8 @@
                 "zh-cn": "效果范围：<style=\"GreenText\">+30%[+]</style>"
             }
         },
-        "Feitors Lash - General - Skill Speed Blessing": {
+        {
+            "name": "Feitors Lash - General - Skill Speed Blessing",
             "id": 259,
             "basePrice": 0.0,
             "supportedRarities": "Magic, Rare, Epic",
@@ -4952,7 +5148,8 @@
                 "zh-cn": "技能施展速度：<style=\"GreenText\">+20%[+]</style>"
             }
         },
-        "Feitors Lash - General - Critical Damage Blessing": {
+        {
+            "name": "Feitors Lash - General - Critical Damage Blessing",
             "id": 260,
             "basePrice": 0.0,
             "supportedRarities": "Rare, Epic",
@@ -4976,7 +5173,8 @@
                 "zh-cn": "<b>暴击伤害</b>提高 <style=\"GreenText\">50%[+]</style>"
             }
         },
-        "Feitors Lash - General - Mana Cost Blessing": {
+        {
+            "name": "Feitors Lash - General - Mana Cost Blessing",
             "id": 261,
             "basePrice": 0.0,
             "supportedRarities": "Common, Magic, Rare",
@@ -5004,5 +5202,5 @@
                 "zh-cn": "法力消耗：<style=\"GreenText\">‑25%[x]</style>"
             }
         }
-    }
+    ]
 }
