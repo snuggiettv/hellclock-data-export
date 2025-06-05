@@ -3,19 +3,48 @@
         {
             "name": "BasicAttackDefinition",
             "id": 0,
-            "localizedName": {
-                "en": "Attack",
-                "pt-br": "Ataque",
-                "zh-cn": "攻击"
-            },
-            "descriptionKey": {
-                "en": "Basic revolver shot. Restores 15% of maximum Mana on hit.",
-                "pt-br": "Disparo básico de revólver. Recupera 15% de Mana ao atingir um alvo.",
-                "zh-cn": "基础左轮手枪射击。命中时恢复最大法力值的 15%。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Attack"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Ataque"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "攻击"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Basic revolver shot. Restores 15% of maximum Mana on hit."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Disparo básico de revólver. Recupera 15% de Mana ao atingir um alvo."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "基础左轮手枪射击。命中时恢复最大法力值的 15%。"
+                }
+            ],
             "icon": "IconSkill_BasicAttack",
             "baseDamageMod": 1.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [],
+            "statModifiersPerRankUpgrade": [],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Bullet Count Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.4,
             "minCooldown": 0.1,
             "useAttackSpeed": true,
@@ -32,19 +61,145 @@
         {
             "name": "SplitshotDefinition",
             "id": 1,
-            "localizedName": {
-                "en": "Split Shot",
-                "pt-br": "Tiro Disperso",
-                "zh-cn": "分裂射击"
-            },
-            "descriptionKey": {
-                "en": "Shoot multiple bullets in a cone in front of you. Especially strong against nearby enemies.",
-                "pt-br": "Atira múltiplos projéteis em forma de cone na sua frente. Especialmente forte contra inimigos próximos.",
-                "zh-cn": "向前方锥形区域发射多枚子弹，对附近敌人效果更强。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Split Shot"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Tiro Disperso"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "分裂射击"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Shoot multiple bullets in a cone in front of you. Especially strong against nearby enemies."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Atira múltiplos projéteis em forma de cone na sua frente. Especialmente forte contra inimigos próximos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "向前方锥形区域发射多枚子弹，对附近敌人效果更强。"
+                }
+            ],
             "icon": "IconSkill_SplitShot",
             "baseDamageMod": 0.6,
             "eDamageType": "FIRE",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.4
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CriticalDamage",
+                    "modifierType": "Additive",
+                    "value": 0.03
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Bullet Count Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.3,
             "minCooldown": 0.1,
             "useAttackSpeed": true,
@@ -61,19 +216,145 @@
         {
             "name": "ShadowDashDefinition",
             "id": 2,
-            "localizedName": {
-                "en": "Shadow Dash",
-                "pt-br": "Investida Sombria",
-                "zh-cn": "暗影冲刺"
-            },
-            "descriptionKey": {
-                "en": "Dash very quickly, dealing damage to enemies on your path.",
-                "pt-br": "Avança rapidamente, causando dano aos inimigos no seu caminho.",
-                "zh-cn": "极速冲刺，对路径上的敌人造成伤害。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Shadow Dash"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Investida Sombria"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "暗影冲刺"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Dash very quickly, dealing damage to enemies on your path."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Avança rapidamente, causando dano aos inimigos no seu caminho."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "极速冲刺，对路径上的敌人造成伤害。"
+                }
+            ],
             "icon": "IconSkill_ShadowDash",
             "baseDamageMod": 0.8,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 3.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "SkillManaCost",
+                    "modifierType": "MultiplicativeAdditive",
+                    "value": 0.975
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 3.0,
             "minCooldown": 0.15,
             "useAttackSpeed": false,
@@ -87,19 +368,145 @@
         {
             "name": "RepeaterDefinition",
             "id": 3,
-            "localizedName": {
-                "en": "Repeater",
-                "pt-br": "Tiro de Repetição",
-                "zh-cn": "连发射击"
-            },
-            "descriptionKey": {
-                "en": "By holding the skill button, machinegun-like fire on a single target.",
-                "pt-br": "Ao segurar o botão da habilidade, atire como uma metralhadora em um único alvo.",
-                "zh-cn": "按住技能按钮可对单一目标进行机枪式连续射击。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Repeater"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Tiro de Repetição"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "连发射击"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "By holding the skill button, machinegun-like fire on a single target."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Ao segurar o botão da habilidade, atire como uma metralhadora em um único alvo."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "按住技能按钮可对单一目标进行机枪式连续射击。"
+                }
+            ],
             "icon": "IconSkill_Repeater",
             "baseDamageMod": 0.66,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.4
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CriticalChance",
+                    "modifierType": "Additive",
+                    "value": 0.0075
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Bullet Count Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.5,
             "minCooldown": 0.1,
             "useAttackSpeed": true,
@@ -115,19 +522,152 @@
         {
             "name": "ReflexesDefinition",
             "id": 4,
-            "localizedName": {
-                "en": "Reflexes",
-                "pt-br": "Reflexos",
-                "zh-cn": "反应加速"
-            },
-            "descriptionKey": {
-                "en": "Summons a ring of Spectral Knives around the player that are automatically thrown at nearby enemies.",
-                "pt-br": "Conjura um anel de Facas Espectrais em volta do jogador, que são automaticamente arremessadas em inimigos próximos.",
-                "zh-cn": "在玩家周围召唤一圈幽冥飞刀，这些飞刀会自动投向附近的敌人。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Reflexes"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Reflexos"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "反应加速"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summons a ring of Spectral Knives around the player that are automatically thrown at nearby enemies."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Conjura um anel de Facas Espectrais em volta do jogador, que são automaticamente arremessadas em inimigos próximos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "在玩家周围召唤一圈幽冥飞刀，这些飞刀会自动投向附近的敌人。"
+                }
+            ],
             "icon": "IconSkill_Reflexes",
             "baseDamageMod": 0.75,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.375
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.75
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.125
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.875
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.25
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.625
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Damage",
+                    "modifierType": "Multiplicative",
+                    "value": 1.022
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Range Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Knives Count Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 8.0,
             "minCooldown": 0.5,
             "useAttackSpeed": false,
@@ -141,19 +681,137 @@
         {
             "name": "PrayerOfHealthSkillDefinition",
             "id": 46,
-            "localizedName": {
-                "en": "Prayer Of Health",
-                "pt-br": "Reza da Saúde",
-                "zh-cn": "生命之祷"
-            },
-            "descriptionKey": {
-                "en": "Gain Life Regen per second.\n\nActivating the Prayer heals you instantly and gives you 20% damage reduction temporarily.\n\nThis Skill affects both you and your allies.",
-                "pt-br": "Ganhe Regeneração de Vida por segundo.\n\nAtivar a Reza cura você instantaneamente e concede 20% de redução de dano temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados.",
-                "zh-cn": "每秒获得生命再生。\n\n激活祈祷时，立即恢复生命值，并获得短暂的伤害减免效果。\n\n该技能的所有效果同时作用于你和盟友。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Prayer Of Health"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Reza da Saúde"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "生命之祷"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Gain Life Regen per second.\n\nActivating the Prayer heals you instantly and gives you 20% damage reduction temporarily.\n\nThis Skill affects both you and your allies."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Ganhe Regeneração de Vida por segundo.\n\nAtivar a Reza cura você instantaneamente e concede 20% de redução de dano temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "每秒获得生命再生。\n\n激活祈祷时，立即恢复生命值，并获得短暂的伤害减免效果。\n\n该技能的所有效果同时作用于你和盟友。"
+                }
+            ],
             "icon": "IconSkill_PrayerofHealth",
             "baseDamageMod": 0.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.9
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(101) - Status Heal Amount Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.7
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "PhysicalResistance",
+                    "modifierType": "Additive",
+                    "value": 0.0075
+                }
+            ],
+            "skillValueModifierConfigs": [],
             "cooldown": 14.5,
             "minCooldown": 0.0,
             "useAttackSpeed": false,
@@ -167,19 +825,197 @@
         {
             "name": "PrayerOfVengeanceSkillDefinition",
             "id": 49,
-            "localizedName": {
-                "en": "Prayer of Vengeance",
-                "pt-br": "Reza de Proteção",
-                "zh-cn": "复仇之祷"
-            },
-            "descriptionKey": {
-                "en": "Gain +20%[+] to Critical Chance and Critical Damage passively.\n\nActivating the Prayer increases the intensity of this effect by 50% temporarily.\n\nThis Skill affects both you and your allies.",
-                "pt-br": "Ganhe +20%[+] de Chance de Crítico e Dano de Crítico passivamente.\n\nAtivar a Reza aumenta a intensidade deste efeito em 50% temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados.",
-                "zh-cn": "获得暴击几率与暴击伤害的被动加成。\n\n激活祈祷时，这些效果的强度获得短暂提升。\n\n该技能的所有效果同时作用于你和盟友。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Prayer of Vengeance"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Reza de Proteção"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "复仇之祷"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Gain +20%[+] to Critical Chance and Critical Damage passively.\n\nActivating the Prayer increases the intensity of this effect by 50% temporarily.\n\nThis Skill affects both you and your allies."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Ganhe +20%[+] de Chance de Crítico e Dano de Crítico passivamente.\n\nAtivar a Reza aumenta a intensidade deste efeito em 50% temporariamente.\n\nEsta Habilidade afeta tanto você quanto seus aliados."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "获得暴击几率与暴击伤害的被动加成。\n\n激活祈祷时，这些效果的强度获得短暂提升。\n\n该技能的所有效果同时作用于你和盟友。"
+                }
+            ],
             "icon": "IconSkill_PrayerofVengeance",
             "baseDamageMod": 0.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.05
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.05
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.15
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.15
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.25
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.25
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalChance Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "!StatusDefinitionCollection(103) - CriticalDamage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CriticalChance",
+                    "modifierType": "Additive",
+                    "value": 0.0075
+                }
+            ],
+            "skillValueModifierConfigs": [],
             "cooldown": 20.0,
             "minCooldown": 0.0,
             "useAttackSpeed": false,
@@ -193,19 +1029,187 @@
         {
             "name": "TheOldBellSkillDefinition",
             "id": 50,
-            "localizedName": {
-                "en": "Old Bell",
-                "pt-br": "Velho Sino",
-                "zh-cn": "古钟"
-            },
-            "descriptionKey": {
-                "en": "The Old Bell comes crashing down on your enemies",
-                "pt-br": "O velho sino desaba sobre os seus inimigos.",
-                "zh-cn": "一口古钟从天而降，猛烈砸向敌人"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Old Bell"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Velho Sino"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "古钟"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "The Old Bell comes crashing down on your enemies"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "O velho sino desaba sobre os seus inimigos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "一口古钟从天而降，猛烈砸向敌人"
+                }
+            ],
             "icon": "IconSkill_OldBell",
             "baseDamageMod": 2.5,
             "eDamageType": "PLAGUE",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.75
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.25
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 3.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 3.75
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 4.25
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Life",
+                    "modifierType": "MultiplicativeAdditive",
+                    "value": 1.015
+                },
+                {
+                    "eStatDefinition": "Mana",
+                    "modifierType": "MultiplicativeAdditive",
+                    "value": 1.015
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.5,
             "minCooldown": 0.16,
             "useAttackSpeed": false,
@@ -221,19 +1225,145 @@
         {
             "name": "JudgementDefinition",
             "id": 67,
-            "localizedName": {
-                "en": "Judgement",
-                "pt-br": "Julgamento",
-                "zh-cn": "审判"
-            },
-            "descriptionKey": {
-                "en": "All enemies in the target area are judged, reducing all their resistances by 40% during 4s.",
-                "pt-br": "Todos os inimigos na área alvo são julgados, reduzindo todas suas resistências em 40% durante 4s.",
-                "zh-cn": "目标区域内的所有敌人被审判，全体抗性降低 40%，持续 4 秒。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Judgement"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Julgamento"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "审判"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "All enemies in the target area are judged, reducing all their resistances by 40% during 4s."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Todos os inimigos na área alvo são julgados, reduzindo todas suas resistências em 40% durante 4s."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "目标区域内的所有敌人被审判，全体抗性降低 40%，持续 4 秒。"
+                }
+            ],
             "icon": "IconSkill_Judgement",
             "baseDamageMod": 0.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.7
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "AilmentDuration",
+                    "modifierType": "Additive",
+                    "value": 0.03
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 1.0,
             "minCooldown": 0.2,
             "useAttackSpeed": false,
@@ -247,19 +1377,152 @@
         {
             "name": "DoubleKnivesSkillDefinition",
             "id": 69,
-            "localizedName": {
-                "en": "Double Knives",
-                "pt-br": "Peixeiras",
-                "zh-cn": "双刃旋斩"
-            },
-            "descriptionKey": {
-                "en": "Continuously spin two blades around while you move, dealing Physical damage to nearby enemies.",
-                "pt-br": "Gire continuamente duas lâminas enquanto você se move, causando dano Físico aos inimigos próximos.",
-                "zh-cn": "移动时持续旋转双刃，对附近敌人造成物理伤害。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Double Knives"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Peixeiras"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "双刃旋斩"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Continuously spin two blades around while you move, dealing Physical damage to nearby enemies."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Gire continuamente duas lâminas enquanto você se move, causando dano Físico aos inimigos próximos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "移动时持续旋转双刃，对附近敌人造成物理伤害。"
+                }
+            ],
             "icon": "IconSkill_DoubleKnives",
             "baseDamageMod": 0.75,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.225
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.45
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.675
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.125
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.35
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "AttackSpeed",
+                    "modifierType": "Additive",
+                    "value": 0.0075
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillMeleeDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.5,
             "minCooldown": 0.16,
             "useAttackSpeed": true,
@@ -274,19 +1537,152 @@
         {
             "name": "PassageSkillDefinition",
             "id": 70,
-            "localizedName": {
-                "en": "Passage",
-                "pt-br": "Passagem",
-                "zh-cn": "虚空通道"
-            },
-            "descriptionKey": {
-                "en": "Cut a passage through space and time, instantly appearing somewhere else.",
-                "pt-br": "Corte uma passagem pelo espaço e tempo, aparecendo instantaneamente em outro lugar.",
-                "zh-cn": "撕裂时空，瞬间传送至目标位置。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Passage"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Passagem"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "虚空通道"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Cut a passage through space and time, instantly appearing somewhere else."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Corte uma passagem pelo espaço e tempo, aparecendo instantaneamente em outro lugar."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "撕裂时空，瞬间传送至目标位置。"
+                }
+            ],
             "icon": "IconSkill_Passage",
             "baseDamageMod": 1.0,
             "eDamageType": "LIGHTNING",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 3.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CooldownSpeed",
+                    "modifierType": "Additive",
+                    "value": 0.015
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 2.5,
             "minCooldown": 0.4,
             "useAttackSpeed": false,
@@ -302,19 +1698,182 @@
         {
             "name": "LassoSkillDefinition",
             "id": 71,
-            "localizedName": {
-                "en": "Lasso",
-                "pt-br": "Laço",
-                "zh-cn": "套索牵制"
-            },
-            "descriptionKey": {
-                "en": "Grapples and pulls enemies in an area, stunning them for 2 seconds with a 20% chance to cause Bleeding for 4 seconds. Bosses are not pulled, but can still suffer Bleeding and Stun.",
-                "pt-br": "Puxa inimigos para uma área, Atordoando-os por 2s e com 20% de chance de causar Sangramento por 4s. Chefes são imunes ao puxão, mas ainda podem sofrer Atordoamento e Sangramento.",
-                "zh-cn": "用套索钩住并拉拽区域内敌人，使其眩晕 2 秒，并有 20% 的几率造成流血，持续 4 秒。敌人首领不会被拉拽或眩晕，但仍可受到流血伤害。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Lasso"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Laço"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "套索牵制"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Grapples and pulls enemies in an area, stunning them for 2 seconds with a 20% chance to cause Bleeding for 4 seconds. Bosses are not pulled, but can still suffer Bleeding and Stun."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Puxa inimigos para uma área, Atordoando-os por 2s e com 20% de chance de causar Sangramento por 4s. Chefes são imunes ao puxão, mas ainda podem sofrer Atordoamento e Sangramento."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "用套索钩住并拉拽区域内敌人，使其眩晕 2 秒，并有 20% 的几率造成流血，持续 4 秒。敌人首领不会被拉拽或眩晕，但仍可受到流血伤害。"
+                }
+            ],
             "icon": "IconSkill_Lasso",
             "baseDamageMod": 0.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.6
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.9
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 3.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.1
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 3.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.4
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 3.65
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        },
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Damage",
+                    "modifierType": "Multiplicative",
+                    "value": 1.015
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillMeleeDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 11.5,
             "minCooldown": 0.1,
             "useAttackSpeed": false,
@@ -328,19 +1887,145 @@
         {
             "name": "FeitorsLashSkillDefinition",
             "id": 72,
-            "localizedName": {
-                "en": "Feitor’s Lash",
-                "pt-br": "Chicote do Feitor",
-                "zh-cn": "惩戒之鞭"
-            },
-            "descriptionKey": {
-                "en": "Lash at nearby enemies in an arc in front of you.",
-                "pt-br": "Ataque os inimigos próximos em um arco à sua frente.",
-                "zh-cn": "挥鞭横扫前方弧形区域的敌人。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Feitor’s Lash"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Chicote do Feitor"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "惩戒之鞭"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Lash at nearby enemies in an arc in front of you."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Ataque os inimigos próximos em um arco à sua frente."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "挥鞭横扫前方弧形区域的敌人。"
+                }
+            ],
             "icon": "IconSkill_FeitorsLash",
             "baseDamageMod": 1.0,
             "eDamageType": "FIRE",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.36
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.72
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.08
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.44
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.16
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Damage",
+                    "modifierType": "Multiplicative",
+                    "value": 1.022
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "",
+                    "multiplicativeStats": [
+                        "SkillMeleeDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.5,
             "minCooldown": 0.16,
             "useAttackSpeed": true,
@@ -356,19 +2041,182 @@
         {
             "name": "SlowTimeSkillDefinition",
             "id": 74,
-            "localizedName": {
-                "en": "Slow Time",
-                "pt-br": "Tempo Manso",
-                "zh-cn": "时间凝滞"
-            },
-            "descriptionKey": {
-                "en": "All enemies have their movement speed, attack speed and projectile speed reduced.",
-                "pt-br": "Conjura uma Bolha de Distorção Temporal, que reduz a velocidade de movimento, ataque e projéteis de inimigos.",
-                "zh-cn": "降低区域内所有敌人的移动速度、攻击速度和投射物速度。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Slow Time"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Tempo Manso"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "时间凝滞"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "All enemies have their movement speed, attack speed and projectile speed reduced."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Conjura uma Bolha de Distorção Temporal, que reduz a velocidade de movimento, ataque e projéteis de inimigos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "降低区域内所有敌人的移动速度、攻击速度和投射物速度。"
+                }
+            ],
             "icon": "IconSkill_SlowTime",
             "baseDamageMod": 0.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Duration Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Evasion",
+                    "modifierType": "Additive",
+                    "value": 0.01
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 11.0,
             "minCooldown": 0.2,
             "useAttackSpeed": false,
@@ -382,19 +2230,40 @@
         {
             "name": "Use Potion Skill Definition",
             "id": 150,
-            "localizedName": {
-                "en": "",
-                "pt-br": "",
-                "zh-cn": ""
-            },
-            "descriptionKey": {
-                "en": "",
-                "pt-br": "",
-                "zh-cn": ""
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": ""
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": ""
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": ""
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": ""
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": ""
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": ""
+                }
+            ],
             "icon": "Icon_Potion_Base",
             "baseDamageMod": 1.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [],
+            "statModifiersPerRankUpgrade": [],
+            "skillValueModifierConfigs": [],
             "cooldown": 0.15,
             "minCooldown": 0.05,
             "useAttackSpeed": false,
@@ -407,19 +2276,175 @@
         {
             "name": "ClosedBodySkillDefinition",
             "id": 157,
-            "localizedName": {
-                "en": "Closed Body",
-                "pt-br": "Corpo Fechado",
-                "zh-cn": "封闭躯壳"
-            },
-            "descriptionKey": {
-                "en": "Envelops you in a Barrier of Conviction based on your Maximum Mana. While Closed Body is active, your Conviction Decay is reduced by 50%, and every attack received is retaliated with a Physical Damage Explosion.",
-                "pt-br": "Envolve você em uma barreira de Convicção baseada na sua Energia Máxima. Enquanto a Corpo Fechado está ativa, seu Decaímento de Convicção é reduzido em 50% e todo ataque recebido é retaliado com uma Explosão de dano Físico em área.",
-                "zh-cn": "该技能基于最大法力值构筑一层“信念屏障”。封闭躯壳持续期间，信念减弱速度降低 50%，并在每次受到攻击时触发一次物理伤害爆炸反击敌人。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Closed Body"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Corpo Fechado"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "封闭躯壳"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Envelops you in a Barrier of Conviction based on your Maximum Mana. While Closed Body is active, your Conviction Decay is reduced by 50%, and every attack received is retaliated with a Physical Damage Explosion."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Envolve você em uma barreira de Convicção baseada na sua Energia Máxima. Enquanto a Corpo Fechado está ativa, seu Decaímento de Convicção é reduzido em 50% e todo ataque recebido é retaliado com uma Explosão de dano Físico em área."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "该技能基于最大法力值构筑一层“信念屏障”。封闭躯壳持续期间，信念减弱速度降低 50%，并在每次受到攻击时触发一次物理伤害爆炸反击敌人。"
+                }
+            ],
             "icon": "IconSkill_ClosedBody",
             "baseDamageMod": 1.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 0.8
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.7
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.7
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        },
+                        {
+                            "skillValueModifierKey": "Base Conviction Percentage Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "PhysicalResistance",
+                    "modifierType": "Additive",
+                    "value": 0.0075
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 15.0,
             "minCooldown": 1.0,
             "useAttackSpeed": false,
@@ -434,19 +2459,159 @@
         {
             "name": "BombardmentSkillDefinition",
             "id": 201,
-            "localizedName": {
-                "en": "Bombardment",
-                "pt-br": "Bombardeio",
-                "zh-cn": "炮火倾泻"
-            },
-            "descriptionKey": {
-                "en": "Summons a Bombardment over a large area for 8s, dealing AoE Physical damage on impact. ",
-                "pt-br": "Conjura um Bombardeio em uma grande área durante 8s, causando Dano Físico em área no impacto.",
-                "zh-cn": "在一片广阔区域内召唤炮火倾泻，持续 8 秒，命中时造成范围物理伤害。 "
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Bombardment"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Bombardeio"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "炮火倾泻"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summons a Bombardment over a large area for 8s, dealing AoE Physical damage on impact. "
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Conjura um Bombardeio em uma grande área durante 8s, causando Dano Físico em área no impacto."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "在一片广阔区域内召唤炮火倾泻，持续 8 秒，命中时造成范围物理伤害。 "
+                }
+            ],
             "icon": "IconSkill_RainOfHeads",
             "baseDamageMod": 1.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.7
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "SkillAreaOfEffect",
+                    "modifierType": "Additive",
+                    "value": 0.03
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Spawner Area Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 10.0,
             "minCooldown": 1.0,
             "useAttackSpeed": false,
@@ -461,19 +2626,167 @@
         {
             "name": "Summon The Guard Skill Definition",
             "id": 203,
-            "localizedName": {
-                "en": "Summon the Guard",
-                "pt-br": "Chamado da Guarda",
-                "zh-cn": "召唤卫兵"
-            },
-            "descriptionKey": {
-                "en": "Spirits of the Canudos Catholic Guard are summoned to fight by your side.\n\nGuard's Rage: Upon skill activation, all Catholic Guard's Spirits receive a 200% boost to attack speed for 4 seconds.\n\n",
-                "pt-br": "Espíritos da Guarda Católica de Canudos são invocados para lutar ao seu lado.\n\nFrenesi da Guarda: Ao ativar a habilidade, todos os Espíritos da Guarda Católica recebem um aumento de 200% na velocidade de ataque por 4 segundos.\n\n",
-                "zh-cn": "召唤卡努杜斯天主教卫队的英灵协助作战。\n\n卫兵之怒：技能激活时，所有天主教卫队英灵的攻击速度提升 200%，持续 4 秒。\n\n"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summon the Guard"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Chamado da Guarda"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤卫兵"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Spirits of the Canudos Catholic Guard are summoned to fight by your side.\n\nGuard's Rage: Upon skill activation, all Catholic Guard's Spirits receive a 200% boost to attack speed for 4 seconds.\n\n"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Espíritos da Guarda Católica de Canudos são invocados para lutar ao seu lado.\n\nFrenesi da Guarda: Ao ativar a habilidade, todos os Espíritos da Guarda Católica recebem um aumento de 200% na velocidade de ataque por 4 segundos.\n\n"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤卡努杜斯天主教卫队的英灵协助作战。\n\n卫兵之怒：技能激活时，所有天主教卫队英灵的攻击速度提升 200%，持续 4 秒。\n\n"
+                }
+            ],
             "icon": "IconSkill_SummonTheGuard",
             "baseDamageMod": 0.4,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.15
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.45
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.75
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CooldownSpeed",
+                    "modifierType": "Additive",
+                    "value": 0.015
+                }
+            ],
+            "skillValueModifierConfigs": [],
             "cooldown": 15.0,
             "minCooldown": 0.0,
             "useAttackSpeed": false,
@@ -488,19 +2801,152 @@
         {
             "name": "Matadeira Skill Definition",
             "id": 209,
-            "localizedName": {
-                "en": "Matadeira",
-                "pt-br": "Matadeira",
-                "zh-cn": "歼击炮"
-            },
-            "descriptionKey": {
-                "en": "Mark an area to be bombarded by a powerful cannon shot. The explosion area ignites for 3 seconds.",
-                "pt-br": "Marque uma área para ser bombardeada por um poderoso tiro de canhão. A área de explosão é incendiada por 3 segundos.",
-                "zh-cn": "标记一个区域，用强力炮弹对该区域轰炸，爆炸区域持续燃烧 3 秒。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Matadeira"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Matadeira"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "歼击炮"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Mark an area to be bombarded by a powerful cannon shot. The explosion area ignites for 3 seconds."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Marque uma área para ser bombardeada por um poderoso tiro de canhão. A área de explosão é incendiada por 3 segundos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "标记一个区域，用强力炮弹对该区域轰炸，爆炸区域持续燃烧 3 秒。"
+                }
+            ],
             "icon": "IconSkill_EnemyCannons",
             "baseDamageMod": 1.2,
             "eDamageType": "FIRE",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.36
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.72
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.08
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.44
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.16
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "SkillAreaOfEffect",
+                    "modifierType": "Additive",
+                    "value": 0.03
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Spawner Area Radius Modifier",
+                    "multiplicativeStats": [
+                        "SkillAreaOfEffect"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 5.0,
             "minCooldown": 1.0,
             "useAttackSpeed": false,
@@ -516,19 +2962,152 @@
         {
             "name": "Holy Rosary Skill Definition",
             "id": 210,
-            "localizedName": {
-                "en": "Holy Rosary",
-                "pt-br": "Santo Rosário",
-                "zh-cn": "神圣念珠"
-            },
-            "descriptionKey": {
-                "en": "Summon beads of the Rosary that orbit in a spiral around you, dealing {0} Lightning damage.",
-                "pt-br": "Conjura contas do Rosário que orbitam em espiral ao seu redor, causando {0} de dano Relâmpago.",
-                "zh-cn": "召唤念珠呈螺旋状环绕自身，造成 {0} 闪电伤害。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Holy Rosary"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Santo Rosário"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "神圣念珠"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summon beads of the Rosary that orbit in a spiral around you, dealing {0} Lightning damage."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Conjura contas do Rosário que orbitam em espiral ao seu redor, causando {0} de dano Relâmpago."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤念珠呈螺旋状环绕自身，造成 {0} 闪电伤害。"
+                }
+            ],
             "icon": "IconSkill_HolyRosary",
             "baseDamageMod": 1.2,
             "eDamageType": "LIGHTNING",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.36
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.72
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.08
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.44
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.6
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.1
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 2.16
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.7
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "CriticalDamage",
+                    "modifierType": "Additive",
+                    "value": 0.03
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Projectile Amount Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.4,
             "minCooldown": 0.13,
             "useAttackSpeed": true,
@@ -545,19 +3124,187 @@
         {
             "name": "Veil of Quils Skill Definition",
             "id": 211,
-            "localizedName": {
-                "en": "Veil of Quills",
-                "pt-br": "Véu de Plumas",
-                "zh-cn": "幽羽帷幕"
-            },
-            "descriptionKey": {
-                "en": "Unleashes a flurry of spectral quills that seek out nearby enemies, dealing 70% Plague damage.",
-                "pt-br": "Conjura uma rajada de penas espectrais que perseguem inimigos próximos, causando 70% de dano de Praga.",
-                "zh-cn": "释放一连串幽冥羽矢，主动搜寻附近敌人并造成 70% 瘟疫伤害。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Veil of Quills"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Véu de Plumas"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "幽羽帷幕"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Unleashes a flurry of spectral quills that seek out nearby enemies, dealing 70% Plague damage."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Conjura uma rajada de penas espectrais que perseguem inimigos próximos, causando 70% de dano de Praga."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "释放一连串幽冥羽矢，主动搜寻附近敌人并造成 70% 瘟疫伤害。"
+                }
+            ],
             "icon": "IconSkill_HomingProjectiles",
             "baseDamageMod": 0.6,
             "eDamageType": "PLAGUE",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.4
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "WitherBuildupRate",
+                    "modifierType": "Additive",
+                    "value": 0.015
+                },
+                {
+                    "eStatDefinition": "StunBuildupRate",
+                    "modifierType": "Additive",
+                    "value": 0.015
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "Projectile Amount Modifier",
+                    "multiplicativeStats": [
+                        "SkillProjectileAmount"
+                    ],
+                    "additiveStats": []
+                },
+                {
+                    "skillValueModifierKey": "Damage Modifier",
+                    "multiplicativeStats": [
+                        "SkillSpellDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 0.5,
             "minCooldown": 0.16,
             "useAttackSpeed": false,
@@ -573,19 +3320,205 @@
         {
             "name": "Summon Brute Skill Definition",
             "id": 323,
-            "localizedName": {
-                "en": "Summon Brute",
-                "pt-br": "Invocar o Cabrunco",
-                "zh-cn": "召唤蛮人"
-            },
-            "descriptionKey": {
-                "en": "Summons a large ally that can be targeted by enemies.\n\nThe Brute is automatically summoned and will revive 20 seconds after it is killed.\n\nActivate the Skill to force all nearby enemies to exclusively attack the Brute for 6 seconds.",
-                "pt-br": "Invoca um aliado poderoso que pode ser atacado pelos inimigos.\n\nO Cabrunco Espectral é invocado automaticamente e ressuscita 20 segundos após ser morto.\n\nAtivação: O Cabrunco força todos os inimigos próximos a atacá-lo por 6 segundos.",
-                "zh-cn": "召唤一名能被敌人锁定的强大盟友。\n\n蛮人会被自动召唤，并在被击杀后于 20 秒内自动复活。\n\n激活该技能将迫使附近所有敌人优先攻击蛮人，持续 6 秒。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summon Brute"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Invocar o Cabrunco"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤蛮人"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summons a large ally that can be targeted by enemies.\n\nThe Brute is automatically summoned and will revive 20 seconds after it is killed.\n\nActivate the Skill to force all nearby enemies to exclusively attack the Brute for 6 seconds."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Invoca um aliado poderoso que pode ser atacado pelos inimigos.\n\nO Cabrunco Espectral é invocado automaticamente e ressuscita 20 segundos após ser morto.\n\nAtivação: O Cabrunco força todos os inimigos próximos a atacá-lo por 6 segundos."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤一名能被敌人锁定的强大盟友。\n\n蛮人会被自动召唤，并在被击杀后于 20 秒内自动复活。\n\n激活该技能将迫使附近所有敌人优先攻击蛮人，持续 6 秒。"
+                }
+            ],
             "icon": "IconSkill_SummonBrute",
             "baseDamageMod": 1.0,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.3
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.6
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.9
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.0
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.8
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Summon Life Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 2.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Life",
+                    "modifierType": "MultiplicativeAdditive",
+                    "value": 1.022
+                }
+            ],
+            "skillValueModifierConfigs": [
+                {
+                    "skillValueModifierKey": "",
+                    "multiplicativeStats": [
+                        "SkillMeleeDamage"
+                    ],
+                    "additiveStats": []
+                }
+            ],
             "cooldown": 12.0,
             "minCooldown": 0.0,
             "useAttackSpeed": false,
@@ -600,19 +3533,167 @@
         {
             "name": "Summon Marksmen Skill Definition",
             "id": 326,
-            "localizedName": {
-                "en": "Summon Marksmen",
-                "pt-br": "Rifles Espectrais",
-                "zh-cn": "召唤神射手"
-            },
-            "descriptionKey": {
-                "en": "Summon a stationary phantom rifle that shoots at the nearest enemies.\n\nA maximum of 2 rifles can be active at once.",
-                "pt-br": "Invoca um rifle fantasma estacionário que atira nos inimigos mais próximos.\n\nNo máximo 2 rifles podem estar ativos ao mesmo tempo.",
-                "zh-cn": "召唤一把定点幻影步枪，自动射击最近的敌人。\n\n最多可同时激活 2 把步枪。"
-            },
+            "localizedName": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summon Marksmen"
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Rifles Espectrais"
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤神射手"
+                }
+            ],
+            "descriptionKey": [
+                {
+                    "langCode": "en",
+                    "langTranslation": "Summon a stationary phantom rifle that shoots at the nearest enemies.\n\nA maximum of 2 rifles can be active at once."
+                },
+                {
+                    "langCode": "pt-br",
+                    "langTranslation": "Invoca um rifle fantasma estacionário que atira nos inimigos mais próximos.\n\nNo máximo 2 rifles podem estar ativos ao mesmo tempo."
+                },
+                {
+                    "langCode": "zh-cn",
+                    "langTranslation": "召唤一把定点幻影步枪，自动射击最近的敌人。\n\n最多可同时激活 2 把步枪。"
+                }
+            ],
             "icon": "IconSkill_PhantomMarksmen",
             "baseDamageMod": 0.8,
             "eDamageType": "PHYSICAL",
+            "modifiersPerLevel": [
+                {
+                    "key": "1",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.25
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.1
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.3
+                        }
+                    ]
+                },
+                {
+                    "key": "2",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.2
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 1.65
+                        }
+                    ]
+                },
+                {
+                    "key": "3",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 0.75
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.3
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "Multiplicative",
+                            "value": 2.15
+                        }
+                    ]
+                },
+                {
+                    "key": "4",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.0
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.4
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.0
+                        }
+                    ]
+                },
+                {
+                    "key": "5",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.25
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.3
+                        }
+                    ]
+                },
+                {
+                    "key": "6",
+                    "value": [
+                        {
+                            "skillValueModifierKey": "Damage Modifier",
+                            "modifierType": "Additive",
+                            "value": 1.5
+                        },
+                        {
+                            "skillValueModifierKey": "Mana Cost Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 1.6
+                        },
+                        {
+                            "skillValueModifierKey": "Cooldown Modifier",
+                            "modifierType": "MultiplicativeAdditive",
+                            "value": 3.65
+                        }
+                    ]
+                }
+            ],
+            "statModifiersPerRankUpgrade": [
+                {
+                    "eStatDefinition": "Mana",
+                    "modifierType": "Multiplicative",
+                    "value": 1.015
+                }
+            ],
+            "skillValueModifierConfigs": [],
             "cooldown": 10.0,
             "minCooldown": 0.0,
             "useAttackSpeed": false,
