@@ -3,6 +3,7 @@
         {
             "name": "BaseDamage",
             "id": 0,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -28,6 +29,7 @@
         {
             "name": "CriticalChance",
             "id": 1,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -53,6 +55,7 @@
         {
             "name": "CriticalDamage",
             "id": 2,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -78,6 +81,7 @@
         {
             "name": "Life",
             "id": 3,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -103,6 +107,7 @@
         {
             "name": "PhysicalResistance",
             "id": 4,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -128,6 +133,7 @@
         {
             "name": "MagicResistance",
             "id": 5,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -153,6 +159,7 @@
         {
             "name": "MovementSpeed",
             "id": 6,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -178,6 +185,7 @@
         {
             "name": "AttackSpeed",
             "id": 7,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -203,6 +211,7 @@
         {
             "name": "CooldownSpeed",
             "id": 8,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -228,6 +237,7 @@
         {
             "name": "ExperienceGain",
             "id": 9,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -253,6 +263,7 @@
         {
             "name": "Mana",
             "id": 10,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -278,6 +289,7 @@
         {
             "name": "ItemFind",
             "id": 11,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -303,6 +315,7 @@
         {
             "name": "Damage",
             "id": 12,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -328,6 +341,7 @@
         {
             "name": "MagicDamage",
             "id": 13,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -353,6 +367,7 @@
         {
             "name": "AdditionalPhysicalDamage",
             "id": 14,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -378,6 +393,7 @@
         {
             "name": "PhysicalDamage",
             "id": 15,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -403,6 +419,7 @@
         {
             "name": "AdditionalFireDamage",
             "id": 16,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -428,6 +445,7 @@
         {
             "name": "FireDamage",
             "id": 17,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -453,6 +471,7 @@
         {
             "name": "AdditionalPlagueDamage",
             "id": 18,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -478,6 +497,7 @@
         {
             "name": "PlagueDamage",
             "id": 19,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -503,6 +523,7 @@
         {
             "name": "AdditionalLightningDamage",
             "id": 20,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -528,6 +549,7 @@
         {
             "name": "LightningDamage",
             "id": 21,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -553,6 +575,7 @@
         {
             "name": "SoulStoneGain",
             "id": 22,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -578,6 +601,7 @@
         {
             "name": "BlessedGearDropChanceBonus",
             "id": 23,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -603,6 +627,7 @@
         {
             "name": "BonusRelicDropsFromBoss",
             "id": 24,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -628,6 +653,7 @@
         {
             "name": "FireResistance",
             "id": 25,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -653,6 +679,7 @@
         {
             "name": "LightningResistance",
             "id": 26,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -678,6 +705,7 @@
         {
             "name": "PlagueResistance",
             "id": 27,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -703,6 +731,7 @@
         {
             "name": "LifeRegen",
             "id": 28,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -728,6 +757,7 @@
         {
             "name": "ManaRegen",
             "id": 29,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -753,6 +783,7 @@
         {
             "name": "ChanceToApplyBleed",
             "id": 30,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -778,6 +809,7 @@
         {
             "name": "ChanceToApplyIgnite",
             "id": 31,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -803,6 +835,7 @@
         {
             "name": "ChanceToApplyShock",
             "id": 32,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -828,6 +861,7 @@
         {
             "name": "ChanceToApplyBlight",
             "id": 33,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -853,6 +887,7 @@
         {
             "name": "AdditionalChanceToReceiveCritical",
             "id": 34,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -878,6 +913,7 @@
         {
             "name": "DamageOverTimeResistance",
             "id": 35,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -903,6 +939,7 @@
         {
             "name": "StunResistance",
             "id": 36,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -928,6 +965,7 @@
         {
             "name": "CrowdControlResistance",
             "id": 37,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -953,6 +991,7 @@
         {
             "name": "DamageLifeRegen",
             "id": 38,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -978,6 +1017,7 @@
         {
             "name": "DamageManaRegen",
             "id": 39,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1003,6 +1043,7 @@
         {
             "name": "GoldGain",
             "id": 40,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1028,6 +1069,7 @@
         {
             "name": "ManaSpentBarrierRegen",
             "id": 41,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1053,6 +1095,7 @@
         {
             "name": "BarrierGeneration",
             "id": 42,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1078,6 +1121,7 @@
         {
             "name": "BarrierDecayThreshold",
             "id": 43,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1103,6 +1147,7 @@
         {
             "name": "BarrierGain",
             "id": 44,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1128,6 +1173,7 @@
         {
             "name": "BarrierDecayResilience",
             "id": 45,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1153,6 +1199,7 @@
         {
             "name": "ChanceToFindPotion",
             "id": 46,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1178,6 +1225,7 @@
         {
             "name": "PotionCapacity",
             "id": 47,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1203,6 +1251,7 @@
         {
             "name": "PotionLifePercentageRegen",
             "id": 48,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1228,6 +1277,7 @@
         {
             "name": "PotionLifeFlatRegen",
             "id": 49,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1253,6 +1303,7 @@
         {
             "name": "PotionEfficiency",
             "id": 50,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1278,6 +1329,7 @@
         {
             "name": "TrinketDropChanceBonus",
             "id": 51,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1303,6 +1355,7 @@
         {
             "name": "RelicDropChanceBonus",
             "id": 52,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1328,6 +1381,7 @@
         {
             "name": "SummonLifePercentage",
             "id": 53,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1353,6 +1407,7 @@
         {
             "name": "SummonDamagePercentage",
             "id": 54,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1378,6 +1433,7 @@
         {
             "name": "SkillManaCost",
             "id": 57,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1403,6 +1459,7 @@
         {
             "name": "AilmentDuration",
             "id": 58,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1428,6 +1485,7 @@
         {
             "name": "BleedDuration",
             "id": 59,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1453,6 +1511,7 @@
         {
             "name": "IgniteDuration",
             "id": 60,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1478,6 +1537,7 @@
         {
             "name": "ShockDuration",
             "id": 61,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1503,6 +1563,7 @@
         {
             "name": "BlightDuration",
             "id": 62,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1528,6 +1589,7 @@
         {
             "name": "WitherDuration",
             "id": 63,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1553,6 +1615,7 @@
         {
             "name": "StunDuration",
             "id": 64,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1578,6 +1641,7 @@
         {
             "name": "AilmentDamage",
             "id": 65,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1603,6 +1667,7 @@
         {
             "name": "IgniteDamage",
             "id": 66,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1628,6 +1693,7 @@
         {
             "name": "ShockIntensity",
             "id": 67,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1653,6 +1719,7 @@
         {
             "name": "BlightIntensity",
             "id": 68,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1678,6 +1745,7 @@
         {
             "name": "WitherBuildupRate",
             "id": 69,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1703,6 +1771,7 @@
         {
             "name": "StunBuildupRate",
             "id": 70,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1728,6 +1797,7 @@
         {
             "name": "AilmentResistance",
             "id": 71,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1753,6 +1823,7 @@
         {
             "name": "BleedDamage",
             "id": 72,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1778,6 +1849,7 @@
         {
             "name": "WitherResistance",
             "id": 73,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1803,6 +1875,7 @@
         {
             "name": "Evasion",
             "id": 74,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1828,6 +1901,7 @@
         {
             "name": "SkillAreaOfEffect",
             "id": 75,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1853,6 +1927,7 @@
         {
             "name": "ManaShield",
             "id": 76,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1878,6 +1953,7 @@
         {
             "name": "DamageResistance",
             "id": 77,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1903,6 +1979,7 @@
         {
             "name": "Endurance",
             "id": 78,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1928,6 +2005,7 @@
         {
             "name": "AntiMagic",
             "id": 79,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1953,6 +2031,7 @@
         {
             "name": "ChanceToMiss",
             "id": 80,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -1978,6 +2057,7 @@
         {
             "name": "AilmentApplication",
             "id": 81,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2003,6 +2083,7 @@
         {
             "name": "SkillProjectileAmount",
             "id": 82,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2028,6 +2109,7 @@
         {
             "name": "SkillMeleeDamage",
             "id": 83,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2053,6 +2135,7 @@
         {
             "name": "ElementalAilmentDuration",
             "id": 84,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2078,6 +2161,7 @@
         {
             "name": "SkillSpellDamage",
             "id": 85,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2103,6 +2187,7 @@
         {
             "name": "LifeGain",
             "id": 86,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2128,6 +2213,7 @@
         {
             "name": "ManaGain",
             "id": 87,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2153,6 +2239,7 @@
         {
             "name": "ImmuneToPhysicalDamage",
             "id": 88,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2178,6 +2265,7 @@
         {
             "name": "ImmuneToFireDamage",
             "id": 89,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2203,6 +2291,7 @@
         {
             "name": "ImmuneToPlagueDamage",
             "id": 90,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2228,6 +2317,7 @@
         {
             "name": "ImmuneToLightningDamage",
             "id": 91,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
@@ -2253,6 +2343,7 @@
         {
             "name": "BuffDuration",
             "id": 92,
+            "type": "StatDefinition",
             "localizedName": [
                 {
                     "langCode": "en",
