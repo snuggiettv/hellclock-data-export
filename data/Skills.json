@@ -3227,7 +3227,6 @@
             "expansionSpeed": 2.0,
             "baseOrbitRadius": 2.0,
             "orbitAroundTarget": false,
-            "projectileHitFx": "HellClock.VFX.GameplayFx",
             "projectileSpeedModifierRange": [
                 300.0,
                 300.0
@@ -3410,7 +3409,6 @@
             "projectileRotationAcceleration": 2.0,
             "shouldLockTargetOnFire": true,
             "targetSearchAreaAngle": 270.0,
-            "projectileHitFx": "HellClock.VFX.GameplayFx",
             "projectileSpeedModifierRange": [
                 15.0,
                 15.0
