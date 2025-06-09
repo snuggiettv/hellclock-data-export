@@ -97,7 +97,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Stunned"
+                "icon": "IconStatus_Troubled"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -157,7 +157,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "LifelinkSkull_FXTex"
+                "icon": "IconStatus_Cursed"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -217,7 +217,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Exposed"
+                "icon": "IconStatus_CursedWraith"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -303,7 +303,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Cursor_Attack"
+                "icon": "IconStatus_Enraged"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -413,7 +413,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": ""
+                "icon": "Icon_Multiskill_Prayer"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -462,7 +462,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": " 每层移动速度 +10%"
+                        "langTranslation": " 每层移动速度 +6%"
                     }
                 ],
                 "icon": "Icon_MoveSpeed_Increase"
@@ -616,7 +616,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": ""
+                "icon": "IconStatus_Bleeding"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -674,7 +674,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Exposed"
+                "icon": "IconStatus_Scared"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -776,7 +776,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_AreaofEffect"
+                "icon": "IconStatus_ExplodeOnDeath_Fire"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -834,7 +834,7 @@
                         "langTranslation": "提高对伤害和控场的抗性"
                     }
                 ],
-                "icon": "Icon_ShrineBuff"
+                "icon": "IconStatus_ProtectionShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -891,7 +891,7 @@
                         "langTranslation": " 移动与攻击速度 +40%"
                     }
                 ],
-                "icon": "Icon_Cooldown_Base"
+                "icon": "IconStatus_SpeedShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -1103,7 +1103,7 @@
                         "langTranslation": "闪电光环"
                     }
                 ],
-                "icon": "Icon_LightningDamage_Base"
+                "icon": "IconStatus_ExplodeOnDeath_Lightning"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -1151,7 +1151,7 @@
                         "langTranslation": "再生光环"
                     }
                 ],
-                "icon": "Icon_Potion_LifeRegen"
+                "icon": "IconStatus_PrayerofHealth_v1"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -1202,7 +1202,7 @@
                         "langTranslation": "金币获取 +500%"
                     }
                 ],
-                "icon": "Icon_ShrineBuff"
+                "icon": "IconStatus_WealthShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -1964,7 +1964,7 @@
                         "langTranslation": " 伤害值 +20% (叠加 5 层)"
                     }
                 ],
-                "icon": "Icon_Damage_Base"
+                "icon": "IconStatus_DamageBuff"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2069,7 +2069,7 @@
                         "langTranslation": " 每层伤害值 +20%"
                     }
                 ],
-                "icon": "Icon_Damage_Base"
+                "icon": "IconStatus_DamageBuff"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2116,7 +2116,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": ""
+                "icon": "IconStatus_Lifelink"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -2171,10 +2171,10 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "免疫眩晕和控场"
+                        "langTranslation": "不可阻挡"
                     }
                 ],
-                "icon": "Icon_MoveSpeed_Base"
+                "icon": "IconStatus_SpeedShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2276,7 +2276,7 @@
                         "langTranslation": "TNF:(DevourerSkillDescription)"
                     }
                 ],
-                "icon": "Icon_Potion_LifeRegen"
+                "icon": "IconStatus_LifeRegen"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -2328,7 +2328,7 @@
                         "langTranslation": "坚韧"
                     }
                 ],
-                "icon": "Icon_Physical_Resistance_Base"
+                "icon": "IconStatus_PhysicalRes"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2532,7 +2532,7 @@
                         "langTranslation": "火焰抗性"
                     }
                 ],
-                "icon": "Icon_Fire_Resistance"
+                "icon": "IconStatus_FireRes"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2583,7 +2583,7 @@
                         "langTranslation": "闪电抗性"
                     }
                 ],
-                "icon": "Icon_Lightning_Resistance"
+                "icon": "IconStatus_LightningRes"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2634,7 +2634,7 @@
                         "langTranslation": "瘟疫抗性"
                     }
                 ],
-                "icon": "Icon_Plague_Resistance"
+                "icon": "IconStatus_PlagueRes"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2678,7 +2678,7 @@
                         "langTranslation": "腐烂"
                     }
                 ],
-                "icon": "IconStatus_Plagued"
+                "icon": "IconStatus_ExplodeOnDeath_Plague"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -2730,7 +2730,7 @@
                         "langTranslation": "经验值获取 +300%"
                     }
                 ],
-                "icon": "Icon_ShrineBuff"
+                "icon": "IconStatus_LearningShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2781,7 +2781,7 @@
                         "langTranslation": "伤害 +200%"
                     }
                 ],
-                "icon": "Icon_ShrineBuff"
+                "icon": "IconStatus_PowerShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2832,7 +2832,7 @@
                         "langTranslation": "冷却速度 +300%"
                     }
                 ],
-                "icon": "Icon_ShrineBuff"
+                "icon": "IconStatus_CadencyShrine"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -2929,7 +2929,7 @@
                         "langTranslation": "爆炸"
                     }
                 ],
-                "icon": "Icon_AreaofEffect"
+                "icon": "IconStatus_ExplodeOnDeath_Fire"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -3095,7 +3095,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": " 每层近战攻击速度 +10%"
+                        "langTranslation": "每层近战攻击速度 {0}"
                     }
                 ],
                 "icon": "Icon_Multiskill_Melee"
@@ -3145,7 +3145,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Slowed"
+                "icon": "IconStatus_Lifelink"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3203,7 +3203,7 @@
                         "langTranslation": "物理与瘟疫抗性 -40%"
                     }
                 ],
-                "icon": "IconStatus_AllResistanceShred_white"
+                "icon": "IconStatus_AllResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3446,7 +3446,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "精准祝福 IV"
+                        "langTranslation": "精准之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3516,7 +3516,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_AllResistanceShred_white"
+                "icon": "IconStatus_PhysicalResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3551,7 +3551,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "力量祝福 IV"
+                        "langTranslation": "力量之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3568,7 +3568,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Fire_Resistance"
+                "icon": "IconStatus_FireResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3603,7 +3603,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "力量祝福 IV"
+                        "langTranslation": "力量之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3620,7 +3620,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Lightning_Resistance"
+                "icon": "IconStatus_LightningResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3655,7 +3655,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "力量祝福 IV"
+                        "langTranslation": "力量之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3672,7 +3672,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Plague_Resistance"
+                "icon": "IconStatus_PlagueResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -3707,7 +3707,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "欣欣祝福 IV"
+                        "langTranslation": "敏捷之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3724,7 +3724,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_MoveSpeed_Base"
+                "icon": "Icon_MoveSpeed_Increase"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -3764,7 +3764,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "欣欣祝福 IV"
+                        "langTranslation": "敏捷之恩泽 IV"
                     }
                 ],
                 "descriptionKey": [
@@ -3781,7 +3781,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_MoveSpeed_Base"
+                "icon": "Icon_AttackSpeed_Base"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -3879,7 +3879,7 @@
                         "langTranslation": "法力再生速度提高"
                     }
                 ],
-                "icon": "UI_Icon_Mana"
+                "icon": "IconStatus_ManaRegen"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -3973,7 +3973,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "每层 +3% 伤害抵抗"
+                        "langTranslation": "+3 % Schadensresistenz pro Stapel"
                     }
                 ],
                 "icon": "IconStatus_VigorOrb"
@@ -4038,7 +4038,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "+30% 攻击速度/冷却时间。技能消耗 0 能量"
+                        "langTranslation": "+30 % Angriffsgeschwindigkeit/Abklingzeit. Fertigkeiten kosten 0 Mana."
                     }
                 ],
                 "icon": "IconStatus_ChildofOgum"
@@ -4204,7 +4204,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Physical_Resistance_Base"
+                "icon": "IconStatus_PrayerofHealth_v2"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4274,7 +4274,7 @@
                         "langTranslation": "每秒恢复 {0} 生命值"
                     }
                 ],
-                "icon": "Icon_Life_Base"
+                "icon": "IconStatus_PrayerofHealth_v1"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4356,7 +4356,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Multiskill_Prayer"
+                "icon": "IconStatus_PrayerofVengeance_v1"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4408,7 +4408,7 @@
                         "langTranslation": "复仇之祈祷增益强度：{0}"
                     }
                 ],
-                "icon": "Icon_Intensity"
+                "icon": "IconStatus_PrayerofVengeance_v2"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4544,7 +4544,7 @@
                         "langTranslation": "该角色正在嘲讽周围敌人"
                     }
                 ],
-                "icon": ""
+                "icon": "IconStatus_Stunned"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4743,7 +4743,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_CriticalChance"
+                "icon": "IconStatus_PrayerofVengeance_v1"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4856,7 +4856,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "清算旧账"
                     }
                 ],
                 "descriptionKey": [
@@ -4870,10 +4870,10 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "第 3 次施展监督者之鞭时，伤害提升且效果范围扩大"
                     }
                 ],
-                "icon": "IconSkill_FeitorsLash_grayscale"
+                "icon": "IconStatus_SettletheScore"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4906,7 +4906,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "Righteous Blade"
+                        "langTranslation": "正义之刃"
                     }
                 ],
                 "descriptionKey": [
@@ -4920,10 +4920,10 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "Righteous Aura\nDeals Fire damage to nearby enemies, but drains your life over time"
+                        "langTranslation": "正义光环\n对附近敌人造成火焰伤害，但会持续消耗你的生命值"
                     }
                 ],
-                "icon": "IconStatus_Enraged"
+                "icon": "IconStatus_RighteousBlade"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -4993,7 +4993,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "驻军补给"
                     }
                 ],
                 "descriptionKey": [
@@ -5007,10 +5007,10 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "狙击技能\n{1} 射弹数量\n{0} 损坏"
+                        "langTranslation": "神射手技能\n{1} 投射物数量\n{0} 伤害"
                     }
                 ],
-                "icon": "IconSkill_PrayerofVengeance_grayscale"
+                "icon": "IconStatus_GarrisonSupplies"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -5044,7 +5044,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "大地召唤"
                     }
                 ],
                 "descriptionKey": [
@@ -5061,7 +5061,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_AllResistanceShred"
+                "icon": "IconStatus_PhysicalResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -5096,7 +5096,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "苍空召唤"
                     }
                 ],
                 "descriptionKey": [
@@ -5113,7 +5113,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_AllResistanceShred_white"
+                "icon": "IconStatus_LightningResistanceShred"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -5192,7 +5192,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "热血"
                     }
                 ],
                 "descriptionKey": [
@@ -5245,7 +5245,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "技能正在充能"
+                        "langTranslation": "战争之音"
                     }
                 ],
                 "descriptionKey": [
@@ -5296,7 +5296,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "弹力"
+                        "langTranslation": "坚韧"
                     }
                 ],
                 "descriptionKey": [
@@ -5349,7 +5349,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "抗性元素药水"
+                        "langTranslation": "元素药水"
                     }
                 ],
                 "descriptionKey": [
@@ -5400,7 +5400,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "活力药水"
+                        "langTranslation": "魄力药水"
                     }
                 ],
                 "descriptionKey": [
@@ -5417,7 +5417,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "Icon_Potion_Base"
+                "icon": "IconStatus_PhysicalRes"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -5478,7 +5478,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "射手技能每次充能造成 {0} 点伤害"
+                        "langTranslation": "神射手技能每层可造成伤害 {0}"
                     }
                 ],
                 "icon": "Icon_Multiskill_Marksman"
@@ -5517,7 +5517,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "回避"
+                        "langTranslation": "闪避者"
                     }
                 ],
                 "descriptionKey": [
@@ -5534,7 +5534,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Evasion_white"
+                "icon": "IconStatus_Evasion"
             },
             "hideFromHud": false,
             "isBuff": true,
@@ -5568,7 +5568,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "短跑运动员"
+                        "langTranslation": "疾行者"
                     }
                 ],
                 "descriptionKey": [
@@ -5663,7 +5663,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_AllResistanceShred"
+                "icon": "IconStatus_Cursed"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -5741,7 +5741,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Exposed"
+                "icon": "IconStatus_Cursed"
             },
             "hideFromHud": false,
             "isBuff": false,
@@ -5839,7 +5839,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "Schönheit in Bewegung"
+                        "langTranslation": "灵动之美"
                     }
                 ],
                 "descriptionKey": [
@@ -5853,7 +5853,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "Ihr nächster Angriff ist garantiert ein kritischer Treffer"
+                        "langTranslation": "你的下次攻击必定暴击"
                     }
                 ],
                 "icon": "Icon_CriticalChance"
@@ -5890,7 +5890,7 @@
                     },
                     {
                         "langCode": "zh-cn",
-                        "langTranslation": "Oxums Gold"
+                        "langTranslation": "奥舒姆的金币"
                     }
                 ],
                 "descriptionKey": [
@@ -5964,7 +5964,7 @@
                         "langTranslation": ""
                     }
                 ],
-                "icon": "IconStatus_Slowed"
+                "icon": "IconStatus_Hopeless"
             },
             "hideFromHud": false,
             "isBuff": false,

@@ -254,7 +254,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
+                    "langTranslation": "暴击几率：<style=\"GreenText\">+10%</style>"
                 }
             ]
         },
@@ -511,7 +511,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福"
+                    "langTranslation": "战力之恩泽"
                 }
             ],
             "icon": "Icon_Damage_Base",
@@ -560,7 +560,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 I"
+                    "langTranslation": "精准之恩泽 I"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -576,7 +576,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击几率 <style=\"GreenText\">+4% </style>\r\n"
+                    "langTranslation": "暴击几率 <style=\"GreenText\">+4%</style>\r\n"
                 }
             ]
         },
@@ -609,7 +609,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 II"
+                    "langTranslation": "精准之恩泽 II"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -625,7 +625,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击伤害 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "暴击伤害 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -658,7 +658,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 II"
+                    "langTranslation": "杀伤力之恩泽 II"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -674,7 +674,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理伤害施加流血的几率 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "流血几率 (物理) <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -704,7 +704,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "点燃祝福"
+                    "langTranslation": "点燃之恩泽"
                 }
             ],
             "icon": "IconStatus_Ignited",
@@ -758,7 +758,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "健康祝福"
+                    "langTranslation": "生命之恩泽"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -812,7 +812,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "敏捷祝福"
+                    "langTranslation": "迅捷之恩泽"
                 }
             ],
             "icon": "Icon_AttackSpeed_Base",
@@ -862,7 +862,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "行动祝福"
+                    "langTranslation": "移动之恩泽"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -916,7 +916,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "信仰祝福"
+                    "langTranslation": "信仰之恩泽"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -970,7 +970,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "健身祝福"
+                    "langTranslation": "天资之恩泽"
                 }
             ],
             "icon": "Icon_Cooldown_Base",
@@ -1615,7 +1615,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "飞刀生成时间：<style=\"GreenText\">‑30%[x]</style>"
+                    "langTranslation": "飞刀生成时间和投掷速度：<style=\"GreenText\">‑30%[x]</style>"
                 }
             ]
         },
@@ -3031,7 +3031,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+10%</style>"
+                    "langTranslation": "暴击几率：<style=\"GreenText\">+10%</style>"
                 }
             ]
         },
@@ -3470,7 +3470,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "血肉诅咒"
                 }
             ],
             "effectTypeIcon": "Icon_Intensity",
@@ -3485,7 +3485,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
+                    "langTranslation": "物理/瘟疫抗性削弱强度：<style=\"GreenText\">+80%[+]</style>"
                 }
             ]
         },
@@ -3547,7 +3547,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "元素灾厄"
                 }
             ],
             "effectTypeIcon": "Icon_Intensity",
@@ -3562,7 +3562,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+80%[+]</style>"
+                    "langTranslation": "火焰/闪电抗性削弱强度：<style=\"GreenText\">+80%[+]</style>"
                 }
             ]
         },
@@ -3620,7 +3620,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "持续折磨"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -3635,7 +3635,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "敌人抗性削弱持续时间：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -3693,7 +3693,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "高效诅咒"
                 }
             ],
             "effectTypeIcon": "Icon_Mana_Base",
@@ -3762,7 +3762,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "厄运蔓延"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -3831,7 +3831,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "长臂套索"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -3904,7 +3904,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "血爆之怒"
                 }
             ],
             "effectTypeIcon": "Icon_Intensity",
@@ -3919,7 +3919,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "套索流血强度：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -3981,7 +3981,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "久伤不愈"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -3996,7 +3996,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "流血持续时间：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -4058,7 +4058,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "延时眩晕"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -4073,7 +4073,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "眩晕持续时间：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -4131,7 +4131,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "夺命回潮"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -4204,7 +4204,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "风暴加速"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -4281,7 +4281,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "无情猛攻"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -4354,7 +4354,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "延时风暴"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -4427,7 +4427,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "风暴扩散"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -4442,7 +4442,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+                    "langTranslation": "炮火倾泻的射程与爆炸范围：<style=\"GreenText\">+25%[+]</style>"
                 }
             ]
         },
@@ -4504,7 +4504,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "弹雨袭来"
                 }
             ],
             "effectTypeIcon": "Icon_Intensity",
@@ -4519,7 +4519,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "炮火倾泻频率：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -4577,7 +4577,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "延时守望"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -4592,7 +4592,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "卫兵之怒持续时间：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -4650,7 +4650,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "速速召回"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -4665,7 +4665,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+25%[x]</style>"
+                    "langTranslation": "卫兵之怒冷却时间：<style=\"GreenText\">+25%[x]</style>"
                 }
             ]
         },
@@ -4715,7 +4715,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "殉道者军团"
                 }
             ],
             "effectTypeIcon": "Icon_Amount",
@@ -4730,7 +4730,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+1</style>"
+                    "langTranslation": "召唤的英灵数量：<style=\"GreenText\">+1</style>"
                 }
             ]
         },
@@ -4788,7 +4788,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "圣火"
                 }
             ],
             "effectTypeIcon": "Icon_AttackSpeed_Base",
@@ -4803,7 +4803,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+                    "langTranslation": "天主教卫队的攻击速度：<style=\"GreenText\">+25%[+]</style>"
                 }
             ]
         },
@@ -4865,7 +4865,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "天罚重击"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -4880,7 +4880,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+                    "langTranslation": "天主教卫队造成的伤害：<style=\"GreenText\">+50%[+]</style>"
                 }
             ]
         },
@@ -4942,7 +4942,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "共和国的覆灭"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -5015,7 +5015,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "爆裂扩散"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -5084,7 +5084,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "复仇加速"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -5099,7 +5099,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">‑40%[x]</style>"
+                    "langTranslation": "冲击延迟：<style=\"GreenText\">‑40%[x]</style>"
                 }
             ]
         },
@@ -5157,7 +5157,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "急速火炮"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -5234,7 +5234,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "炼狱余烬"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -5249,7 +5249,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "点燃区域持续时间：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -5311,7 +5311,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "虚灵猛攻"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -5376,7 +5376,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "幽冥奔涌"
                 }
             ],
             "effectTypeIcon": "Icon_Amount",
@@ -5391,7 +5391,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+2</style>"
+                    "langTranslation": "羽矢数量：<style=\"GreenText\">+2</style>"
                 }
             ]
         },
@@ -5449,7 +5449,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "加速羽矢"
                 }
             ],
             "effectTypeIcon": "Icon_ProjectileSkills",
@@ -5464,7 +5464,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
+                    "langTranslation": "羽矢速度：<style=\"GreenText\">+35%[+]</style>"
                 }
             ]
         },
@@ -5522,7 +5522,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "灵能流动"
                 }
             ],
             "effectTypeIcon": "Icon_Mana_Base",
@@ -5595,7 +5595,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "幻影狂潮"
                 }
             ],
             "effectTypeIcon": "Icon_AttackSpeed_Base",
@@ -5672,7 +5672,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "炽热突袭"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -5745,7 +5745,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "信徒疾行"
                 }
             ],
             "effectTypeIcon": "Icon_ProjectileSkills",
@@ -5814,7 +5814,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "坚定信仰"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -5829,7 +5829,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+35%[+]</style>"
+                    "langTranslation": "投射物持续时间：<style=\"GreenText\">+35%[+]</style>"
                 }
             ]
         },
@@ -5887,7 +5887,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "节制恩典"
                 }
             ],
             "effectTypeIcon": "Icon_Mana_Base",
@@ -5964,7 +5964,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "炽热突袭"
                 }
             ],
             "effectTypeIcon": "Icon_AttackSpeed_Base",
@@ -6433,7 +6433,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "反击光环持续时间：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -6491,7 +6491,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "扩散反击"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -6560,7 +6560,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "不屈守望"
                 }
             ],
             "effectTypeIcon": "Icon_Conviction_Resilience",
@@ -6575,7 +6575,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "信念减弱抗性：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -6608,7 +6608,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 II"
+                    "langTranslation": "精准之恩泽 II"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6624,7 +6624,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击几率 <style=\"GreenText\">+20%[+] </style>\r\n"
+                    "langTranslation": "暴击几率 <style=\"GreenText\">+20%[+]</style>\r\n"
                 }
             ]
         },
@@ -6657,7 +6657,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 III"
+                    "langTranslation": "精准之恩泽 III"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6673,7 +6673,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击几率 <style=\"GreenText\">+30%[+] </style>\r\n"
+                    "langTranslation": "暴击几率 <style=\"GreenText\">+30%[+]</style>\r\n"
                 }
             ]
         },
@@ -6706,7 +6706,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 III"
+                    "langTranslation": "精准之恩泽 III"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6722,7 +6722,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击伤害 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "暴击伤害 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -6761,7 +6761,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 III"
+                    "langTranslation": "精准之恩泽 III"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6777,7 +6777,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击伤害 <style=\"GreenText\">+25%[+] </style>\r\n暴击几率 <style=\"GreenText\">+25%[+] </style>\r\n"
+                    "langTranslation": "暴击伤害 <style=\"GreenText\">+25%[+]</style>\r\n暴击几率 <style=\"GreenText\">+25%[+]</style>\r\n"
                 }
             ]
         },
@@ -6823,7 +6823,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 III"
+                    "langTranslation": "精准之恩泽 III"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6839,7 +6839,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "PrecisionFoundationProjectileDamageBlessing&<+50%[+]"
+                    "langTranslation": "所有投射物技能伤害提高 <style=\"GreenText\">+50%[+]</style>"
                 }
             ]
         },
@@ -6872,7 +6872,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 IV"
+                    "langTranslation": "精准之恩泽 IV"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6888,7 +6888,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击伤害 <style=\"GreenText\">+40% </style>\r\n"
+                    "langTranslation": "暴击伤害 <style=\"GreenText\">+40%</style>\r\n"
                 }
             ]
         },
@@ -6941,7 +6941,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 IV"
+                    "langTranslation": "精准之恩泽 IV"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -6957,7 +6957,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "PrecisionFoundationCritChanceBuffBlessing&<+4.5%[+]"
+                    "langTranslation": "暴击可使暴击几率提高 <style=\"GreenText\">+4.5%[+]</style>，持续 3 秒，最多可叠加 10 层。"
                 }
             ]
         },
@@ -6996,7 +6996,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "精准祝福 IV"
+                    "langTranslation": "精准之恩泽 IV"
                 }
             ],
             "icon": "Icon_CriticalDamage",
@@ -7012,7 +7012,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能投射物数量 <style=\"GreenText\">+100% </style>\r\n伤害 <style=\"GreenText\">‑30%[x] </style>\r\n"
+                    "langTranslation": "技能投射物数量 <style=\"GreenText\">+100%</style>\r\n伤害 <style=\"GreenText\">‑30%[x]</style>\r\n"
                 }
             ]
         },
@@ -7045,7 +7045,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 I"
+                    "langTranslation": "杀伤力之恩泽 I"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7061,7 +7061,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理伤害 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "物理伤害 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -7094,7 +7094,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 II"
+                    "langTranslation": "杀伤力之恩泽 II"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7110,7 +7110,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+25% </style>\r\n"
+                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+25%</style>\r\n"
                 }
             ]
         },
@@ -7143,7 +7143,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 II"
+                    "langTranslation": "杀伤力之恩泽 II"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7159,7 +7159,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理伤害 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "物理伤害 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -7192,7 +7192,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 III"
+                    "langTranslation": "杀伤力之恩泽 III"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7208,7 +7208,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "物理伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -7241,7 +7241,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 III"
+                    "langTranslation": "杀伤力之恩泽 III"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7257,7 +7257,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "流血伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "流血伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -7290,7 +7290,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 III"
+                    "langTranslation": "杀伤力之恩泽 III"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7306,7 +7306,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -7352,7 +7352,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 III"
+                    "langTranslation": "杀伤力之恩泽 III"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7368,7 +7368,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "LethalityFoundationMeleeAoeBlessing&<+30%[+]"
+                    "langTranslation": "所有近战技能的效果范围扩大 <style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -7401,7 +7401,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 IV"
+                    "langTranslation": "杀伤力之恩泽 IV"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7417,7 +7417,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+50% </style>\r\n"
+                    "langTranslation": "技能近战伤害 <style=\"GreenText\">+50%</style>\r\n"
                 }
             ]
         },
@@ -7450,7 +7450,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 IV"
+                    "langTranslation": "杀伤力之恩泽 IV"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7466,7 +7466,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "流血持续时间 <style=\"GreenText\">+1 </style>\r\n"
+                    "langTranslation": "流血持续时间 <style=\"GreenText\">+1</style>\r\n"
                 }
             ]
         },
@@ -7519,7 +7519,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "致命祝福 IV"
+                    "langTranslation": "杀伤力之恩泽 IV"
                 }
             ],
             "icon": "Icon_PhysicalDamage_Base",
@@ -7535,7 +7535,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "LethalityFoundationHitsReducePhysResBlessing&<20%"
+                    "langTranslation": "命中时降低敌人 20% 物理抗性"
                 }
             ]
         },
@@ -7568,7 +7568,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "敏捷祝福 I"
+                    "langTranslation": "敏捷之恩泽 I"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -7584,7 +7584,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "移动速度 <style=\"GreenText\">+7% </style>\r\n"
+                    "langTranslation": "移动速度 <style=\"GreenText\">+7%</style>\r\n"
                 }
             ]
         },
@@ -7617,7 +7617,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 I"
+                    "langTranslation": "体质之恩泽 I"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -7633,7 +7633,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "生命 <style=\"GreenText\">+15%[+] </style>\r\n"
+                    "langTranslation": "生命 <style=\"GreenText\">+15%[+]</style>\r\n"
                 }
             ]
         },
@@ -7666,7 +7666,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 I"
+                    "langTranslation": "力量之恩泽 I"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7682,7 +7682,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "元素伤害 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "元素伤害 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -7715,7 +7715,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵的祝福 I"
+                    "langTranslation": "精神之恩泽 I"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -7731,7 +7731,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "法力值 <style=\"GreenText\">+15%[+] </style>\r\n"
+                    "langTranslation": "法力值 <style=\"GreenText\">+15%[+]</style>\r\n"
                 }
             ]
         },
@@ -7764,7 +7764,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 II"
+                    "langTranslation": "力量之恩泽 II"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7780,7 +7780,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "元素异常状态持续时间 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "元素异常状态持续时间 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -7813,7 +7813,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 II"
+                    "langTranslation": "力量之恩泽 II"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7829,7 +7829,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "元素伤害 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -7862,7 +7862,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7878,7 +7878,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能效果范围 <style=\"GreenText\">+40% </style>\r\n"
+                    "langTranslation": "技能效果范围 <style=\"GreenText\">+40%</style>\r\n"
                 }
             ]
         },
@@ -7911,7 +7911,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7927,7 +7927,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "点燃伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "点燃伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -7960,7 +7960,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -7976,7 +7976,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "元素异常状态持续时间 <style=\"GreenText\">+50% </style>\r\n"
+                    "langTranslation": "元素异常状态持续时间 <style=\"GreenText\">+50%</style>\r\n"
                 }
             ]
         },
@@ -8009,7 +8009,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8025,7 +8025,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "火焰伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "火焰伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -8058,7 +8058,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8074,7 +8074,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "闪电伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "闪电伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -8107,7 +8107,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8123,7 +8123,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "瘟疫伤害 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "瘟疫伤害 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -8156,7 +8156,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8172,7 +8172,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能效果范围 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "技能效果范围 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -8218,7 +8218,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 II"
+                    "langTranslation": "力量之恩泽 II"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8234,7 +8234,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ForceFoundationAoeSkillsDamageBlessing&<+25%[+]"
+                    "langTranslation": "效果范围技能造成的伤害提高 <style=\"GreenText\">+25%[+]</style>"
                 }
             ]
         },
@@ -8267,7 +8267,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 III"
+                    "langTranslation": "力量之恩泽 III"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8283,7 +8283,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "元素伤害 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "元素伤害 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -8316,7 +8316,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8332,7 +8332,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "点燃持续时间 <style=\"GreenText\">+100%[+] </style>\r\n"
+                    "langTranslation": "点燃持续时间 <style=\"GreenText\">+100%[+]</style>\r\n"
                 }
             ]
         },
@@ -8371,7 +8371,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8387,7 +8387,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "触电强度 <style=\"GreenText\">+50%[+] </style>\r\n枯疫强度 <style=\"GreenText\">+50%[+] </style>\r\n"
+                    "langTranslation": "触电强度 <style=\"GreenText\">+50%[+]</style>\r\n枯疫强度 <style=\"GreenText\">+50%[+]</style>\r\n"
                 }
             ]
         },
@@ -8420,7 +8420,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8436,7 +8436,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "衰竭积蓄速率 <style=\"GreenText\">+25% </style>\r\n"
+                    "langTranslation": "衰竭积蓄速率 <style=\"GreenText\">+25%</style>\r\n"
                 }
             ]
         },
@@ -8489,7 +8489,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8505,7 +8505,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ForceFoundationFireResShredBlessing&<20%"
+                    "langTranslation": "命中时降低敌人 <style=\"GreenText\">20%</style> 火焰抗性"
                 }
             ]
         },
@@ -8558,7 +8558,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8574,7 +8574,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ForceFoundationLightningResShredBlessing&<20%"
+                    "langTranslation": "命中时降低敌人 <style=\"GreenText\">20%</style> 闪电抗性"
                 }
             ]
         },
@@ -8627,7 +8627,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8643,7 +8643,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ForceFoundationPlagueResShredBlessing&<20%"
+                    "langTranslation": "命中时降低敌人 <style=\"GreenText\">20%</style> 瘟疫抗性"
                 }
             ]
         },
@@ -8696,7 +8696,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "力量祝福 IV"
+                    "langTranslation": "力量之恩泽 IV"
                 }
             ],
             "icon": "Icon_BlessedGear_Base",
@@ -8712,7 +8712,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ForceFoundationOtherElementalResShredBlessing&<20%"
+                    "langTranslation": "元素伤害命中时，敌人对其他元素的抗性降低 <style=\"GreenText\">20%</style>"
                 }
             ]
         },
@@ -8745,7 +8745,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 II"
+                    "langTranslation": "体质之恩泽 II"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -8761,7 +8761,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "生命 <style=\"GreenText\">+20%[+] </style>\r\n"
+                    "langTranslation": "生命 <style=\"GreenText\">+20%[+]</style>\r\n"
                 }
             ]
         },
@@ -8794,7 +8794,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 II"
+                    "langTranslation": "体质之恩泽 II"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -8810,7 +8810,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "生命再生 <style=\"GreenText\">+3% </style>\r\n"
+                    "langTranslation": "生命再生 <style=\"GreenText\">+3%</style>\r\n"
                 }
             ]
         },
@@ -8843,7 +8843,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 III"
+                    "langTranslation": "体质之恩泽 III"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -8859,7 +8859,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理抗性 <style=\"GreenText\">+12% </style>\r\n"
+                    "langTranslation": "物理抗性 <style=\"GreenText\">+12%</style>\r\n"
                 }
             ]
         },
@@ -8892,7 +8892,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 III"
+                    "langTranslation": "体质之恩泽 III"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -8908,7 +8908,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "生命 <style=\"GreenText\">+30%[+] </style>\r\n"
+                    "langTranslation": "生命 <style=\"GreenText\">+30%[+]</style>\r\n"
                 }
             ]
         },
@@ -8941,7 +8941,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 III"
+                    "langTranslation": "体质之恩泽 III"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -8957,7 +8957,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "药水容量 <style=\"GreenText\">+1 </style>\r\n"
+                    "langTranslation": "药水容量 <style=\"GreenText\">+1</style>\r\n"
                 }
             ]
         },
@@ -9003,7 +9003,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 III"
+                    "langTranslation": "体质之恩泽 III"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -9019,7 +9019,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "击杀后恢复 <style=\"GreenText\">1.5% 生命值"
+                    "langTranslation": "击杀敌人时治疗 <style=\"GreenText\">1.5%</style> 生命值"
                 }
             ]
         },
@@ -9072,7 +9072,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 IV"
+                    "langTranslation": "体质之恩泽 IV"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -9088,7 +9088,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ConstitutionFoundationLifeOnHitElitesBlessing&<3%"
+                    "langTranslation": "命中精锐敌人时治疗 <style=\"GreenText\">3%</style> 生命值 (冷却时间：1 秒)"
                 }
             ]
         },
@@ -9138,7 +9138,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 IV"
+                    "langTranslation": "体质之恩泽 IV"
                 }
             ],
             "effectTypeIcon": "Icon_Life_Base",
@@ -9153,7 +9153,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "获得<style=\"GreenText\">1% 全局吸血"
+                    "langTranslation": "获得 <style=\"GreenText\">1%</style> 全局吸血"
                 }
             ]
         },
@@ -9186,7 +9186,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 IV"
+                    "langTranslation": "体质之恩泽 IV"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -9202,7 +9202,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "耐力 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "耐力 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -9248,7 +9248,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "宪法祝福 IV"
+                    "langTranslation": "体质之恩泽 IV"
                 }
             ],
             "icon": "Icon_Life_Base",
@@ -9264,7 +9264,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "ConstitutionFoundationLifeToMeleeDamageBlessing&<2.5%"
+                    "langTranslation": "当前生命值的 <style=\"GreenText\">2.5%</style> 转化为近战技能造成的额外伤害"
                 }
             ]
         },
@@ -9290,7 +9290,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 IV"
+                    "langTranslation": "敏捷之恩泽 IV"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9339,7 +9339,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 II"
+                    "langTranslation": "敏捷之恩泽 II"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9355,7 +9355,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "攻击速度 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "攻击速度 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -9388,7 +9388,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 II"
+                    "langTranslation": "敏捷之恩泽 II"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9404,7 +9404,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "闪避 <style=\"GreenText\">+10% </style>\r\n"
+                    "langTranslation": "闪避 <style=\"GreenText\">+10%</style>\r\n"
                 }
             ]
         },
@@ -9437,7 +9437,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 III"
+                    "langTranslation": "敏捷之恩泽 III"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9453,7 +9453,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "闪避 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "闪避 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -9506,7 +9506,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 IV"
+                    "langTranslation": "敏捷之恩泽 IV"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9522,7 +9522,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "AlacrityFoundationSpeedOnEvadeBlessing&<+20%"
+                    "langTranslation": "成功闪避攻击后，获得 <style=\"GreenText\">+20%</style> 移动速度与攻击速度加成，持续 3 秒"
                 }
             ]
         },
@@ -9555,7 +9555,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 III"
+                    "langTranslation": "敏捷之恩泽 III"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9571,7 +9571,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "攻击速度 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "攻击速度 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -9610,7 +9610,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 IV"
+                    "langTranslation": "敏捷之恩泽 IV"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9626,7 +9626,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "攻击速度 <style=\"GreenText\">+100% </style>\r\n基础伤害值 <style=\"GreenText\">‑40%[+] </style>\r\n"
+                    "langTranslation": "攻击速度 <style=\"GreenText\">+100%</style>\r\n基础伤害值 <style=\"GreenText\">‑40%[+]</style>\r\n"
                 }
             ]
         },
@@ -9659,7 +9659,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "欣欣祝福 III"
+                    "langTranslation": "敏捷之恩泽 III"
                 }
             ],
             "icon": "Icon_MoveSpeed_Base",
@@ -9675,7 +9675,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "移动速度 <style=\"GreenText\">+10% </style>\r\n"
+                    "langTranslation": "移动速度 <style=\"GreenText\">+10%</style>\r\n"
                 }
             ]
         },
@@ -9708,7 +9708,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 II"
+                    "langTranslation": "精神之恩泽 II"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9724,7 +9724,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "冷却速度 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "冷却速度 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -9757,7 +9757,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 II"
+                    "langTranslation": "精神之恩泽 II"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9773,7 +9773,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "法力再生 <style=\"GreenText\">+30%[+] </style>\r\n"
+                    "langTranslation": "法力再生 <style=\"GreenText\">+30%[+]</style>\r\n"
                 }
             ]
         },
@@ -9806,7 +9806,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 II"
+                    "langTranslation": "精神之恩泽 II"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9822,7 +9822,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "信念获取 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "信念获取 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -9855,7 +9855,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 III"
+                    "langTranslation": "精神之恩泽 III"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9871,7 +9871,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "冷却速度 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "冷却速度 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -9904,7 +9904,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 III"
+                    "langTranslation": "精神之恩泽 III"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9920,7 +9920,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "技能法力消耗 <style=\"GreenText\">‑10% </style>\r\n"
+                    "langTranslation": "技能法力消耗 <style=\"GreenText\">‑10%</style>\r\n"
                 }
             ]
         },
@@ -9953,7 +9953,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 III"
+                    "langTranslation": "精神之恩泽 III"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -9969,7 +9969,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "法力值 <style=\"GreenText\">+25%[+] </style>\r\n"
+                    "langTranslation": "法力值 <style=\"GreenText\">+25%[+]</style>\r\n"
                 }
             ]
         },
@@ -10002,7 +10002,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 III"
+                    "langTranslation": "精神之恩泽 III"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10018,7 +10018,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "信念减弱抗性 <style=\"GreenText\">+15% </style>\r\n"
+                    "langTranslation": "信念减弱抗性 <style=\"GreenText\">+15%</style>\r\n"
                 }
             ]
         },
@@ -10051,7 +10051,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 III"
+                    "langTranslation": "精神之恩泽 III"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10067,7 +10067,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "信念获取 <style=\"GreenText\">+30% </style>\r\n"
+                    "langTranslation": "信念获取 <style=\"GreenText\">+30%</style>\r\n"
                 }
             ]
         },
@@ -10100,7 +10100,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 IV"
+                    "langTranslation": "精神之恩泽 IV"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10116,7 +10116,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "法力消耗转化 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "法力消耗转化 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -10149,7 +10149,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 IV"
+                    "langTranslation": "精神之恩泽 IV"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10165,7 +10165,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "法力护盾 <style=\"GreenText\">+20% </style>\r\n"
+                    "langTranslation": "法力护盾 <style=\"GreenText\">+20%</style>\r\n"
                 }
             ]
         },
@@ -10211,7 +10211,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 IV"
+                    "langTranslation": "精神之恩泽 IV"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10227,7 +10227,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "SpiritFoundationCooldownOnKillBlessing&<+2%"
+                    "langTranslation": "击杀敌人时，所有技能的冷却时间缩短 <style=\"GreenText\">+2%</style>"
                 }
             ]
         },
@@ -10273,7 +10273,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "圣灵祝福 IV"
+                    "langTranslation": "精神之恩泽 IV"
                 }
             ],
             "icon": "Icon_Mana_Base",
@@ -10289,7 +10289,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "SpiritFoundationManaToSpellDamageBlessing&<+2%"
+                    "langTranslation": "当前法力值的 <style=\"GreenText\">+2%</style> 转化为法术的额外伤害"
                 }
             ]
         },
@@ -10325,7 +10325,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "持久回响"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -10340,7 +10340,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "投射物持续时间：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -10394,7 +10394,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "持久恩典"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -10409,7 +10409,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+                    "langTranslation": "增益持续时间：<style=\"GreenText\">+50%[+]</style>"
                 }
             ]
         },
@@ -10471,7 +10471,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "持续祈祷"
                 }
             ],
             "effectTypeIcon": "Icon_Life_Increase",
@@ -10486,7 +10486,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "每秒生命值恢复：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -10544,7 +10544,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "平静信仰"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -10617,7 +10617,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "即刻喜悦"
                 }
             ],
             "effectTypeIcon": "Icon_Life_Increase",
@@ -10632,7 +10632,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "激活时恢复生命值：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -10690,7 +10690,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "至高防护"
                 }
             ],
             "effectTypeIcon": "Icon_Physical_Resistance_Base",
@@ -10705,7 +10705,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+40%[+]</style>"
+                    "langTranslation": "激活时的伤害抗性：<style=\"GreenText\">+40%[+]</style>"
                 }
             ]
         },
@@ -10763,7 +10763,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "有仇必报"
                 }
             ],
             "effectTypeIcon": "Icon_CriticalChance",
@@ -10778,7 +10778,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "暴击几率：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -10836,7 +10836,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "残酷重击"
                 }
             ],
             "effectTypeIcon": "Icon_CriticalDamage",
@@ -10905,7 +10905,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "不灭之力"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -10920,7 +10920,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
+                    "langTranslation": "增益持续时间：<style=\"GreenText\">+60%[+]</style>"
                 }
             ]
         },
@@ -10974,7 +10974,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "暴烈能量"
                 }
             ],
             "effectTypeIcon": "Icon_Intensity",
@@ -10989,7 +10989,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+60%[+]</style>"
+                    "langTranslation": "增益强度：<style=\"GreenText\">+60%[+]</style>"
                 }
             ]
         },
@@ -11047,7 +11047,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "抚慰怒火"
                 }
             ],
             "effectTypeIcon": "UI_Icon_Cooldown",
@@ -11124,7 +11124,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "狂暴之力"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -11201,7 +11201,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "不屈意志"
                 }
             ],
             "effectTypeIcon": "Icon_Life_Base",
@@ -11216,7 +11216,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+                    "langTranslation": "蛮人生命值：<style=\"GreenText\">+50%[+]</style>"
                 }
             ]
         },
@@ -11270,7 +11270,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "滔天怒火"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -11285,7 +11285,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+50%[+]</style>"
+                    "langTranslation": "嘲讽持续时间：<style=\"GreenText\">+50%[+]</style>"
                 }
             ]
         },
@@ -11343,7 +11343,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "巨力回斩"
                 }
             ],
             "effectTypeIcon": "Icon_Life_Base",
@@ -11412,7 +11412,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "庞然意志"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -11427,7 +11427,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">‑30%[x]</style>"
+                    "langTranslation": "复活时间：<style=\"GreenText\">‑30%[x]</style>"
                 }
             ]
         },
@@ -11485,7 +11485,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "断续脉冲"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -11558,7 +11558,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "合理漂移"
                 }
             ],
             "effectTypeIcon": "Icon_Cooldown_Base",
@@ -11631,7 +11631,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "扩域传送"
                 }
             ],
             "effectTypeIcon": "Icon_MoveSpeed_Base",
@@ -11646,7 +11646,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+30%[+]</style>"
+                    "langTranslation": "传送距离：<style=\"GreenText\">+30%[+]</style>"
                 }
             ]
         },
@@ -11700,7 +11700,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "强化迁移"
                 }
             ],
             "effectTypeIcon": "Icon_MoveSpeed_Base",
@@ -11777,7 +11777,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "毁灭迁跃"
                 }
             ],
             "effectTypeIcon": "Icon_MoveSpeed_Base",
@@ -11842,7 +11842,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "多重火力"
                 }
             ],
             "effectTypeIcon": "Icon_Amount",
@@ -11857,7 +11857,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+1</style>"
+                    "langTranslation": "神射手数量上限：<style=\"GreenText\">+1</style>"
                 }
             ]
         },
@@ -11919,7 +11919,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "极端偏见"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -11996,7 +11996,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "持续齐射"
                 }
             ],
             "effectTypeIcon": "Icon_Duration",
@@ -12069,7 +12069,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "迅捷响应"
                 }
             ],
             "effectTypeIcon": "Icon_AttackSpeed_Base",
@@ -12084,7 +12084,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活时获得信念值：<style=\"GreenText\">+25%[+]</style>"
+                    "langTranslation": "神射手攻击速度：<style=\"GreenText\">+25%[+]</style>"
                 }
             ]
         },
@@ -12142,7 +12142,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "克制轰击"
                 }
             ],
             "effectTypeIcon": "UI_Icon_Mana",
@@ -12219,7 +12219,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "利鞭抽击"
                 }
             ],
             "effectTypeIcon": "Icon_Damage_Base",
@@ -12288,7 +12288,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "横扫猛击"
                 }
             ],
             "effectTypeIcon": "Icon_AreaofEffect",
@@ -12361,7 +12361,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "疾速鞭打"
                 }
             ],
             "effectTypeIcon": "Icon_AttackSpeed_Base",
@@ -12430,7 +12430,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "强力皮鞭"
                 }
             ],
             "effectTypeIcon": "Icon_CriticalDamage",
@@ -12503,7 +12503,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "残存意志"
+                    "langTranslation": "低耗鞭击"
                 }
             ],
             "effectTypeIcon": "UI_Icon_Mana",

@@ -795,7 +795,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "物理伤害施加流血的几率"
+                    "langTranslation": "流血几率 (物理)"
                 }
             ],
             "icon": "IconStatus_Bleeding_white",
@@ -821,7 +821,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "火焰伤害施加点燃的几率"
+                    "langTranslation": "点燃几率 (火焰)"
                 }
             ],
             "icon": "",
@@ -847,7 +847,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "闪电伤害施加电击的几率"
+                    "langTranslation": "电击几率 (闪电)"
                 }
             ],
             "icon": "",
@@ -873,7 +873,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "瘟疫伤害施加枯疫的几率"
+                    "langTranslation": "枯疫几率 (瘟疫)"
                 }
             ],
             "icon": "",

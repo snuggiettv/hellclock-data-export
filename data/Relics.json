@@ -3474,7 +3474,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "复仇之祷"
+                    "langTranslation": "最后的祈祷"
                 }
             ],
             "loreLocalizationKey": [
@@ -6231,7 +6231,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“...卡廷加是反叛的荒原人最忠诚的盟友。(...) 它对外人闭塞如铁，却会为 (...) 土生土长的乡民敞开怀抱。” - 欧克利迪斯·达·库尼亚"
+                    "langTranslation": "“卡廷加是反叛的荒原人最忠诚的盟友。(...) 它对外人闭塞如铁，却会为 (...) 土生土长的乡民敞开怀抱。” - 欧克利迪斯·达·库尼亚"
                 }
             ],
             "intrinsicAffixes": [
@@ -6639,7 +6639,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "Märtyrer"
+                    "langTranslation": "殉道者"
                 }
             ],
             "loreLocalizationKey": [
@@ -6653,7 +6653,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "„Aber er wurde um unserer Übertretungen willen durchbohrt und um unserer Sünden willen zerschlagen. Die Strafe lag auf ihm, damit wir Frieden hätten, und durch seine Wunden sind wir geheilt.“ – Jesaja 53:5"
+                    "langTranslation": "“哪知他为我们的过犯受害，为我们的罪孽压伤。因他受的刑罚，我们得平安；因他受的鞭伤，我们得医治。” - 《以赛亚书》第 53 章第 5 节"
                 }
             ],
             "intrinsicAffixes": [
@@ -7085,7 +7085,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "Weihwasser"
+                    "langTranslation": "圣水"
                 }
             ],
             "loreLocalizationKey": [
@@ -7099,7 +7099,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "„Im Hochsommer ist eine Macambira-Pflanze für den durstigen Hinterlandbewohner ein Glas kristallklares und reines Wasser.“ – Euclides da Cunha"
+                    "langTranslation": "“盛夏时节，马卡宾拉植物对干渴的荒原人而言，就像是一杯清澈纯净的圣水。” - 欧克利迪斯·达·库尼亚"
                 }
             ],
             "intrinsicAffixes": [
@@ -8218,7 +8218,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "钢铁弹丸"
+                    "langTranslation": "侦骑勋章"
                 }
             ],
             "loreLocalizationKey": [
@@ -8232,7 +8232,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“这门重型火炮本为守护海岸要塞的宁静而打造。(...) 然而，如今却必须用这钢铁怪物来恐吓荒原。” - 欧克利迪斯·达·库尼亚"
+                    "langTranslation": "“这些现代圣殿骑士 (...) 左胸前都佩戴着一枚青铜勋章，上面刻着佩肖托元帅的肖像。即使战死，他们也会向其遗像致敬。” - 欧克利迪斯·达·库尼亚"
                 }
             ],
             "intrinsicAffixes": [
@@ -12866,7 +12866,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "死亡教派"
+                    "langTranslation": "死亡膜拜"
                 }
             ],
             "loreLocalizationKey": [
@@ -12880,7 +12880,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“政府的机器战警冷酷无情，毫无怜悯之心 / 只有仇恨，像鬣狗一样大笑 / 拉塔塔塔、弗勒里和他的团伙 / 将在血泊中游泳。” - Racionais MC's"
+                    "langTranslation": "“政府的机械警察冷酷无情，没有怜悯/只有仇恨，笑得如鬣狗般狰狞/砰砰砰，弗勒里和他那帮狗腿子/必将葬身血海。” - 雷森斯·MC"
                 }
             ],
             "intrinsicAffixes": [
@@ -13089,7 +13089,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "咖啡"
+                    "langTranslation": "小杯咖啡"
                 }
             ],
             "loreLocalizationKey": [
@@ -13103,7 +13103,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“生活是悲伤而复杂的。(...)解决办法就是去喝杯咖啡。” - 鲁本·布拉加"
+                    "langTranslation": "“人生苦涩又复杂。(...) 最好的解法，就是去喝杯咖啡。” - 鲁本·布拉加"
                 }
             ],
             "intrinsicAffixes": [
@@ -13288,7 +13288,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "倒刺锁链"
+                    "langTranslation": "钢铁弹丸"
                 }
             ],
             "loreLocalizationKey": [
@@ -13302,7 +13302,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“滚石不生苔。” - 流行说法"
+                    "langTranslation": "“滚石不生苔。” - 谚语"
                 }
             ],
             "intrinsicAffixes": [
@@ -13511,7 +13511,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "祖先记忆"
+                    "langTranslation": "祖灵之忆"
                 }
             ],
             "loreLocalizationKey": [
@@ -13525,7 +13525,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“摄影：爱、正义和知识的武器。” - 卡洛斯·德拉蒙德·德·安德拉德"
+                    "langTranslation": "“摄影：爱与正义之利刃，亦是真理之明镜。” - 卡洛斯·德鲁蒙德·安德拉德"
                 }
             ],
             "intrinsicAffixes": [
@@ -13734,7 +13734,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "结算"
+                    "langTranslation": "清算旧账"
                 }
             ],
             "loreLocalizationKey": [
@@ -13748,7 +13748,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“宣传之于民主，就如同警棍之于极权国家。” - 诺姆·乔姆斯基"
+                    "langTranslation": "“宣传之于民主，一如棍棒之于极权国家。” - 诺姆·乔姆斯基"
                 }
             ],
             "intrinsicAffixes": [
@@ -13957,7 +13957,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "火焰手铐"
+                    "langTranslation": "炽焰镣铐"
                 }
             ],
             "loreLocalizationKey": [
@@ -13971,7 +13971,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“在新的时代，尽管有惩罚/我们在现场，我们在街头，打破枷锁。” - 伊万·林斯"
+                    "langTranslation": "“在这崭新时代，纵使惩戒如影随形/我们依然走上街头，打破枷锁。” - 伊万·林斯"
                 }
             ],
             "intrinsicAffixes": [
@@ -14156,7 +14156,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "公平之刃"
+                    "langTranslation": "正义之刃"
                 }
             ],
             "loreLocalizationKey": [
@@ -14170,7 +14170,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“刀剑折断/无需触及我的身体（...）因为我穿着豪尔赫的衣服/和武器。” - Racionais MC's"
+                    "langTranslation": "“任刀剑折断/不伤我分毫 (...) 皆因我身披/圣乔治的衣甲” - 雷森斯·MC"
                 }
             ],
             "intrinsicAffixes": [
@@ -14379,7 +14379,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "救世主之盾"
+                    "langTranslation": "守护者之盾"
                 }
             ],
             "loreLocalizationKey": [
@@ -14393,7 +14393,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“在火灾中，你会呼唤上帝或消防员，但只有其中一个人的到来取决于信仰。” - 作者不详"
+                    "langTranslation": "“当身陷火海时，有人求神，有人报警，但唯有前者，需以信仰为引。” - 佚名"
                 }
             ],
             "intrinsicAffixes": [
@@ -14569,7 +14569,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "正面还是反面"
+                    "langTranslation": "正反抉择"
                 }
             ],
             "loreLocalizationKey": [
@@ -14583,7 +14583,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“不管是正面还是反面，最好还是保留这枚硬币。” - 流行说法"
+                    "langTranslation": "“与其赌正反，不如握住整枚硬币。” - 民间谚语"
                 }
             ],
             "intrinsicAffixes": [
@@ -14759,7 +14759,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "电源箱"
+                    "langTranslation": "能量宝箱"
                 }
             ],
             "loreLocalizationKey": [
@@ -14773,7 +14773,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“他忠诚，他百分之百忠诚/他是一名战士，他是一个好炮手/他是一位兄弟，一位九十岁的老人/他是我们的，他是家人。” - 豪尔赫先生"
+                    "langTranslation": "“他忠贞不渝，毫无保留/他是战士，精力充沛/他是兄弟，如同 90 号宾果球般独特/他是我们的一员，是我们血脉相连的家人。” - 塞乌·乔治"
                 }
             ],
             "intrinsicAffixes": [
@@ -14958,7 +14958,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "票"
+                    "langTranslation": "传送券"
                 }
             ],
             "loreLocalizationKey": [
@@ -14972,7 +14972,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“谁会哭，谁会笑？/谁会留下，谁会离开？/因为火车即将到达/它即将到达车站/这是七点的火车/这是内陆地区的最后一班火车。” - 劳尔·塞克萨斯"
+                    "langTranslation": "“谁人垂泪，谁人欢颜？/谁将驻足，谁又将远行？/因那列车已然抵达/正驶入这终点站台/是那趟七点的列车/也是驶向荒原的末班车” - 劳尔·塞沙斯"
                 }
             ],
             "intrinsicAffixes": [
@@ -15148,7 +15148,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "和平与安宁"
+                    "langTranslation": "安宁静谧"
                 }
             ],
             "loreLocalizationKey": [
@@ -15162,7 +15162,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“谁能在余烬中自救，谁就能点燃新的火焰/克服危机，收获平静，给这些人的灵魂带来欢乐/生活在和平与和谐中，打开通往欢乐的大门。” - 卡埃塔诺·维洛索"
+                    "langTranslation": "“在灰烬中自救、点燃新火之人/将跨越危机，收获安宁，为灵魂带来喜悦/活在宁静与和谐之中，开启通往欢乐的大门。” - 卡耶塔诺·维洛索"
                 }
             ],
             "intrinsicAffixes": [
@@ -15371,7 +15371,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "未来武器"
+                    "langTranslation": "未来之器"
                 }
             ],
             "loreLocalizationKey": [
@@ -15385,7 +15385,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“噩梦是一种赞美 / 对于那些生活在战争中的人来说，和平从未存在过 / 在炎热的气候下，我的人民冷汗直流 / 我看到一个黑人小男孩，他的笔记本是一把步枪” Racionais MC's"
+                    "langTranslation": "“噩梦是种赞美/献给那些生于战火、未曾见过和平的人/在这片灼热的大地上，我的族人冷汗涔涔/我见过一个黑人小孩，他的笔记本是一把步枪。” - 雷森斯·MC"
                 }
             ],
             "intrinsicAffixes": [
@@ -15594,7 +15594,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "要塞补给"
+                    "langTranslation": "驻军补给"
                 }
             ],
             "loreLocalizationKey": [
@@ -15608,7 +15608,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“黑人走上山顶，拿起吉他，为人民演奏/也为犯罪分子演奏，他们到达后慢慢地将武器放在地上。” - 拉帕"
+                    "langTranslation": "“那个黑人走上山岗，拾起吉他为众人奏响乐章/也奏给那些携罪而来的人们，他们缓步卸下武器，将刀枪轻轻置于尘土之上。” - 奥拉帕乐队"
                 }
             ],
             "intrinsicAffixes": [
@@ -15817,7 +15817,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "大地之祈求"
+                    "langTranslation": "大地召唤"
                 }
             ],
             "loreLocalizationKey": [
@@ -15831,7 +15831,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“如果地球生病了，我们也会生病。如果地球彻底崩溃，我们就不可能健康。” - 艾尔顿·克雷纳克"
+                    "langTranslation": "“如果大地病了，我们也会生病。若这颗星球千疮百孔，人类再无健康可言。” - 艾尔顿·克雷纳克"
                 }
             ],
             "intrinsicAffixes": [
@@ -16040,7 +16040,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "空气召唤"
+                    "langTranslation": "苍空召唤"
                 }
             ],
             "loreLocalizationKey": [
@@ -16054,7 +16054,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“大自然是我们的肺。如果我们破坏大自然，我们将无法生存，我们将没有空气可以呼吸。” - 拉奥尼酋长"
+                    "langTranslation": "“自然是我们赖以生存的肺。若摧毁自然，我们将无法生存，再无空气可呼吸。” - 拉奥尼酋长"
                 }
             ],
             "intrinsicAffixes": [
@@ -16263,7 +16263,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "最终审判"
+                    "langTranslation": "最终清算"
                 }
             ],
             "loreLocalizationKey": [
@@ -16277,7 +16277,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“沉默是什么样的？/在那一刻，一切都必须沉默/在一个来自人民的故事里，最后的审判”——泽·拉马略"
+                    "langTranslation": "“寂静是何模样？/在那一刻，万籁俱寂/于这出人民写下的史诗中，最终审判，终将降临。” - 若泽·拉马略"
                 }
             ],
             "intrinsicAffixes": [
@@ -16453,7 +16453,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "脏钱"
+                    "langTranslation": "血色交易"
                 }
             ],
             "loreLocalizationKey": [
@@ -16467,7 +16467,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "想象一下生活在这样一个国家，在这里，承诺只是逍遥法外的借口/因为你的欺诈、你的缺乏道德、你的肮脏钱财！ - 喊HC"
+                    "langTranslation": "“试想你生活在这样一个国度，承诺只是逍遥法外的借口/掩盖你的欺诈、你的道德沦丧、你的肮脏财富！” - 呐喊 HC"
                 }
             ],
             "intrinsicAffixes": [
@@ -16652,7 +16652,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "呼吸器"
+                    "langTranslation": "呼吸面罩"
                 }
             ],
             "loreLocalizationKey": [
@@ -16666,7 +16666,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“那些具有关爱他人天赋的人知道如何感受他人的痛苦并且永远不会抛弃他们。” - 莫妮卡·卡拉赞斯 (Mônica Calazans)，巴西首位接种新冠疫苗的人"
+                    "langTranslation": "“那些拥有照料他人天赋的人，懂得感受他人的痛苦，并永远不离不弃。” - 莫妮卡·卡拉赞斯，巴西首位新冠疫苗接种者"
                 }
             ],
             "intrinsicAffixes": [
@@ -16851,7 +16851,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "道德效应"
+                    "langTranslation": "意识迷雾"
                 }
             ],
             "loreLocalizationKey": [
@@ -16865,7 +16865,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“催泪瓦斯、眩晕手榴弹 / 橡皮子弹射脸、警察镇压 / 暴力冲突、公民抗命 / 迎风而行、男子汉爱国主义”——拉托斯·德·波朗"
+                    "langTranslation": "“催泪瓦斯、眩晕手雷/橡胶子弹迎面袭来，警察镇压/在暴力冲突中，公民抗命/逆风而行，铁血爱国” - 下水道老鼠乐队"
                 }
             ],
             "intrinsicAffixes": [
@@ -17074,7 +17074,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "注射器包"
+                    "langTranslation": "针筒套组"
                 }
             ],
             "loreLocalizationKey": [
@@ -17088,7 +17088,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "“酒精、烟斗、注射器、殴打、殴打/从一开始就一直这样/这些家伙只会给我带来悲剧。” - 马古和荨麻帮"
+                    "langTranslation": "“是烈酒，是烟管，是针筒，是拳脚相加，拳拳到肉/自始至终皆是如此/这些人只会为我带来悲剧。” - 马古与荨麻乐队"
                 }
             ],
             "intrinsicAffixes": [
@@ -17273,7 +17273,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "战争之声"
+                    "langTranslation": "战争之音"
                 }
             ],
             "loreLocalizationKey": [
@@ -17287,7 +17287,7 @@
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "这不仅仅是观察和判断 / 这必须是关于混合 / 然后你会看到那就是我们 / 说唱是声音，雷鬼是声音，桑巴是声音 - Emicida 和 Rael da Rima"
+                    "langTranslation": "“不只是旁观与评判/更是交融与共鸣/到那时你会明白/说唱是在发声，雷鬼在发声，桑巴也是在发声” - 埃米西达与拉尔·达·里马"
                 }
             ],
             "intrinsicAffixes": [
