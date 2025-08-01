@@ -6033,7 +6033,7 @@
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Rate at which Physical damage will contribute to building up the Stun effect on monsters.\nThis rate increases/decreases based on the proportion of the monster's current Life versus your damage dealt.\nDamage caused by Melee attacks naturally double this rate. \nStunned monsters are completely paralized and cannot execute any actions."
+                    "langTranslation": "Rate at which any damage will contribute to building up the Stun effect on monsters.\nThis rate increases/decreases based on the proportion of the monster's current Life versus your damage dealt.\nDamage caused by Melee attacks naturally double this rate. \nStunned monsters are completely paralized and cannot execute any actions."
                 },
                 {
                     "langCode": "es",
@@ -6053,7 +6053,7 @@
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Proporção com que dano Físico contribui para acumular o efeito de Atordoar em monstros.\nEste valor aumenta/diminui baseado na proporção da Vida atual do monstro relativo ao seu dano causado.\nDano causado por ataques Corpo-a-Corpo naturalmente dobram este valor.\nMonstros Atordoados ficam completamente paralisados e não podem executar qualquer ação."
+                    "langTranslation": "Proporção com que qualquer dano contribui para acumular o efeito de Atordoar em monstros.\nEste valor aumenta/diminui baseado na proporção da Vida atual do monstro relativo ao seu dano causado.\nDano causado por ataques Corpo-a-Corpo naturalmente dobram este valor.\nMonstros Atordoados ficam completamente paralisados e não podem executar qualquer ação."
                 },
                 {
                     "langCode": "ru",
@@ -7751,39 +7751,39 @@
             "localizedName": [
                 {
                     "langCode": "de",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Immun gegen Seuchenschaden"
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Immune to Plague Damage"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Inmunidad al daño de Plaga"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Immunité à la peste"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "疫病ダメージ無効"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Odporność na obrażenia od zarazy"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Imune a dano Tóxico"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "Иммунитет к чуме"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "TNF:(ImmuneToPlagueDamageStat)"
+                    "langTranslation": "免疫瘟疫伤害"
                 }
             ],
             "localizedDescription": [

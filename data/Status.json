@@ -10851,6 +10851,112 @@
             "shouldEchoClone": false,
             "purgeOnDeath": false,
             "purgeOnSourceDeath": false
+        },
+        {
+            "name": "Vengeance Mode - Status Definition",
+            "id": 165,
+            "type": "StatModifierStatusDefinition",
+            "statModifierDefinitions": [
+                {
+                    "type": "StatModifierDefinition",
+                    "eStatDefinition": "DamageResistance",
+                    "modifierType": "Additive",
+                    "value": 0.0
+                },
+                {
+                    "type": "StatModifierDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "modifierType": "Multiplicative",
+                    "value": 0.0
+                }
+            ],
+            "statusDisplayInfo": {
+                "type": "StatusDisplayInfo",
+                "nameKey": [
+                    {
+                        "langCode": "de",
+                        "langTranslation": "Rachemodus"
+                    },
+                    {
+                        "langCode": "en",
+                        "langTranslation": "Vengeance Mode"
+                    },
+                    {
+                        "langCode": "es",
+                        "langTranslation": "Modo Venganza"
+                    },
+                    {
+                        "langCode": "fr",
+                        "langTranslation": "Mode Vengeance"
+                    },
+                    {
+                        "langCode": "ja",
+                        "langTranslation": "復讐モード"
+                    },
+                    {
+                        "langCode": "pl",
+                        "langTranslation": "Tryb Zemsty"
+                    },
+                    {
+                        "langCode": "pt-br",
+                        "langTranslation": "Modo Vingança"
+                    },
+                    {
+                        "langCode": "ru",
+                        "langTranslation": "Режим Мщения"
+                    },
+                    {
+                        "langCode": "zh-cn",
+                        "langTranslation": "复仇模式"
+                    }
+                ],
+                "descriptionKey": [
+                    {
+                        "langCode": "de",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "en",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "es",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "fr",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "ja",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "pl",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "pt-br",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "ru",
+                        "langTranslation": ""
+                    },
+                    {
+                        "langCode": "zh-cn",
+                        "langTranslation": ""
+                    }
+                ],
+                "icon": "IconStatus_Enraged_white"
+            },
+            "hideFromHud": false,
+            "isBuff": true,
+            "eStatusStackBehavior": "Refresh",
+            "effectInterval": 0.0,
+            "shouldEchoClone": false,
+            "purgeOnDeath": false,
+            "purgeOnSourceDeath": false
         }
     ]
 }

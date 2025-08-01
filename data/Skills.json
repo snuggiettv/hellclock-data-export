@@ -1886,7 +1886,7 @@
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "All enemies in the target area are judged, reducing all their resistances by 40% during {0}s."
+                    "langTranslation": "All enemies in the target area are judged, reducing all their resistances by 40% over {0}s."
                 },
                 {
                     "langCode": "es",
