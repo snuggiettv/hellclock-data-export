@@ -545,39 +545,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Spaltschuss verursacht 41%[+] Schaden, kostet aber 50 % mehr Mana."
+                    "langTranslation": "Spaltschuss verursacht 42%[+] Schaden, kostet aber 50 % mehr Mana."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Split Shot deals 41%[+] damage but costs 50% more Mana"
+                    "langTranslation": "Split Shot deals 42%[+] damage but costs 50% more Mana"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Disparo Dividido inflige 41%[+] de daño, pero cuesta un 50 % más de maná."
+                    "langTranslation": "Disparo Dividido inflige 42%[+] de daño, pero cuesta un 50 % más de maná."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Tir dispersé inflige 41%[+] de dégâts, mais coûte 50% de ferveur supplémentaire"
+                    "langTranslation": "Tir dispersé inflige 42%[+] de dégâts, mais coûte 50% de ferveur supplémentaire"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "スプリットショットは41%[+]ダメージを与えるがマナコストが50%増加する。"
+                    "langTranslation": "スプリットショットは42%[+]ダメージを与えるがマナコストが50%増加する。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Wielostrzał zadaje 41%[+] obrażeń, ale kosztuje 50% więcej many"
+                    "langTranslation": "Wielostrzał zadaje 42%[+] obrażeń, ale kosztuje 50% więcej many"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Tiro Disperso causa 41%[+] mais dano mas custa 50% mais Energia"
+                    "langTranslation": "Tiro Disperso causa 42%[+] mais dano mas custa 50% mais Energia"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Выстрел дробью наносит 41%[+] ед. урона, но расходует на 50% больше маны."
+                    "langTranslation": "Выстрел дробью наносит 42%[+] ед. урона, но расходует на 50% больше маны."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "分裂射击造成 41%[+] 伤害，但法力消耗增加 50%。"
+                    "langTranslation": "分裂射击造成 42%[+] 伤害，但法力消耗增加 50%。"
                 }
             ]
         },
@@ -1808,39 +1808,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Erfahrungsgewinn."
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Erfahrungsgewinn."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Experience Gain"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Experience Gain"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Obtención de experiencia"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Obtención de experiencia"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Gain d'expérience"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Gain d'expérience"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> 経験値獲得量"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> 経験値獲得量"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Zyskiwane PD"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Zyskiwane PD"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> Ganho de Experiencia"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> Ganho de Experiencia"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Получение опыта <style=\"TooltipValue\">+12%</style>"
+                    "langTranslation": "Получение опыта <style=\"TooltipValue\">+13%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+12%</style> 经验值获取"
+                    "langTranslation": "<style=\"TooltipValue\">+13%</style> 经验值获取"
                 }
             ]
         },
@@ -1948,39 +1948,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Feuerresistenz."
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Feuerresistenz."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Fire Resistance"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Fire Resistance"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Resistencia al Fuego"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Resistencia al Fuego"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Résistance au feu"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Résistance au feu"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> 火炎抵抗"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> 火炎抵抗"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Odporność na ogień"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Odporność na ogień"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> Resistência Ígnea"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> Resistência Ígnea"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Сопротивление огню <style=\"TooltipValue\">+23%</style>"
+                    "langTranslation": "Сопротивление огню <style=\"TooltipValue\">+24%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+23%</style> 火焰抗性"
+                    "langTranslation": "<style=\"TooltipValue\">+24%</style> 火焰抗性"
                 }
             ]
         },
@@ -2228,39 +2228,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Blitzresistenz."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Blitzresistenz."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Lightning Resistance"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Lightning Resistance"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistencia al Rayo"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistencia al Rayo"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Résistance à la foudre"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Résistance à la foudre"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 電撃抵抗"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 電撃抵抗"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Odporność na błyskawice"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Odporność na błyskawice"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistência Elétrica"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistência Elétrica"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Сопротивление молниям <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Сопротивление молниям <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 闪电抗性"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 闪电抗性"
                 }
             ]
         },
@@ -2648,39 +2648,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Physikalische Resistenz."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Physikalische Resistenz."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Physical Resistance"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Physical Resistance"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistencia física"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistencia física"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Résistance physique"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Résistance physique"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 物理抵抗"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 物理抵抗"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Odporność na obrażenia fizyczne"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Odporność na obrażenia fizyczne"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistência Física"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistência Física"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Сопротивление физ. урону <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Сопротивление физ. урону <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 物理抗性"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 物理抗性"
                 }
             ]
         },
@@ -2788,39 +2788,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Seuchenresistenz."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Seuchenresistenz."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Plague Resistance"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Plague Resistance"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistencia a la Plaga"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistencia a la Plaga"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Résistance à la peste"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Résistance à la peste"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 疫病抵抗"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 疫病抵抗"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Odporność na zarazę"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Odporność na zarazę"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Resistência Tóxica"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Resistência Tóxica"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Сопротивление чуме <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Сопротивление чуме <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 瘟疫抗性"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 瘟疫抗性"
                 }
             ]
         },
@@ -3259,39 +3259,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Jeder Messertreffer durch Reflexe regeneriert 10% Mana."
+                    "langTranslation": "Jeder Messertreffer durch Reflexe regeneriert 11% Mana."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Each knife hit on Reflexes regenerates 10% Mana."
+                    "langTranslation": "Each knife hit on Reflexes regenerates 11% Mana."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Cada golpe de los cuchillos de Reflejos regenera 10% de maná."
+                    "langTranslation": "Cada golpe de los cuchillos de Reflejos regenera 11% de maná."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Chaque fois qu'un couteau de Réflexes touche un ennemi, vous récupérez 10% de votre ferveur"
+                    "langTranslation": "Chaque fois qu'un couteau de Réflexes touche un ennemi, vous récupérez 11% de votre ferveur"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "即応撃のナイフが1本ヒットするたびに、マナが10%再生する。"
+                    "langTranslation": "即応撃のナイフが1本ヒットするたびに、マナが11%再生する。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Każde trafienie nożem Refleksów regeneruje 10% pkt. many."
+                    "langTranslation": "Każde trafienie nożem Refleksów regeneruje 11% pkt. many."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Cada acerto de Reflexos regenera 10% de Energia."
+                    "langTranslation": "Cada acerto de Reflexos regenera 11% de Energia."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Каждое попадание ножом при использовании рефлексов восстанавливает 10% ед маны."
+                    "langTranslation": "Каждое попадание ножом при использовании рефлексов восстанавливает 11% ед маны."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "反应加速飞刀每次命中敌人可恢复 10% 法力值。"
+                    "langTranslation": "反应加速飞刀每次命中敌人可恢复 11% 法力值。"
                 }
             ]
         },
@@ -4041,39 +4041,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Wandelt Spaltschuss in eine einzelne Kugel um, die physischen Schaden in Höhe von 209% des ursprünglichen Schadens multipliziert mit der aktuellen Geschossmenge zufügt."
+                    "langTranslation": "Wandelt Spaltschuss in eine einzelne Kugel um, die physischen Schaden in Höhe von 210% des ursprünglichen Schadens multipliziert mit der aktuellen Geschossmenge zufügt."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Converts Split Shot into a single bullet that deals Physical damage equal to 209% of the original damage, multiplied by its current Projectile Amount."
+                    "langTranslation": "Converts Split Shot into a single bullet that deals Physical damage equal to 210% of the original damage, multiplied by its current Projectile Amount."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Convierte Disparo Dividido en una sola bala que inflige daño físico equivalente a 209% del daño original, multiplicado por la cantidad actual de proyectiles."
+                    "langTranslation": "Convierte Disparo Dividido en una sola bala que inflige daño físico equivalente a 210% del daño original, multiplicado por la cantidad actual de proyectiles."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Convertit Tir dispersé en un projectile unique, qui inflige des dégâts physiques équivalant à 209% des dégâts d'origine, multipliés par la quantité actuelle de projectiles"
+                    "langTranslation": "Convertit Tir dispersé en un projectile unique, qui inflige des dégâts physiques équivalant à 210% des dégâts d'origine, multipliés par la quantité actuelle de projectiles"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "スプリットショットの弾丸が1発になる代わりに、そのダメージは本来のダメージの209%に現在の投射物発射数を掛けたものとなる。"
+                    "langTranslation": "スプリットショットの弾丸が1発になる代わりに、そのダメージは本来のダメージの210%に現在の投射物発射数を掛けたものとなる。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Przekształca Wielostrzał w pojedynczy pocisk, który zadaje obrażenia fizyczne równe 209% pierwotnych obrażeń pomnożonych przez aktualną liczbę pocisków"
+                    "langTranslation": "Przekształca Wielostrzał w pojedynczy pocisk, który zadaje obrażenia fizyczne równe 210% pierwotnych obrażeń pomnożonych przez aktualną liczbę pocisków"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Transforma Tiro Disperso em um único disparo que causa dano Físico de 209% do dano original, multiplicado pela Quantidade de Projéteis atual."
+                    "langTranslation": "Transforma Tiro Disperso em um único disparo que causa dano Físico de 210% do dano original, multiplicado pela Quantidade de Projéteis atual."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Заменяет выстрел дробью на одну пулю, которая наносит физический урон, равный 209% от первоначального урона, помноженный на текущее количество снарядов."
+                    "langTranslation": "Заменяет выстрел дробью на одну пулю, которая наносит физический урон, равный 210% от первоначального урона, помноженный на текущее количество снарядов."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "将分裂射击转化为单发子弹，其造成的物理伤害相当于原始伤害的 209% 再乘以当前投射物数量。"
+                    "langTranslation": "将分裂射击转化为单发子弹，其造成的物理伤害相当于原始伤害的 210% 再乘以当前投射物数量。"
                 }
             ]
         },
@@ -4961,39 +4961,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Die Manakosten von Alte Glocke werden durch 20 % des max. Lebens ersetzt. Alte Glocke fügt außerdem 41% des max. Lebens als zusätzlichen Schaden zu."
+                    "langTranslation": "Die Manakosten von Alte Glocke werden durch 20 % des max. Lebens ersetzt. Alte Glocke fügt außerdem 42% des max. Lebens als zusätzlichen Schaden zu."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "The Old Bell's Mana cost is replaced by 20% of Maximum Life, and also applies 41% of Maximum Life as additional damage."
+                    "langTranslation": "The Old Bell's Mana cost is replaced by 20% of Maximum Life, and also applies 42% of Maximum Life as additional damage."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "El costo de maná de la Campana Antigua se reemplaza por un 20 % del máximo de vida, y también aplica 41% del máximo de vida como daño adicional."
+                    "langTranslation": "El costo de maná de la Campana Antigua se reemplaza por un 20 % del máximo de vida, y también aplica 42% del máximo de vida como daño adicional."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Le coût en ferveur de la Vieille Cloche est remplacé par 20% de votre santé maximale, et elle inflige des dégâts supplémentaires équivalant à de 41% de votre santé maximale"
+                    "langTranslation": "Le coût en ferveur de la Vieille Cloche est remplacé par 20% de votre santé maximale, et elle inflige des dégâts supplémentaires équivalant à de 42% de votre santé maximale"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "古き鐘のマナコストが最大ライフの20%に置き換えられ、さらに最大ライフの41%が追加ダメージとして適用される。"
+                    "langTranslation": "古き鐘のマナコストが最大ライフの20%に置き換えられ、さらに最大ライフの42%が追加ダメージとして適用される。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Koszt many Starego Dzwonu zostaje zastąpiony przez 20% maksymalnego życia. 41% maksymalnego życia staje się dodatkowymi obrażeniami."
+                    "langTranslation": "Koszt many Starego Dzwonu zostaje zastąpiony przez 20% maksymalnego życia. 42% maksymalnego życia staje się dodatkowymi obrażeniami."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "O custo de Energia do Velho Sino é substituído por 20% de sua Vida Máxima, e também aplica 41% de sua Vida Total como dano adicional."
+                    "langTranslation": "O custo de Energia do Velho Sino é substituído por 20% de sua Vida Máxima, e também aplica 42% de sua Vida Total como dano adicional."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Старый колокол вместо маны расходует 20% от макс. запаса здоровья и наносит 41% от макс. запаса здоровья как дополнительный урон."
+                    "langTranslation": "Старый колокол вместо маны расходует 20% от макс. запаса здоровья и наносит 42% от макс. запаса здоровья как дополнительный урон."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "古钟将不再消耗法力，改为消耗 20% 最大生命值，并造成相当于最大生命值 41% 的额外伤害。"
+                    "langTranslation": "古钟将不再消耗法力，改为消耗 20% 最大生命值，并造成相当于最大生命值 42% 的额外伤害。"
                 }
             ]
         },
@@ -5118,39 +5118,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Scharfschützenfertigkeiten, die entzündeten Gegnern physischen Schaden zufügen, lösen eine Feuerexplosion aus, die 309% des auslösenden Schadens zufügen und den Status „Entzündet“ verbrauchen."
+                    "langTranslation": "Scharfschützenfertigkeiten, die entzündeten Gegnern physischen Schaden zufügen, lösen eine Feuerexplosion aus, die 310% des auslösenden Schadens zufügen und den Status „Entzündet“ verbrauchen."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Marksman Skills that deal Physical damage to Ignited enemies trigger a Fire explosion, dealing 309% of the triggering damage and consuming the Ignited status."
+                    "langTranslation": "Marksman Skills that deal Physical damage to Ignited enemies trigger a Fire explosion, dealing 310% of the triggering damage and consuming the Ignited status."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Las habilidades de Tirador que infligen daño físico a enemigos bajo el efecto de Ardor activan una explosión de Fuego que inflige 309% del daño de activación y consume el estado Ardor."
+                    "langTranslation": "Las habilidades de Tirador que infligen daño físico a enemigos bajo el efecto de Ardor activan una explosión de Fuego que inflige 310% del daño de activación y consume el estado Ardor."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Les compétences de tir qui infligent des dégâts physiques aux ennemis embrasés déclenchent une explosion, infligeant 309% des dégâts déclencheurs et consommant l'état Embrasé"
+                    "langTranslation": "Les compétences de tir qui infligent des dégâts physiques aux ennemis embrasés déclenchent une explosion, infligeant 310% des dégâts déclencheurs et consommant l'état Embrasé"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "物理ダメージを与える射撃スキルを炎上状態の敵に対して使用した場合、火炎属性の爆発が誘発され、誘発元のダメージの309%を与えるとともに、炎上状態が解除される。"
+                    "langTranslation": "物理ダメージを与える射撃スキルを炎上状態の敵に対して使用した場合、火炎属性の爆発が誘発され、誘発元のダメージの310%を与えるとともに、炎上状態が解除される。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Umiejętności strzeleckie, które zadają obrażenia fizyczne podpalonym wrogom, wyzwalają eksplozję ognia, zadając 309% obrażeń i zużywając podpalenie."
+                    "langTranslation": "Umiejętności strzeleckie, które zadają obrażenia fizyczne podpalonym wrogom, wyzwalają eksplozję ognia, zadając 310% obrażeń i zużywając podpalenie."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Habilidades de Atirador que causam dano Físico a inimigos em Ignição criam uma explosão Ígnea, causando 309% do dano catalisador e consumindo o status de Ignição."
+                    "langTranslation": "Habilidades de Atirador que causam dano Físico a inimigos em Ignição criam uma explosão Ígnea, causando 310% do dano catalisador e consumindo o status de Ignição."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Навыки стрелка, наносящие физический урон горящим врагам, вызывают огненный взрыв, который наносит 309% от причиненного физ. урона и снимает горение."
+                    "langTranslation": "Навыки стрелка, наносящие физический урон горящим врагам, вызывают огненный взрыв, который наносит 310% от причиненного физ. урона и снимает горение."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "使用神射手技能对点燃的敌人造成物理伤害时，会引发火焰爆炸，造成的伤害相当于触发技能原始伤害的 309%，并会消除敌人的点燃状态。"
+                    "langTranslation": "使用神射手技能对点燃的敌人造成物理伤害时，会引发火焰爆炸，造成的伤害相当于触发技能原始伤害的 310%，并会消除敌人的点燃状态。"
                 }
             ]
         },
@@ -5879,39 +5879,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "„Geschlossener Körper“ gewährt bei Aktivierung 209% deines fehlenden Lebens als zusätzliche Überzeugung."
+                    "langTranslation": "„Geschlossener Körper“ gewährt bei Aktivierung 210% deines fehlenden Lebens als zusätzliche Überzeugung."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Closed Body grants 209% of your Missing Life as additional Conviction on Activation."
+                    "langTranslation": "Closed Body grants 210% of your Missing Life as additional Conviction on Activation."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Cuerpo Bloqueado te otorga 209% de la vida faltante como Convicción adicional al activarse."
+                    "langTranslation": "Cuerpo Bloqueado te otorga 210% de la vida faltante como Convicción adicional al activarse."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Lorsque vous activez Enveloppe protectrice, vous recevez de la conviction supplémentaire équivalant à 209% de votre santé manquante"
+                    "langTranslation": "Lorsque vous activez Enveloppe protectrice, vous recevez de la conviction supplémentaire équivalant à 210% de votre santé manquante"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "閉ざされし肉体は発動時に、自身の失っているライフの209%を追加で信念に加える。"
+                    "langTranslation": "閉ざされし肉体は発動時に、自身の失っているライフの210%を追加で信念に加える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Zamknięte ciało zapewnia 209% brakującego życia w formie dodatkowego Przekonania podczas aktywacji."
+                    "langTranslation": "Zamknięte ciało zapewnia 210% brakującego życia w formie dodatkowego Przekonania podczas aktywacji."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Corpo Fechado concede 209% de Vida Perdida como Convicção adicional ao ser Ativada."
+                    "langTranslation": "Corpo Fechado concede 210% de Vida Perdida como Convicção adicional ao ser Ativada."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "При активации «Защищенное тело» дает 209% от вашего потерянного здоровья в виде дополнительной непоколебимости."
+                    "langTranslation": "При активации «Защищенное тело» дает 210% от вашего потерянного здоровья в виде дополнительной непоколебимости."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活封闭躯壳时，当前缺失生命值的 209% 转化为额外信念值"
+                    "langTranslation": "激活封闭躯壳时，当前缺失生命值的 210% 转化为额外信念值"
                 }
             ]
         },
@@ -6047,39 +6047,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Tränke gewähren +619% ihres Wertes als Überzeugung anstatt Leben und erhöhen die Überzeugungsverfall-Resistenz für 5 Sek. um 100 %."
+                    "langTranslation": "Tränke gewähren +620% ihres Wertes als Überzeugung anstatt Leben und erhöhen die Überzeugungsverfall-Resistenz für 5 Sek. um 100 %."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Potions provide +619% of their value as Conviction instead of Life and increase Conviction Decay Resistance by 100% for 5 seconds."
+                    "langTranslation": "Potions provide +620% of their value as Conviction instead of Life and increase Conviction Decay Resistance by 100% for 5 seconds."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Las pociones otorgan +619% de su valor como Convicción, en lugar de vida, y aumentan la resistencia al desgaste de la Convicción en un 100 % durante 5 segundos."
+                    "langTranslation": "Las pociones otorgan +620% de su valor como Convicción, en lugar de vida, y aumentan la resistencia al desgaste de la Convicción en un 100 % durante 5 segundos."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Les potions accordent +619% de leur valeur sous la forme de conviction au lieu de vie et augmentent la résistance à la perte de conviction de 100% pendant 5 s"
+                    "langTranslation": "Les potions accordent +620% de leur valeur sous la forme de conviction au lieu de vie et augmentent la résistance à la perte de conviction de 100% pendant 5 s"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "ポーションは回復量の+619%をライフではなく信念に与え、さらに5秒間、信念減衰抵抗が100％増加する。"
+                    "langTranslation": "ポーションは回復量の+620%をライフではなく信念に与え、さらに5秒間、信念減衰抵抗が100％増加する。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Mikstury zapewniają +619% swojej wartości w formie Przekonania zamiast życia i zwiększają odporność na zanik Przekonania o 100% na 5 s"
+                    "langTranslation": "Mikstury zapewniają +620% swojej wartości w formie Przekonania zamiast życia i zwiększają odporność na zanik Przekonania o 100% na 5 s"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Poções dão +619% de seu valor como Convicção ao invés de Vida e aumentam a Resistência a Decaimento de Convicção em 100% por 5 segundos."
+                    "langTranslation": "Poções dão +620% de seu valor como Convicção ao invés de Vida e aumentam a Resistência a Decaimento de Convicção em 100% por 5 segundos."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Зелья дают непоколебимость в размере +619% от своей ценности вместо здоровья и увеличивают сопротивление потере непоколебимости на 100% на 5 сек."
+                    "langTranslation": "Зелья дают непоколебимость в размере +620% от своей ценности вместо здоровья и увеличивают сопротивление потере непоколебимости на 100% на 5 сек."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "药水将原本用于恢复生命值的 +619% 转化为信念值，并使信念减弱抗性提高 100%，持续 5 秒。"
+                    "langTranslation": "药水将原本用于恢复生命值的 +620% 转化为信念值，并使信念减弱抗性提高 100%，持续 5 秒。"
                 }
             ]
         },
@@ -6377,39 +6377,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Gewährt beim Töten eines Gegners 90 Überzeugung. Zusätzlich verbrauchen alle Scharfschützenfertigkeiten bei Benutzung 30 Überzeugung und verursachen 18% deiner aktuellen Überzeugung als zusätzlichen physischen Schaden."
+                    "langTranslation": "Gewährt beim Töten eines Gegners 90 Überzeugung. Zusätzlich verbrauchen alle Scharfschützenfertigkeiten bei Benutzung 30 Überzeugung und verursachen 19% deiner aktuellen Überzeugung als zusätzlichen physischen Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Grants 90 Conviction on kill. Additionally, all Marksman Skills drain 30 Conviction on use and deal 18% of your current Conviction as additional Physical damage."
+                    "langTranslation": "Grants 90 Conviction on kill. Additionally, all Marksman Skills drain 30 Conviction on use and deal 19% of your current Conviction as additional Physical damage."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Otorga 90 de Convicción al matar. Además, todas las habilidades de Tirador absorben 30 de Convicción al usarlas e infligen 18% de tu Convicción actual como daño físico adicional."
+                    "langTranslation": "Otorga 90 de Convicción al matar. Además, todas las habilidades de Tirador absorben 30 de Convicción al usarlas e infligen 19% de tu Convicción actual como daño físico adicional."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Accorde 90 de conviction par ennemi tué. De plus, toutes les compétences de tir drainent 30 de votre conviction et infligent des dégâts physiques supplémentaires équivalant à 18% de votre conviction actuelle."
+                    "langTranslation": "Accorde 90 de conviction par ennemi tué. De plus, toutes les compétences de tir drainent 30 de votre conviction et infligent des dégâts physiques supplémentaires équivalant à 19% de votre conviction actuelle."
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "敵を倒した時に信念を90獲得する。さらにあらゆる射撃スキルは使用時に信念を30消費するが、現在の信念の18%を追加物理ダメージとして与える。"
+                    "langTranslation": "敵を倒した時に信念を90獲得する。さらにあらゆる射撃スキルは使用時に信念を30消費するが、現在の信念の19%を追加物理ダメージとして与える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Zapewnia 90 Przekonania po likwidacji. Dodatkowo, wszystkie umiejętności strzeleckie wyczerpują 30 Przekonania przy użyciu i zadają 18% aktualnego Przekonania w formie dodatkowych obrażeń fizycznych."
+                    "langTranslation": "Zapewnia 90 Przekonania po likwidacji. Dodatkowo, wszystkie umiejętności strzeleckie wyczerpują 30 Przekonania przy użyciu i zadają 19% aktualnego Przekonania w formie dodatkowych obrażeń fizycznych."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Receba 90 de Convicção ao matar. Habilidades de Atirador drenam 30 de Convicção e causam 18% de sua Convicção atual como dano Físico adicional."
+                    "langTranslation": "Receba 90 de Convicção ao matar. Habilidades de Atirador drenam 30 de Convicção e causam 19% de sua Convicção atual como dano Físico adicional."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Вы получаете 90 ед. непоколебимости при убийстве врага. Также все навыки стрелка расходуют 30 ед. непоколебимости при использовании и наносят дополнительный физический урон в размере 18% от вашего текущего запаса непоколебимости."
+                    "langTranslation": "Вы получаете 90 ед. непоколебимости при убийстве врага. Также все навыки стрелка расходуют 30 ед. непоколебимости при использовании и наносят дополнительный физический урон в размере 19% от вашего текущего запаса непоколебимости."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "击杀敌人时获得 90 信念值。此外，所有神射手技能在施展时会消耗 30 信念值，并造成相当于当前信念值 18% 的额外物理伤害。"
+                    "langTranslation": "击杀敌人时获得 90 信念值。此外，所有神射手技能在施展时会消耗 30 信念值，并造成相当于当前信念值 19% 的额外物理伤害。"
                 }
             ]
         },
@@ -6675,39 +6675,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Bonuschance auf Talismane."
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Bonuschance auf Talismane."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Bonus Trinket Drop Chance"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Bonus Trinket Drop Chance"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Probabilidad adicional de encontrar de amuletos"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Probabilidad adicional de encontrar de amuletos"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Obtention d'amulettes bonus"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Obtention d'amulettes bonus"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> 護符ドロップ率ボーナス"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> 護符ドロップ率ボーナス"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Szansa na upuszczenie świecidełka"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Szansa na upuszczenie świecidełka"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> Bônus em achar Vestígios\n"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> Bônus em achar Vestígios\n"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Бонус к шансу выпадения амулетов <style=\"TooltipValue\">+15%</style>"
+                    "langTranslation": "Бонус к шансу выпадения амулетов <style=\"TooltipValue\">+16%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+15%</style> 护符掉落几率加成"
+                    "langTranslation": "<style=\"TooltipValue\">+16%</style> 护符掉落几率加成"
                 }
             ]
         },
@@ -7375,39 +7375,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Chance auf Bluten (Physisch)."
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Chance auf Bluten (Physisch)."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Bleed Chance (Physical)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Bleed Chance (Physical)"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Probabilidad de Sangrado (físico)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Probabilidad de Sangrado (físico)"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Chances de saign. (physique)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Chances de saign. (physique)"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> 出血率（物理）"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> 出血率（物理）"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Szansa na krwawienie (obrażenia fizyczne)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Szansa na krwawienie (obrażenia fizyczne)"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> Chance de Sangramento (Físico)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> Chance de Sangramento (Físico)"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Шанс кровотечения (физ.) <style=\"TooltipValue\">+10%</style>"
+                    "langTranslation": "Шанс кровотечения (физ.) <style=\"TooltipValue\">+11%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+10%</style> 流血几率 (物理)"
+                    "langTranslation": "<style=\"TooltipValue\">+11%</style> 流血几率 (物理)"
                 }
             ]
         },
@@ -7655,39 +7655,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> Krit.-Treffer-Chance-Multiplikator"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> Krit.-Treffer-Chance-Multiplikator"
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> Critical Chance Multiplier"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> Critical Chance Multiplier"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> de multiplicador de probabilidad de golpe crítico"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> de multiplicador de probabilidad de golpe crítico"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> Au multiplicateur de chances de critique"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> Au multiplicateur de chances de critique"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style>クリティカルヒット率倍率"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style>クリティカルヒット率倍率"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Mnożnik szansy na trafienie krytyczne: <style=\"TooltipValue\">+39%[+]</style>"
+                    "langTranslation": "Mnożnik szansy na trafienie krytyczne: <style=\"TooltipValue\">+40%[+]</style>"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> Multiplicador de Chance de Acerto Crítico"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> Multiplicador de Chance de Acerto Crítico"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "<style=\"TooltipValue\">+39%[+]</style> К множителю шанса крит. попадания"
+                    "langTranslation": "<style=\"TooltipValue\">+40%[+]</style> К множителю шанса крит. попадания"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "暴击率倍率：<style=\"TooltipValue\">+39%[+]</style>"
+                    "langTranslation": "暴击率倍率：<style=\"TooltipValue\">+40%[+]</style>"
                 }
             ]
         },
@@ -7935,39 +7935,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Feuerschaden."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Feuerschaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Fire Damage"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Fire Damage"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Daño de Fuego"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Daño de Fuego"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dégâts de feu"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dégâts de feu"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 火炎ダメージ"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 火炎ダメージ"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Obrażenia od ognia"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Obrażenia od ognia"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dano Ígneo"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dano Ígneo"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Урон от огня <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Урон от огня <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 火焰伤害"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 火焰伤害"
                 }
             ]
         },
@@ -8075,39 +8075,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Blitzschaden."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Blitzschaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Lightning Damage"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Lightning Damage"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Daño de Rayo"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Daño de Rayo"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dégâts de foudre"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dégâts de foudre"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 電撃ダメージ"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 電撃ダメージ"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Obrażenia od błyskawic"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Obrażenia od błyskawic"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dano Elétrico"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dano Elétrico"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Урон от молний <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Урон от молний <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 闪电伤害"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 闪电伤害"
                 }
             ]
         },
@@ -8215,39 +8215,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Physischer Schaden."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Physischer Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Physical Damage"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Physical Damage"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Daño físico"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Daño físico"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dégâts physiques"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dégâts physiques"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 物理ダメージ"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 物理ダメージ"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Obrażenia fizyczne"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Obrażenia fizyczne"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dano Físico"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dano Físico"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Физический урон <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Физический урон <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 物理伤害"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 物理伤害"
                 }
             ]
         },
@@ -8355,39 +8355,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Seuchenschaden."
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Seuchenschaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Plague Damage"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Plague Damage"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Daño de Plaga"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Daño de Plaga"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dégâts de peste"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dégâts de peste"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 疫病ダメージ"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 疫病ダメージ"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Obrażenia od zarazy"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Obrażenia od zarazy"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> Dano Tóxico"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> Dano Tóxico"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Урон от чумы <style=\"TooltipValue\">+37%</style>"
+                    "langTranslation": "Урон от чумы <style=\"TooltipValue\">+38%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+37%</style> 瘟疫伤害"
+                    "langTranslation": "<style=\"TooltipValue\">+38%</style> 瘟疫伤害"
                 }
             ]
         },
@@ -8495,39 +8495,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Überzeugungsgewinn."
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Überzeugungsgewinn."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Conviction Gain"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Conviction Gain"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Obtención de Convicción"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Obtención de Convicción"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Gain de conviction"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Gain de conviction"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> 信念獲得量"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> 信念獲得量"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Zyskiwane Przekonanie"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Zyskiwane Przekonanie"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> Ganho de Convicção"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> Ganho de Convicção"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Получение непоколебимости <style=\"TooltipValue\">+18%</style>"
+                    "langTranslation": "Получение непоколебимости <style=\"TooltipValue\">+19%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+18%</style> 信念获取"
+                    "langTranslation": "<style=\"TooltipValue\">+19%</style> 信念获取"
                 }
             ]
         },
@@ -8635,39 +8635,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Manaregeneration."
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Manaregeneration."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Mana Regeneration"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Mana Regeneration"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Regeneración de maná"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Regeneración de maná"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Régénération de ferveur"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Régénération de ferveur"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> マナ再生"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> マナ再生"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Regeneracja many"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Regeneracja many"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> Regeneração de Energia"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> Regeneração de Energia"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Восстановление маны <style=\"TooltipValue\">+29%[+]</style>"
+                    "langTranslation": "Восстановление маны <style=\"TooltipValue\">+30%[+]</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+29%[+]</style> 法力再生"
+                    "langTranslation": "<style=\"TooltipValue\">+30%[+]</style> 法力再生"
                 }
             ]
         },
@@ -8775,39 +8775,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Leben."
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Leben."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Life"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Life"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Vida"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Vida"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Vie"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Vie"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> 生命"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> 生命"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Życie"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Życie"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> Vida"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> Vida"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Здоровье <style=\"TooltipValue\">+27%[+]</style>"
+                    "langTranslation": "Здоровье <style=\"TooltipValue\">+28%[+]</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+27%[+]</style> 生命"
+                    "langTranslation": "<style=\"TooltipValue\">+28%[+]</style> 生命"
                 }
             ]
         },
@@ -8915,39 +8915,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Mana."
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Mana."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Mana"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Mana"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Maná"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Maná"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Ferveur"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Ferveur"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> マナ"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> マナ"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Mana"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Mana"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> Energia"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> Energia"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Мана <style=\"TooltipValue\">+25%[+]</style>"
+                    "langTranslation": "Мана <style=\"TooltipValue\">+26%[+]</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+25%[+]</style> 法力值"
+                    "langTranslation": "<style=\"TooltipValue\">+26%[+]</style> 法力值"
                 }
             ]
         },
@@ -9389,39 +9389,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Alte Glocke verursacht 41%[+] Schaden, kostet aber 50 % mehr Mana."
+                    "langTranslation": "Alte Glocke verursacht 42%[+] Schaden, kostet aber 50 % mehr Mana."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Old Bell deals 41%[+] damage but costs 50% more Mana"
+                    "langTranslation": "Old Bell deals 42%[+] damage but costs 50% more Mana"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Campana Antigua inflige 41%[+] de daño, pero cuesta un 50 % más de maná."
+                    "langTranslation": "Campana Antigua inflige 42%[+] de daño, pero cuesta un 50 % más de maná."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Vieille Cloche inflige 41%[+] de dégâts, mais coûte 50% de ferveur supplémentaire"
+                    "langTranslation": "Vieille Cloche inflige 42%[+] de dégâts, mais coûte 50% de ferveur supplémentaire"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "古き鐘は41%[+]ダメージを与えるがマナコストが50%増加する。"
+                    "langTranslation": "古き鐘は42%[+]ダメージを与えるがマナコストが50%増加する。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Stary Dzwon zadaje 41%[+] obrażeń, ale kosztuje 50% więcej many"
+                    "langTranslation": "Stary Dzwon zadaje 42%[+] obrażeń, ale kosztuje 50% więcej many"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Velho Sino causa 41%[+] mais dano mas custa 50% mais Energia"
+                    "langTranslation": "Velho Sino causa 42%[+] mais dano mas custa 50% mais Energia"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Старый колокол наносит 41%[+] ед. урона, но расходует на 50% больше маны."
+                    "langTranslation": "Старый колокол наносит 42%[+] ед. урона, но расходует на 50% больше маны."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "古钟造成 41%[+] 伤害，但法力消耗增加 50%"
+                    "langTranslation": "古钟造成 42%[+] 伤害，但法力消耗增加 50%"
                 }
             ]
         },
@@ -10937,39 +10937,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style> Statusintensität Geschockt."
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style> Statusintensität Geschockt."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style> Shocked Status Intensity"
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style> Shocked Status Intensity"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style> Electrocutado intensidad de estado"
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style> Electrocutado intensidad de estado"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style> d'intensité de l'état Électrocuté"
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style> d'intensité de l'état Électrocuté"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style>感電ステータス強度"
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style>感電ステータス強度"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Intensywność statusu: <style=\"TooltipValue\">+29%</style> Porażony"
+                    "langTranslation": "Intensywność statusu: <style=\"TooltipValue\">+30%</style> Porażony"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+29%</style> de Intensidade do estado Eletrocutado"
+                    "langTranslation": "<style=\"TooltipValue\">+30%</style> de Intensidade do estado Eletrocutado"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Воздействие статуса Шок: <style=\"TooltipValue\">+29%</style>"
+                    "langTranslation": "Воздействие статуса Шок: <style=\"TooltipValue\">+30%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "触电状态强度 <style=\"TooltipValue\">+29%</style>"
+                    "langTranslation": "触电状态强度 <style=\"TooltipValue\">+30%</style>"
                 }
             ]
         },
@@ -12649,39 +12649,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Reflexe verursacht bei blutenden Gegnern +189% Schaden."
+                    "langTranslation": "Reflexe verursacht bei blutenden Gegnern +190% Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Reflexes deal +189% damage against Bleeding enemies."
+                    "langTranslation": "Reflexes deal +190% damage against Bleeding enemies."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Reflejos inflige +189% de daño contra enemigos con Sangrado."
+                    "langTranslation": "Reflejos inflige +190% de daño contra enemigos con Sangrado."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Réflexes inflige +189% de dégâts contre les ennemis atteints d'un saignement"
+                    "langTranslation": "Réflexes inflige +190% de dégâts contre les ennemis atteints d'un saignement"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "リフレックスは出血状態の敵に対して+189%ダメージを与える。"
+                    "langTranslation": "リフレックスは出血状態の敵に対して+190%ダメージを与える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Refleksy zadają +189% pkt. obrażeń krwawiącym wrogom"
+                    "langTranslation": "Refleksy zadają +190% pkt. obrażeń krwawiącym wrogom"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Reflexos causa +189% de dano contra inimigos com Sangramento."
+                    "langTranslation": "Reflexos causa +190% de dano contra inimigos com Sangramento."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Рефлексы наносят +189% ед. урона истекающим кровью врагам."
+                    "langTranslation": "Рефлексы наносят +190% ед. урона истекающим кровью врагам."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "反应加速对流血敌人造成 +189% 伤害。"
+                    "langTranslation": "反应加速对流血敌人造成 +190% 伤害。"
                 }
             ]
         },
@@ -13730,39 +13730,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Angriffe durch Garde beschwören werden durch Spaltschuss ersetzt und verursachen 43% des ursprünglichen Schadens."
+                    "langTranslation": "Angriffe durch Garde beschwören werden durch Spaltschuss ersetzt und verursachen 44% des ursprünglichen Schadens."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Summon the Guard attacks are replaced by Split Shot, dealing 43% of its original damage."
+                    "langTranslation": "Summon the Guard attacks are replaced by Split Shot, dealing 44% of its original damage."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Reemplaza los ataques de Invoca a la Guardia por Disparo Dividido, que inflige 43% del daño original."
+                    "langTranslation": "Reemplaza los ataques de Invoca a la Guardia por Disparo Dividido, que inflige 44% del daño original."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Les attaques d'Appel à la Garde sont remplacées par Tir dispersé, infligeant 43% des dégâts d'origine"
+                    "langTranslation": "Les attaques d'Appel à la Garde sont remplacées par Tir dispersé, infligeant 44% des dégâts d'origine"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "衛兵召喚の攻撃はスプリットショットに置き換えられ、元のダメージの43%を与える。"
+                    "langTranslation": "衛兵召喚の攻撃はスプリットショットに置き換えられ、元のダメージの44%を与える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Ataki Przyzwania Guardy zostają zastąpione przez Wielostrzał, który zadaje 43% pierwotnych obrażeń."
+                    "langTranslation": "Ataki Przyzwania Guardy zostają zastąpione przez Wielostrzał, który zadaje 44% pierwotnych obrażeń."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Os ataques de Chamado da Guarda são substituídos por Tiro Disperso, causando 43% do dano original."
+                    "langTranslation": "Os ataques de Chamado da Guarda são substituídos por Tiro Disperso, causando 44% do dano original."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Атаки призванной стражи заменяются на выстрел дробью, наносящий 43% от первоначального урона."
+                    "langTranslation": "Атаки призванной стражи заменяются на выстрел дробью, наносящий 44% от первоначального урона."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "卫兵召唤后的攻击将替换为分裂射击，造成相当于原始伤害 43% 的伤害。"
+                    "langTranslation": "卫兵召唤后的攻击将替换为分裂射击，造成相当于原始伤害 44% 的伤害。"
                 }
             ]
         },
@@ -14317,39 +14317,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Blutende Gegner verursachen um 19%[+] verringerten Schaden."
+                    "langTranslation": "Blutende Gegner verursachen um 20%[+] verringerten Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Bleeding enemies deal 19%[+] reduced damage on you."
+                    "langTranslation": "Bleeding enemies deal 20%[+] reduced damage on you."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Los enemigos con Sangrado te infligen 19%[+] de daño reducido."
+                    "langTranslation": "Los enemigos con Sangrado te infligen 20%[+] de daño reducido."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Les ennemis atteints de saignement vous infligent 19%[+] de dégâts en moins"
+                    "langTranslation": "Les ennemis atteints de saignement vous infligent 20%[+] de dégâts en moins"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "出血状態の敵が与えるダメージは19%[+]減少する。"
+                    "langTranslation": "出血状態の敵が与えるダメージは20%[+]減少する。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Krwawiący wrogowie zadają o 19%[+] pkt. obrażeń mniej."
+                    "langTranslation": "Krwawiący wrogowie zadają o 20%[+] pkt. obrażeń mniej."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Inimigos com Sangramento causam 19%[+] menos dano."
+                    "langTranslation": "Inimigos com Sangramento causam 20%[+] menos dano."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Истекающие кровью враги наносят вам на 19%[+] меньше урона."
+                    "langTranslation": "Истекающие кровью враги наносят вам на 20%[+] меньше урона."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "流血敌人对你造成的伤害减少 19%[+]。"
+                    "langTranslation": "流血敌人对你造成的伤害减少 20%[+]。"
                 }
             ]
         },
@@ -14646,39 +14646,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Matadeira erhält 2 zusätzliche Aufladungen und verursacht +79%[+] Schaden."
+                    "langTranslation": "Matadeira erhält 2 zusätzliche Aufladungen und verursacht +80%[+] Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Matadeira gains 2 extra charges, deal +79%[+] damage."
+                    "langTranslation": "Matadeira gains 2 extra charges, deal +80%[+] damage."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Matadeira obtiene 2 cargas adicionales e inflige +79%[+] de daño."
+                    "langTranslation": "Matadeira obtiene 2 cargas adicionales e inflige +80%[+] de daño."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Matadeira gagne 2 charges supplémentaires et inflige +79%[+] de dégâts"
+                    "langTranslation": "Matadeira gagne 2 charges supplémentaires et inflige +80%[+] de dégâts"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "マタデイラはチャージを追加で2獲得し、+79%[+]ダメージを与える"
+                    "langTranslation": "マタデイラはチャージを追加で2獲得し、+80%[+]ダメージを与える"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Matadeira otrzymuje 2 dodatkowych ładunków, zadając +79%[+] obrażeń."
+                    "langTranslation": "Matadeira otrzymuje 2 dodatkowych ładunków, zadając +80%[+] obrażeń."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Matadeira ganha 2 cargas extras e causa +79%[+] de dano."
+                    "langTranslation": "Matadeira ganha 2 cargas extras e causa +80%[+] de dano."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Матадейра дополнительно получает 2 зар. и наносит +79%[+] ед. урона."
+                    "langTranslation": "Матадейра дополнительно получает 2 зар. и наносит +80%[+] ед. урона."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "歼击炮获得 2 次额外充能，并造成 +79%[+] 伤害。"
+                    "langTranslation": "歼击炮获得 2 次额外充能，并造成 +80%[+] 伤害。"
                 }
             ]
         },
@@ -15451,39 +15451,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Die Aktivierung von Gebet der Gesundheit fügt eine Aura hinzu, die über 10 Sek. 189% Feuerschaden pro Sek. verursacht, aber 11% Leben pro Sek. verbraucht. Der Lebensentzug kann tödlich sein."
+                    "langTranslation": "Die Aktivierung von Gebet der Gesundheit fügt eine Aura hinzu, die über 10 Sek. 190% Feuerschaden pro Sek. verursacht, aber 12% Leben pro Sek. verbraucht. Der Lebensentzug kann tödlich sein."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Activating Prayer of Health adds an aura that deals 189% Fire Damage per second, lasting for 10 seconds, but consuming 11% Life per second. This life drain can kill you."
+                    "langTranslation": "Activating Prayer of Health adds an aura that deals 190% Fire Damage per second, lasting for 10 seconds, but consuming 12% Life per second. This life drain can kill you."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Activar Plegaria de Salud agrega un aura que inflige 189% de daño de Fuego por segundo, con una duración de 10 segundos, pero consume 11% de vida por segundo. Esto puede matarte."
+                    "langTranslation": "Activar Plegaria de Salud agrega un aura que inflige 190% de daño de Fuego por segundo, con una duración de 10 segundos, pero consume 12% de vida por segundo. Esto puede matarte."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Lorsque vous activez Prière de salut, crée une aura qui inflige 189% de dégâts de feu par seconde pendant 10 s, mais qui draine 11% de santé par seconde. Cet effet peut vous tuer."
+                    "langTranslation": "Lorsque vous activez Prière de salut, crée une aura qui inflige 190% de dégâts de feu par seconde pendant 10 s, mais qui draine 12% de santé par seconde. Cet effet peut vous tuer."
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "生命の祈りを発動させると、10秒間、毎秒189%の火炎ダメージを与えるが、毎秒11%のライフを消費するオーラを追加する。このライフ消費によってプレイヤーが死亡する場合もある。"
+                    "langTranslation": "生命の祈りを発動させると、10秒間、毎秒190%の火炎ダメージを与えるが、毎秒12%のライフを消費するオーラを追加する。このライフ消費によってプレイヤーが死亡する場合もある。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Aktywacja Modlitwy o Zdrowie tworzy aurę zadającą 189% obrażeń od ognia na sekundę przez 10 s, ale zużywającą 11% pkt. życia na sekundę. Wyczerpywanie życia może cię zabić."
+                    "langTranslation": "Aktywacja Modlitwy o Zdrowie tworzy aurę zadającą 190% obrażeń od ognia na sekundę przez 10 s, ale zużywającą 12% pkt. życia na sekundę. Wyczerpywanie życia może cię zabić."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Ativar a Reza da Saúde cria uma aura que causa 189% de dano Ígneo por segundo, durando 10 segundos, mas consumindo 11% de Vida por segundo. Essa drenagem de vida pode te matar."
+                    "langTranslation": "Ativar a Reza da Saúde cria uma aura que causa 190% de dano Ígneo por segundo, durando 10 segundos, mas consumindo 12% de Vida por segundo. Essa drenagem de vida pode te matar."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "При активации молитвы о здравии вы получаете ауру, которая наносит 189% ед. урона огнем в сек. и длится 10 сек., но расходует по 11% ед. здоровья в сек. Этот расход здоровья может убить вас."
+                    "langTranslation": "При активации молитвы о здравии вы получаете ауру, которая наносит 190% ед. урона огнем в сек. и длится 10 сек., но расходует по 12% ед. здоровья в сек. Этот расход здоровья может убить вас."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "激活生命之祷时会生成一个光环，每秒造成 189% 火焰伤害，持续 10 秒，但每秒消耗 11% 生命值。该生命汲取效果可能会致死。"
+                    "langTranslation": "激活生命之祷时会生成一个光环，每秒造成 190% 火焰伤害，持续 10 秒，但每秒消耗 12% 生命值。该生命汲取效果可能会致死。"
                 }
             ]
         },
@@ -15747,39 +15747,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Unter der Wirkung von Gebet der Gesundheit hast du eine Chance von 31%, im Falle deines Todes Neuer Atem auszulösen (unabhängig von der regulären Abklingzeit von Neuer Atem)."
+                    "langTranslation": "Unter der Wirkung von Gebet der Gesundheit hast du eine Chance von 32%, im Falle deines Todes Neuer Atem auszulösen (unabhängig von der regulären Abklingzeit von Neuer Atem)."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "When under the effect of Prayer of Health, you have 31% chance to trigger Second Wind when you would die (this occurs independently from Second Wind's regular cooldown.)"
+                    "langTranslation": "When under the effect of Prayer of Health, you have 32% chance to trigger Second Wind when you would die (this occurs independently from Second Wind's regular cooldown.)"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Mientras estás bajo el efecto de Plegaria de Salud, tienes 31% de probabilidad de activar Segundo Aliento cuando mueres (esto no depende del enfriamiento normal de Segundo Aliento)."
+                    "langTranslation": "Mientras estás bajo el efecto de Plegaria de Salud, tienes 32% de probabilidad de activar Segundo Aliento cuando mueres (esto no depende del enfriamiento normal de Segundo Aliento)."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Lorsque l'effet de Prière de salut est actif, vous avez 31% de chances de déclencher Second souffle si vous mourez. Cet effet est indépendant du temps de recharge de Second souffle."
+                    "langTranslation": "Lorsque l'effet de Prière de salut est actif, vous avez 32% de chances de déclencher Second souffle si vous mourez. Cet effet est indépendant du temps de recharge de Second souffle."
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "生命の祈りが効果を発揮している間、プレイヤーが死亡するときに31%の確率で復活の息吹が発動する（これは復活の息吹の通常のクールダウンとは関係なく発動する）。"
+                    "langTranslation": "生命の祈りが効果を発揮している間、プレイヤーが死亡するときに32%の確率で復活の息吹が発動する（これは復活の息吹の通常のクールダウンとは関係なく発動する）。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Pod wpływem Modlitwy o Zdrowie masz 31% szans na aktywację Nowej Energii przy śmierci (niezależnie od jej standardowego czasu odnawiania)."
+                    "langTranslation": "Pod wpływem Modlitwy o Zdrowie masz 32% szans na aktywację Nowej Energii przy śmierci (niezależnie od jej standardowego czasu odnawiania)."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Enquanto estiver sob o efeito da Reza da Saúde, você tem 31% de chance de ativar Segunda Chance ao morrer (isso é independente do Tempo de Recarga regular de Segundo Chance)."
+                    "langTranslation": "Enquanto estiver sob o efeito da Reza da Saúde, você tem 32% de chance de ativar Segunda Chance ao morrer (isso é independente do Tempo de Recarga regular de Segundo Chance)."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Когда на вас действует молитва о здравии, вы с вероятностью 31% можете активировать второе дыхание, если должны умереть (не зависит от обычной перезарядки второго дыхания)."
+                    "langTranslation": "Когда на вас действует молитва о здравии, вы с вероятностью 32% можете активировать второе дыхание, если должны умереть (не зависит от обычной перезарядки второго дыхания)."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "在生命之祷激活期间，你在濒死时有 31% 几率触发绝处逢生 (该效果触发不受绝处逢生常规冷却时间限制)。"
+                    "langTranslation": "在生命之祷激活期间，你在濒死时有 32% 几率触发绝处逢生 (该效果触发不受绝处逢生常规冷却时间限制)。"
                 }
             ]
         },
@@ -16507,39 +16507,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Nach Aktivierung von Gebet der Vergeltung erhalten Scharfschützenfertigkeiten +100%[x] Geschossmenge, aber verursachen ‑19%[x] Schaden."
+                    "langTranslation": "Nach Aktivierung von Gebet der Vergeltung erhalten Scharfschützenfertigkeiten +100%[x] Geschossmenge, aber verursachen ‑18%[x] Schaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "During Prayer of Vengeance active effect, Marksman skills gain +100%[x] Projectile Amount but deal ‑19%[x] Damage."
+                    "langTranslation": "During Prayer of Vengeance active effect, Marksman skills gain +100%[x] Projectile Amount but deal ‑18%[x] Damage."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Mientras está activado el efecto Plegaria de Venganza, las habilidades de Tirador ganan +100%[x] de cantidad de proyectiles, pero infligen ‑19%[x] de daño."
+                    "langTranslation": "Mientras está activado el efecto Plegaria de Venganza, las habilidades de Tirador ganan +100%[x] de cantidad de proyectiles, pero infligen ‑18%[x] de daño."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Lorsque Prière de vengeance est active, les compétences de tir gagnent +100%[x] projectiles mais infligent ‑19%[x] de dégâts"
+                    "langTranslation": "Lorsque Prière de vengeance est active, les compétences de tir gagnent +100%[x] projectiles mais infligent ‑18%[x] de dégâts"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "復讐の祈りが効果を発揮している間、射撃スキルは投射物発射数+100%[x]を得るが、‑19%[x]ダメージを与える。"
+                    "langTranslation": "復讐の祈りが効果を発揮している間、射撃スキルは投射物発射数+100%[x]を得るが、‑18%[x]ダメージを与える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Podczas działania Modlitwy o Zemstę, umiejętności Strzelca zyskują dodatkowe pociski (+100%[x]), ale zadają ‑19%[x] obrażeń."
+                    "langTranslation": "Podczas działania Modlitwy o Zemstę, umiejętności Strzelca zyskują dodatkowe pociski (+100%[x]), ale zadają ‑18%[x] obrażeń."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Enquanto a ativação de Reza da Vingança, habilidades de Atirador ganham +100%[x] projétil adicional, mas causam ‑19%[x] de dano."
+                    "langTranslation": "Enquanto a ativação de Reza da Vingança, habilidades de Atirador ganham +100%[x] projétil adicional, mas causam ‑18%[x] de dano."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Во время действия молитвы о воздаянии количество снарядов навыков стрелка увеличивается на +100%[x], но они наносят ‑19%[x] ед. урона."
+                    "langTranslation": "Во время действия молитвы о воздаянии количество снарядов навыков стрелка увеличивается на +100%[x], но они наносят ‑18%[x] ед. урона."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "复仇之祷激活期间，神射手技能将额外获得 +100%[x] 枚投射物，但造成 ‑19%[x] 伤害。"
+                    "langTranslation": "复仇之祷激活期间，神射手技能将额外获得 +100%[x] 枚投射物，但造成 ‑18%[x] 伤害。"
                 }
             ]
         },
@@ -17115,39 +17115,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Nach seinem Tod verbraucht der Rohling sofort bis zu 11% deines Lebens und wird wiederbelebt. (Abklingzeit 4 Sek.)"
+                    "langTranslation": "Nach seinem Tod verbraucht der Rohling sofort bis zu 12% deines Lebens und wird wiederbelebt. (Abklingzeit 4 Sek.)"
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Brute will instantly revive by consuming up to 11% of your Life when it dies. (Cooldown 4s.)"
+                    "langTranslation": "Brute will instantly revive by consuming up to 12% of your Life when it dies. (Cooldown 4s.)"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Bruto revivirá de forma instantánea al consumir hasta 11% de tu vida cuando muera. (Enfriamiento: 4 s)."
+                    "langTranslation": "Bruto revivirá de forma instantánea al consumir hasta 12% de tu vida cuando muera. (Enfriamiento: 4 s)."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Après sa mort, la Brute revient immédiatement à la vie en drainant 11% de votre vie (temps de recharge : 4 s)"
+                    "langTranslation": "Après sa mort, la Brute revient immédiatement à la vie en drainant 12% de votre vie (temps de recharge : 4 s)"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "用心棒が死亡すると、プレイヤーのライフの11%を消費してただちに復帰する。(クールダウン4秒)"
+                    "langTranslation": "用心棒が死亡すると、プレイヤーのライフの12%を消費してただちに復帰する。(クールダウン4秒)"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Bestia natychmiast się odradza, zużywając do 11% twojego życia po swojej śmierci. (Czas odnawiania: 4 s)"
+                    "langTranslation": "Bestia natychmiast się odradza, zużywając do 12% twojego życia po swojej śmierci. (Czas odnawiania: 4 s)"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "O Cabrunco Espectral irá instantaneamente reviver quando morto, consumindo até 11% de sua Vida. Tempo de Recarga 4s."
+                    "langTranslation": "O Cabrunco Espectral irá instantaneamente reviver quando morto, consumindo até 12% de sua Vida. Tempo de Recarga 4s."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Громила мгновенно оживает после смерти, поглотив 11% от вашего здоровья. (Перезарядка: 4 сек.)"
+                    "langTranslation": "Громила мгновенно оживает после смерти, поглотив 12% от вашего здоровья. (Перезарядка: 4 сек.)"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "蛮人死亡后可立即复活，复活将最多消耗你 11% 生命值。(冷却时间为 4 秒)"
+                    "langTranslation": "蛮人死亡后可立即复活，复活将最多消耗你 12% 生命值。(冷却时间为 4 秒)"
                 }
             ]
         },
@@ -17742,39 +17742,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Verspotten durch Rohling gewährt während Aktivierung 79%[+] Beschwörungsschaden."
+                    "langTranslation": "Verspotten durch Rohling gewährt während Aktivierung 80%[+] Beschwörungsschaden."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Brute Taunt grants 79%[+] Summon Damage while active."
+                    "langTranslation": "Brute Taunt grants 80%[+] Summon Damage while active."
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Burla del Bruto otorga 79%[+] de daño por invocación cuando está activa."
+                    "langTranslation": "Burla del Bruto otorga 80%[+] de daño por invocación cuando está activa."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "La Provocation de la Brute accorde un bonus de 79%[+] de dégâts d'invocation"
+                    "langTranslation": "La Provocation de la Brute accorde un bonus de 80%[+] de dégâts d'invocation"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "用心棒の挑発は、発動中、79%[+]召喚ダメージを与える。"
+                    "langTranslation": "用心棒の挑発は、発動中、80%[+]召喚ダメージを与える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Efekt Prowokacji Bestii zapewnia 79%[+] obrażeń od Przyzwań, dopóki trwa."
+                    "langTranslation": "Efekt Prowokacji Bestii zapewnia 80%[+] obrażeń od Przyzwań, dopóki trwa."
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "O efeito ativo do Cabrunco Espectral concede 79%[+] de dano para todas as invocações ao longo de sua duração."
+                    "langTranslation": "O efeito ativo do Cabrunco Espectral concede 80%[+] de dano para todas as invocações ao longo de sua duração."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Провокация громилы увеличивает на время действия урон призванного существа на 79%[+]."
+                    "langTranslation": "Провокация громилы увеличивает на время действия урон призванного существа на 80%[+]."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "蛮人嘲讽激活期间，召唤物伤害提升 79%[+]。"
+                    "langTranslation": "蛮人嘲讽激活期间，召唤物伤害提升 80%[+]。"
                 }
             ]
         },
@@ -18667,39 +18667,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Trank gewährt für 7 Sek. +34% physische Resistenz."
+                    "langTranslation": "Trank gewährt für 7 Sek. +35% physische Resistenz."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Potion gives +34% Physical Resistance for 7s"
+                    "langTranslation": "Potion gives +35% Physical Resistance for 7s"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "La poción da +34% de resistencia física durante 7 s."
+                    "langTranslation": "La poción da +35% de resistencia física durante 7 s."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Les potions accordent +34% de résistance physique pendant 7 s"
+                    "langTranslation": "Les potions accordent +35% de résistance physique pendant 7 s"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "ポーションを使用すると7秒間、物理抵抗+34%を得る。"
+                    "langTranslation": "ポーションを使用すると7秒間、物理抵抗+35%を得る。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Mikstura zapewnia +34% odporności fizycznej na 7 s"
+                    "langTranslation": "Mikstura zapewnia +35% odporności fizycznej na 7 s"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Poção dá +34% de Resistência Física por 7s"
+                    "langTranslation": "Poção dá +35% de Resistência Física por 7s"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Зелье увеличивает сопротивление физ. урону на +34% на 7 сек."
+                    "langTranslation": "Зелье увеличивает сопротивление физ. урону на +35% на 7 сек."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "药水赋予 +34% 物理抗性，持续 7 秒"
+                    "langTranslation": "药水赋予 +35% 物理抗性，持续 7 秒"
                 }
             ]
         },
@@ -19113,39 +19113,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Ausdauer\r\n<style=\"TooltipValue\">+60%[+]</style> Manakosten für Fertigkeit.\r."
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Ausdauer\r\n<style=\"TooltipValue\">+60%[+]</style> Manakosten für Fertigkeit.\r."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Endurance\r\n<style=\"TooltipValue\">+60%[+]</style> Skill Mana Cost\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Endurance\r\n<style=\"TooltipValue\">+60%[+]</style> Skill Mana Cost\r"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Tolerancia\r\n<style=\"TooltipValue\">+60%[+]</style> Costo de maná de habilidades\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Tolerancia\r\n<style=\"TooltipValue\">+60%[+]</style> Costo de maná de habilidades\r"
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Endurance\r\n<style=\"TooltipValue\">+60%[+]</style> Coût en ferveur des comp.\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Endurance\r\n<style=\"TooltipValue\">+60%[+]</style> Coût en ferveur des comp.\r"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style>耐久\r\n<style=\"TooltipValue\">+60%[+]</style> スキルのマナコスト\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style>耐久\r\n<style=\"TooltipValue\">+60%[+]</style> スキルのマナコスト\r"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Wytrzymałość\r\n<style=\"TooltipValue\">+60%[+]</style> Koszt umiejętności w manie\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Wytrzymałość\r\n<style=\"TooltipValue\">+60%[+]</style> Koszt umiejętności w manie\r"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> Persistência\r\n<style=\"TooltipValue\">+60%[+]</style> Custo Geral de Energia\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> Persistência\r\n<style=\"TooltipValue\">+60%[+]</style> Custo Geral de Energia\r"
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Выносливость\r\nРасход маны на навык <style=\"TooltipValue\">+60%[+]</style>\r <style=\"TooltipValue\">+34%</style>"
+                    "langTranslation": "Выносливость\r\nРасход маны на навык <style=\"TooltipValue\">+60%[+]</style>\r <style=\"TooltipValue\">+35%</style>"
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "<style=\"TooltipValue\">+34%</style> 耐力\r\n<style=\"TooltipValue\">+60%[+]</style> 技能法力消耗\r"
+                    "langTranslation": "<style=\"TooltipValue\">+35%</style> 耐力\r\n<style=\"TooltipValue\">+60%[+]</style> 技能法力消耗\r"
                 }
             ]
         },
@@ -19711,39 +19711,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Weichst du einem Angriff aus, erhältst du für 6 Sek. einen Stapel Gegenangriff (max. Stapel: 5). Du erhältst für jeden Stapel Gegenangriff +14%[+] Schaden durch Scharfschützenfertigkeiten."
+                    "langTranslation": "Weichst du einem Angriff aus, erhältst du für 6 Sek. einen Stapel Gegenangriff (max. Stapel: 5). Du erhältst für jeden Stapel Gegenangriff +15%[+] Schaden durch Scharfschützenfertigkeiten."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "When you Evade an attack, gain a stack of Counter Strike (max 5) for 6 seconds. Gain +14%[+] damage to Marksman Skills for each stack of Counter Strike"
+                    "langTranslation": "When you Evade an attack, gain a stack of Counter Strike (max 5) for 6 seconds. Gain +15%[+] damage to Marksman Skills for each stack of Counter Strike"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Cuando evades un ataque, obtienes una acumulación de Contraataque (máx. 5) durante 6 segundos. Obtén +14%[+] de daño para las habilidades de Tirador por cada acumulación de contraataque."
+                    "langTranslation": "Cuando evades un ataque, obtienes una acumulación de Contraataque (máx. 5) durante 6 segundos. Obtén +15%[+] de daño para las habilidades de Tirador por cada acumulación de contraataque."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Lorsque vous esquivez une attaque, vous gagnez un cumul de Contre-attaque (max : 5) pendant 6 s. Vos compétences de tir gagnent +14%[+] de dégâts par cumul."
+                    "langTranslation": "Lorsque vous esquivez une attaque, vous gagnez un cumul de Contre-attaque (max : 5) pendant 6 s. Vos compétences de tir gagnent +15%[+] de dégâts par cumul."
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "攻撃を回避したとき、6秒間、反撃効果が（最大5個まで）累積する。累積反撃効果1個につき、射撃スキルのダメージが+14%[+]増える。"
+                    "langTranslation": "攻撃を回避したとき、6秒間、反撃効果が（最大5個まで）累積する。累積反撃効果1個につき、射撃スキルのダメージが+15%[+]増える。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Gdy unikniesz ataku, zyskujesz ładunek Kontrataku (maks. 5) na 6 s. Każdy ładunek zwiększa obrażenia umiejętności strzeleckich o +14%[+]"
+                    "langTranslation": "Gdy unikniesz ataku, zyskujesz ładunek Kontrataku (maks. 5) na 6 s. Każdy ładunek zwiększa obrażenia umiejętności strzeleckich o +15%[+]"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Ao Evadir ataques, ganha 1 acúmulo de Contra-ataque (máx. 5) por 6 segundos.\nGanha +14%[+] de dano nas Habilidades de Atirador para cada acúmulo de Contra-ataque."
+                    "langTranslation": "Ao Evadir ataques, ganha 1 acúmulo de Contra-ataque (máx. 5) por 6 segundos.\nGanha +15%[+] de dano nas Habilidades de Atirador para cada acúmulo de Contra-ataque."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Когда вы уклоняетесь от атаки, то получаете заряд контрудара (до 5) на 6 сек. Каждый заряд контрудара увеличивает урон навыков стрелка на +14%[+]."
+                    "langTranslation": "Когда вы уклоняетесь от атаки, то получаете заряд контрудара (до 5) на 6 сек. Каждый заряд контрудара увеличивает урон навыков стрелка на +15%[+]."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "成功闪避攻击可获得 1 层反击 (最多叠加 5 层)，持续 6 秒。每层反击可使神射手技能伤害提升 +14%[+]"
+                    "langTranslation": "成功闪避攻击可获得 1 层反击 (最多叠加 5 层)，持续 6 秒。每层反击可使神射手技能伤害提升 +15%[+]"
                 }
             ]
         },
@@ -20344,39 +20344,39 @@
             "description": [
                 {
                     "langCode": "de",
-                    "langTranslation": "Des Feitors Peitsche verursacht +63%[+] Schaden, kostet aber +20%[+] Mana."
+                    "langTranslation": "Des Feitors Peitsche verursacht +64%[+] Schaden, kostet aber +20%[+] Mana."
                 },
                 {
                     "langCode": "en",
-                    "langTranslation": "Feitor's Lash deals +63%[+] Damage but costs +20%[+] Mana"
+                    "langTranslation": "Feitor's Lash deals +64%[+] Damage but costs +20%[+] Mana"
                 },
                 {
                     "langCode": "es",
-                    "langTranslation": "Látigo de Feitor inflige +63%[+] de daño, pero cuesta +20%[+] de maná."
+                    "langTranslation": "Látigo de Feitor inflige +64%[+] de daño, pero cuesta +20%[+] de maná."
                 },
                 {
                     "langCode": "fr",
-                    "langTranslation": "Fouet du contremaître inflige +63%[+] de dégâts, mais coûte +20%[+] de ferveur"
+                    "langTranslation": "Fouet du contremaître inflige +64%[+] de dégâts, mais coûte +20%[+] de ferveur"
                 },
                 {
                     "langCode": "ja",
-                    "langTranslation": "監督者の鞭は+63%[+]ダメージを与えるがマナコストが+20%[+]となる。"
+                    "langTranslation": "監督者の鞭は+64%[+]ダメージを与えるがマナコストが+20%[+]となる。"
                 },
                 {
                     "langCode": "pl",
-                    "langTranslation": "Bicz Nadzorcy zadaje +63%[+] obrażeń, ale kosztuje +20%[+] many"
+                    "langTranslation": "Bicz Nadzorcy zadaje +64%[+] obrażeń, ale kosztuje +20%[+] many"
                 },
                 {
                     "langCode": "pt-br",
-                    "langTranslation": "Chicote do Feitor causa +63%[+] de Dano, mas custa +20%[+] de Mana."
+                    "langTranslation": "Chicote do Feitor causa +64%[+] de Dano, mas custa +20%[+] de Mana."
                 },
                 {
                     "langCode": "ru",
-                    "langTranslation": "Плеть надзирателя наносит +63%[+] ед. урона, но расходует +20%[+] ед. маны."
+                    "langTranslation": "Плеть надзирателя наносит +64%[+] ед. урона, но расходует +20%[+] ед. маны."
                 },
                 {
                     "langCode": "zh-cn",
-                    "langTranslation": "监督者之鞭造成 +63%[+] 伤害，但消耗 +20%[+] 法力值"
+                    "langTranslation": "监督者之鞭造成 +64%[+] 伤害，但消耗 +20%[+] 法力值"
                 }
             ]
         },

@@ -70,7 +70,11 @@
                 {
                     "name": "ad6a8d15-77d8-4b65-b806-32c6ca28ca6f",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Mana",
+                    "statModifierType": "Additive",
+                    "value": 100.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -175,7 +179,11 @@
                 {
                     "name": "e1022f50-9974-45ce-8c6c-31f88d87bdc7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -288,7 +296,11 @@
                 {
                     "name": "3ed6482a-3da2-4a64-ac5f-094c79aa4aab",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -393,7 +405,11 @@
                 {
                     "name": "019a7c74-d4ce-4b9b-8b9c-0eaeab3e33b6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 100.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -498,7 +514,11 @@
                 {
                     "name": "a8dce5bd-099d-49d5-a888-6838a6f0afb9",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MagicResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -603,7 +623,11 @@
                 {
                     "name": "365f117c-f25e-42b3-ba43-5819bf1ecdc4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 50.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -708,7 +732,11 @@
                 {
                     "name": "cdc3954f-9990-4e1e-bfc1-5d317f505b2b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BlessedGearDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -804,7 +832,11 @@
                 {
                     "name": "6eea9108-316b-4f31-b757-cf34ec4eaed4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "TrinketDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -909,7 +941,11 @@
                 {
                     "name": "fc723e29-3a20-4763-a0c7-3f95e0b148c4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1014,7 +1050,11 @@
                 {
                     "name": "31f07025-13a5-418f-8c8f-79250aa74c2b",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "StartingGoldIncrease",
+                    "valuePerLevel": 500.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1119,7 +1159,11 @@
                 {
                     "name": "124a2193-476c-48aa-ae81-a3f4b8ca9c36",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1215,7 +1259,11 @@
                 {
                     "name": "ae8c04eb-09ea-45f7-bfdd-520f39975a6e",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaSpentBarrierRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1344,7 +1392,11 @@
                 {
                     "name": "dabad943-b3c5-4132-94f3-8ea63a2ed1f7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CooldownSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1449,7 +1501,11 @@
                 {
                     "name": "2f643a08-5a44-4ec5-affb-7fb43773db3a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Evasion",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1554,7 +1610,11 @@
                 {
                     "name": "5af04655-e21d-49ee-ab15-38980bc29667",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1650,7 +1710,11 @@
                 {
                     "name": "c7a82956-0fe7-4cf3-a11a-67c641276176",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CriticalDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1771,7 +1835,11 @@
                 {
                     "name": "b0817830-c199-4cd3-a019-082eef702ab4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CriticalChance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1876,7 +1944,11 @@
                 {
                     "name": "316a43a6-f988-42d0-9277-4296751e09e1",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillMarksmanDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1981,7 +2053,11 @@
                 {
                     "name": "6bdcadf8-d2dc-492c-a572-1c91f7af7bde",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillSpellDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2086,7 +2162,11 @@
                 {
                     "name": "0d162866-98d8-4a96-8c19-1afabb9308e5",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillMeleeDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2191,43 +2271,47 @@
                 {
                     "name": "3afd85a3-8a48-4711-9799-0b03df19c574",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionLifePercentageRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.12,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Lebensregeneration durch Trank (%) +11%"
+                            "langTranslation": "Lebensregeneration durch Trank (%) +12%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Potion Life Percentage Regen +11%"
+                            "langTranslation": "Potion Life Percentage Regen +12%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Regen. porcentual de vida con poción +11%"
+                            "langTranslation": "Regen. porcentual de vida con poción +12%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "+11% Pourcentage de vie régénéré par potion"
+                            "langTranslation": "+12% Pourcentage de vie régénéré par potion"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ポーションのライフ割合再生+11%"
+                            "langTranslation": "ポーションのライフ割合再生+12%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Procentowa regeneracja życia z mikstury +11%"
+                            "langTranslation": "Procentowa regeneracja życia z mikstury +12%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Regeneração de Percentual de Vida por Poção +11%"
+                            "langTranslation": "Regeneração de Percentual de Vida por Poção +12%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Восстановление здоровья зельями, % +11%"
+                            "langTranslation": "Восстановление здоровья зельями, % +12%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "药水生命再生 (%) +11%"
+                            "langTranslation": "药水生命再生 (%) +12%"
                         }
                     ]
                 }
@@ -2296,7 +2380,11 @@
                 {
                     "name": "58f9e4c7-10f7-410d-95be-5effa543e2fb",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Endurance",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2401,7 +2489,11 @@
                 {
                     "name": "e8acd114-78dc-4d5f-aef4-aa45d89c37ad",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2506,7 +2598,11 @@
                 {
                     "name": "dadc3dff-1b28-4ff5-8605-a8f6a31d782a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.02,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2611,7 +2707,11 @@
                 {
                     "name": "e131567e-8dd9-47f1-be6f-deac8180650e",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2716,7 +2816,11 @@
                 {
                     "name": "6271e4a5-cce3-43e5-9774-2fbf5184fc1c",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2830,6 +2934,7 @@
                     "name": "1ae56ec1-1fee-4bc0-a31a-fb2099d7ca81",
                     "type": "SkillEquipNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2942,7 +3047,11 @@
                 {
                     "name": "1eba6958-ccdf-4c38-9431-bd35e44bef33",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3038,7 +3147,11 @@
                 {
                     "name": "43751ed1-8323-4f4c-8ae4-be66f6b5d27a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaShield",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3134,7 +3247,11 @@
                 {
                     "name": "67182ea9-82c9-4763-b741-02652584a2f3",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AntiMagic",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3247,43 +3364,47 @@
                 {
                     "name": "baa170b2-799f-4898-83cb-73d14dd0ec00",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillManaCost",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.9,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Manakosten für Fertigkeit ‑11%[x]"
+                            "langTranslation": "Manakosten für Fertigkeit ‑10%[x]"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Skill Mana Cost ‑11%[x]"
+                            "langTranslation": "Skill Mana Cost ‑10%[x]"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Costo de maná de habilidades ‑11%[x]"
+                            "langTranslation": "Costo de maná de habilidades ‑10%[x]"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑11%[x] Coût en ferveur des comp."
+                            "langTranslation": "‑10%[x] Coût en ferveur des comp."
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "スキルのマナコスト‑11%[x]"
+                            "langTranslation": "スキルのマナコスト‑10%[x]"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Koszt umiejętności w manie ‑11%[x]"
+                            "langTranslation": "Koszt umiejętności w manie ‑10%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Custo Geral de Energia ‑11%[x]"
+                            "langTranslation": "Custo Geral de Energia ‑10%[x]"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Расход маны на навык ‑11%[x]"
+                            "langTranslation": "Расход маны на навык ‑10%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "技能法力消耗 ‑11%[x]"
+                            "langTranslation": "技能法力消耗 ‑10%[x]"
                         }
                     ]
                 }
@@ -3352,7 +3473,11 @@
                 {
                     "name": "e9e06c46-bc34-4d99-888d-e95f9c09e0d7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Mana",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3457,7 +3582,11 @@
                 {
                     "name": "c964fb0b-2d23-4ad8-8ec9-1195de3bad14",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3562,7 +3691,11 @@
                 {
                     "name": "86515839-201d-420c-a636-bd5e8eada32c",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3675,7 +3808,11 @@
                 {
                     "name": "1aabe938-4edc-4aeb-8524-5dbb53987604",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ExperienceGain",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3771,7 +3908,11 @@
                 {
                     "name": "675f770b-fc41-4dac-9260-ec82bcc0b84b",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingRedrawCostMultiplier",
+                    "valuePerLevel": 0.1,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3908,7 +4049,11 @@
                 {
                     "name": "7825f43c-32ec-4888-a594-807216d5fdb7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MagicResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3951,7 +4096,11 @@
                 {
                     "name": "b9f04f2d-bf7c-48d2-80ed-6e4caf092cdb",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4072,7 +4221,11 @@
                 {
                     "name": "56ef3820-3a2f-4272-83d9-3125d91edf45",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillMeleeLifeSteal",
+                    "statModifierType": "Additive",
+                    "value": 0.0025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4185,7 +4338,11 @@
                 {
                     "name": "c109947f-126f-412d-9847-5d6319952081",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.015,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4281,7 +4438,11 @@
                 {
                     "name": "f56c0cb9-a7e6-4bfa-9dd0-a0576f2cd0a7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4386,7 +4547,11 @@
                 {
                     "name": "c5d12837-2617-4282-bf17-b5dc5aed48a4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4499,7 +4664,11 @@
                 {
                     "name": "96a10770-dbe4-43c0-8af7-f50265dcc2c4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4604,7 +4773,11 @@
                 {
                     "name": "d3deed3e-d69a-458f-8ff9-adfd20cdac5f",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4725,7 +4898,11 @@
                 {
                     "name": "6bc2e5a3-fcbd-4f10-b311-d8ce518b2833",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 60.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4830,7 +5007,11 @@
                 {
                     "name": "34e29be3-a775-46b3-9bc9-ec77299d76de",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingSelectionIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4951,7 +5132,11 @@
                 {
                     "name": "bcd382d2-43af-477a-9da0-21b1d3618a75",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingBanishIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5047,7 +5232,11 @@
                 {
                     "name": "d09117fb-1d9d-4b8b-b3bf-2a4cad22bee2",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingBanishIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5184,7 +5373,11 @@
                 {
                     "name": "51289d3d-cc2e-42d6-8401-48c3eff765de",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 50.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5289,7 +5482,11 @@
                 {
                     "name": "b833cc10-8277-4a2f-b16b-dc2203321d35",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionCapacity",
+                    "statModifierType": "Additive",
+                    "value": 1.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5402,7 +5599,11 @@
                 {
                     "name": "2a4848a8-b9fa-477e-8bb2-987f43c90447",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5515,7 +5716,11 @@
                 {
                     "name": "02cf9fdc-4e65-48c3-aeda-31f56c343939",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LifeRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.005,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5620,7 +5825,11 @@
                 {
                     "name": "9450f072-19ad-473a-a0b3-42ef59975684",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalSkippedLevelsIncrease",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5725,7 +5934,11 @@
                 {
                     "name": "ead7da77-de6d-44f7-8d33-d04b4ad5862c",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalChanceIncrease",
+                    "valuePerLevel": 0.1,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5830,7 +6043,11 @@
                 {
                     "name": "6cb9f9ae-89e7-4a91-a88e-703f4a17a650",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalSkippedLevelsIncrease",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5890,39 +6107,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/40 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/40 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/40 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/40 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/40 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/40 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/40 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/40 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/40消費してアンロック"
+                            "langTranslation": "合計ポイントを36/40消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/40 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/40 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/40 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/40 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/40 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/40 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/40 总点数以解锁"
+                            "langTranslation": "投入 36/40 总点数以解锁"
                         }
                     ]
                 }
@@ -5973,7 +6190,11 @@
                 {
                     "name": "5102b892-4203-4afd-92d4-7e274e39baaf",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CriticalDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6033,39 +6254,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/35 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/35 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/35 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/35 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/35 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/35 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/35 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/35 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/35消費してアンロック"
+                            "langTranslation": "合計ポイントを36/35消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/35 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/35 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/35 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/35 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/35 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/35 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/35 总点数以解锁"
+                            "langTranslation": "投入 36/35 总点数以解锁"
                         }
                     ]
                 }
@@ -6116,7 +6337,11 @@
                 {
                     "name": "c10f1d41-d50b-4b3e-81b8-047f2cd2ae6d",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillMeleeDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.08,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6176,39 +6401,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/35 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/35 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/35 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/35 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/35 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/35 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/35 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/35 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/35消費してアンロック"
+                            "langTranslation": "合計ポイントを36/35消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/35 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/35 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/35 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/35 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/35 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/35 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/35 总点数以解锁"
+                            "langTranslation": "投入 36/35 总点数以解锁"
                         }
                     ]
                 }
@@ -6259,7 +6484,11 @@
                 {
                     "name": "ce3da211-8f03-421d-8273-b161fdd2d566",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillSpellDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.08,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6319,39 +6548,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/35 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/35 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/35 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/35 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/35 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/35 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/35 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/35 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/35消費してアンロック"
+                            "langTranslation": "合計ポイントを36/35消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/35 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/35 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/35 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/35 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/35 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/35 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/35 总点数以解锁"
+                            "langTranslation": "投入 36/35 总点数以解锁"
                         }
                     ]
                 }
@@ -6402,7 +6631,11 @@
                 {
                     "name": "a3643e8c-1589-4a2f-bc3e-2f29465bea2a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SkillMarksmanDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.08,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6462,39 +6695,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 },
@@ -6508,39 +6741,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 },
@@ -6554,39 +6787,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 },
@@ -6600,39 +6833,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -6683,7 +6916,11 @@
                 {
                     "name": "5fe1a40f-d363-4c9d-9d35-4edf26c72c08",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 35.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6788,43 +7025,47 @@
                 {
                     "name": "1b047f4d-c9c8-4b7a-a8f5-db34a0b71d9a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionLifePercentageRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.12,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Lebensregeneration durch Trank (%) +11%"
+                            "langTranslation": "Lebensregeneration durch Trank (%) +12%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Potion Life Percentage Regen +11%"
+                            "langTranslation": "Potion Life Percentage Regen +12%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Regen. porcentual de vida con poción +11%"
+                            "langTranslation": "Regen. porcentual de vida con poción +12%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "+11% Pourcentage de vie régénéré par potion"
+                            "langTranslation": "+12% Pourcentage de vie régénéré par potion"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ポーションのライフ割合再生+11%"
+                            "langTranslation": "ポーションのライフ割合再生+12%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Procentowa regeneracja życia z mikstury +11%"
+                            "langTranslation": "Procentowa regeneracja życia z mikstury +12%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Regeneração de Percentual de Vida por Poção +11%"
+                            "langTranslation": "Regeneração de Percentual de Vida por Poção +12%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Восстановление здоровья зельями, % +11%"
+                            "langTranslation": "Восстановление здоровья зельями, % +12%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "药水生命再生 (%) +11%"
+                            "langTranslation": "药水生命再生 (%) +12%"
                         }
                     ]
                 }
@@ -6893,7 +7134,11 @@
                 {
                     "name": "a58c2e54-d604-44a4-a8a3-9008999a1063",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionCapacity",
+                    "statModifierType": "Additive",
+                    "value": 1.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6953,39 +7198,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/40 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/40 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/40 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/40 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/40 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/40 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/40 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/40 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/40消費してアンロック"
+                            "langTranslation": "合計ポイントを36/40消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/40 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/40 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/40 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/40 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/40 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/40 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/40 总点数以解锁"
+                            "langTranslation": "投入 36/40 总点数以解锁"
                         }
                     ]
                 }
@@ -7036,7 +7281,11 @@
                 {
                     "name": "4bb8cab6-58d0-4914-adcb-7f25e4dd6e2a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Endurance",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7141,7 +7390,11 @@
                 {
                     "name": "86e46147-1107-413e-97a3-bb4cfc91e758",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LifeRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.005,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7262,7 +7515,11 @@
                 {
                     "name": "7d5c40f2-6258-4024-b399-70f4ad98bc45",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7330,39 +7587,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -7413,7 +7670,11 @@
                 {
                     "name": "09afa0a0-e5c0-455c-a8ae-ca3796736333",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7473,39 +7734,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/40 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/40 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/40 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/40 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/40 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/40 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/40 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/40 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/40消費してアンロック"
+                            "langTranslation": "合計ポイントを36/40消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/40 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/40 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/40 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/40 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/40 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/40 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/40 总点数以解锁"
+                            "langTranslation": "投入 36/40 总点数以解锁"
                         }
                     ]
                 }
@@ -7556,7 +7817,11 @@
                 {
                     "name": "fa9b9cb4-1f63-44e9-ade5-b71b2ad876d6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.015,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7661,7 +7926,11 @@
                 {
                     "name": "42bca8f4-5436-4135-b5e8-45cf6c3915d5",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7766,7 +8035,11 @@
                 {
                     "name": "8c92375d-a5ab-4080-a993-26fc34a434d8",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7871,7 +8144,11 @@
                 {
                     "name": "eb90d601-1151-4a83-975a-565da85a2ffa",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7931,39 +8208,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -8014,7 +8291,11 @@
                 {
                     "name": "f8d89f30-beba-4df3-84fd-051eb66ca5d2",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MagicResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8057,7 +8338,11 @@
                 {
                     "name": "4d34e0d4-091e-4963-802e-2226cb64e117",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8117,39 +8402,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/40 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/40 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/40 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/40 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/40 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/40 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/40 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/40 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/40消費してアンロック"
+                            "langTranslation": "合計ポイントを36/40消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/40 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/40 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/40 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/40 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/40 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/40 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/40 总点数以解锁"
+                            "langTranslation": "投入 36/40 总点数以解锁"
                         }
                     ]
                 }
@@ -8200,7 +8485,11 @@
                 {
                     "name": "a6f2fdc0-5a67-48f9-82a3-8f561401907b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8305,7 +8594,11 @@
                 {
                     "name": "4d0ca204-e0db-4607-882a-4453fb8d7675",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8365,39 +8658,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -8448,7 +8741,11 @@
                 {
                     "name": "c977bf6d-7eb1-4b0e-a112-125b92a4365a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8553,7 +8850,11 @@
                 {
                     "name": "2408c363-7189-4b5f-b451-5f8a7cc78f8e",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8613,39 +8914,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/40 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/40 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/40 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/40 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/40 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/40 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/40 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/40 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/40消費してアンロック"
+                            "langTranslation": "合計ポイントを36/40消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/40 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/40 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/40 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/40 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/40 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/40 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/40 总点数以解锁"
+                            "langTranslation": "投入 36/40 总点数以解锁"
                         }
                     ]
                 }
@@ -8696,7 +8997,11 @@
                 {
                     "name": "468858cf-dea9-49a2-b820-56ffc4ee3576",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CooldownSpeed",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8801,7 +9106,11 @@
                 {
                     "name": "67f43007-9530-49ea-9339-687bcba51f86",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AntiMagic",
+                    "statModifierType": "Additive",
+                    "value": 0.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8906,7 +9215,11 @@
                 {
                     "name": "03739331-5603-4ed1-9dfb-2b11d9c28e95",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaShield",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9011,7 +9324,11 @@
                 {
                     "name": "aefcd090-2d11-43ab-a92c-8bd6cd3ead25",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9132,7 +9449,11 @@
                 {
                     "name": "908d4f32-f3c2-4325-b807-3e7775e0f6d6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Mana",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9192,39 +9513,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -9275,7 +9596,11 @@
                 {
                     "name": "9da9be96-f837-424c-8c29-26501c793c8b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Mana",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9380,7 +9705,11 @@
                 {
                     "name": "b994a61f-f3fe-4a50-98ef-32969a9a8e80",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaSpentBarrierRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.04,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9485,7 +9814,11 @@
                 {
                     "name": "ec4a45f6-3659-4177-b33e-7be99ba8646e",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9545,39 +9878,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/35 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/35 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/35 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/35 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/35 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/35 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/35 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/35 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/35消費してアンロック"
+                            "langTranslation": "合計ポイントを36/35消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/35 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/35 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/35 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/35 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/35 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/35 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/35 总点数以解锁"
+                            "langTranslation": "投入 36/35 总点数以解锁"
                         }
                     ]
                 }
@@ -9628,7 +9961,11 @@
                 {
                     "name": "99aaffc2-57c5-4e4f-9ec6-f24c9863af92",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9688,39 +10025,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/20 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/20 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/20 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/20 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/20 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/20 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/20 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/20 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/20消費してアンロック"
+                            "langTranslation": "合計ポイントを36/20消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/20 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/20 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/20 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/20 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/20 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/20 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/20 总点数以解锁"
+                            "langTranslation": "投入 36/20 总点数以解锁"
                         }
                     ]
                 },
@@ -9779,7 +10116,11 @@
                 {
                     "name": "aa40a823-9eae-4e56-a488-f37a739e37f2",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "StartingPlayerLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9875,7 +10216,11 @@
                 {
                     "name": "668166ac-8822-42ac-bf67-e16daaa53242",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "RelicDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -9980,7 +10325,11 @@
                 {
                     "name": "c85bda6e-fbbf-465b-b1aa-8d8d81e0d595",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 60.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10085,7 +10434,11 @@
                 {
                     "name": "f8a6c7c9-a2fb-4d33-8c76-76a994ec21c7",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 30.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10190,7 +10543,11 @@
                 {
                     "name": "3433d39c-bf26-40e7-8b0e-55f1b1442345",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Evasion",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10250,39 +10607,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -10333,7 +10690,11 @@
                 {
                     "name": "2c847cef-1b77-4e30-bb4f-db27a1649067",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaShield",
+                    "statModifierType": "Additive",
+                    "value": 0.035,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10393,39 +10754,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -10476,7 +10837,11 @@
                 {
                     "name": "b5a73940-8115-41b3-811e-52410cb17c72",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AntiMagic",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10581,7 +10946,11 @@
                 {
                     "name": "cc1ac0b8-7c79-4819-b4e4-fcb8cf23134c",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SummonDamagePercentage",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10641,39 +11010,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/35 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/35 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/35 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/35 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/35 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/35 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/35 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/35 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/35消費してアンロック"
+                            "langTranslation": "合計ポイントを36/35消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/35 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/35 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/35 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/35 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/35 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/35 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/35 总点数以解锁"
+                            "langTranslation": "投入 36/35 总点数以解锁"
                         }
                     ]
                 }
@@ -10724,7 +11093,11 @@
                 {
                     "name": "798e9619-c425-4003-99c7-bbb9869849c3",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SummonDamagePercentage",
+                    "statModifierType": "Additive",
+                    "value": 0.08,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10837,7 +11210,30 @@
                 {
                     "name": "226fadde-5a3b-4231-874d-4a2225b23306",
                     "type": "SkillBehaviorNodeAffixDefinition",
+                    "eModifierType": "Multiplicative",
+                    "valuePerLevel": 0.9,
+                    "behaviorData": {
+                        "type": "SkillBehaviorData",
+                        "affectMultipleSkills": false,
+                        "useListOfSkills": false,
+                        "listOfSkills": [],
+                        "skillTagFilter": "0",
+                        "skillDefinition": {},
+                        "variables": {
+                            "type": "SkillEffectVariables",
+                            "variables": [
+                                {
+                                    "type": "SkillEffectVariable",
+                                    "name": "Roll",
+                                    "baseValue": 0.0,
+                                    "eSkillEffectVariableStackType": "Multiply",
+                                    "eSkillEffectVariableFormat": "Multiplicative"
+                                }
+                            ]
+                        }
+                    },
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10933,7 +11329,11 @@
                 {
                     "name": "158dca82-d4ba-4de3-9674-af359879f986",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "MaximumSkillLevelIncrementAmount",
+                    "valuePerLevel": 6.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -10976,6 +11376,7 @@
                 {
                     "name": "0ef6b36a-83c5-4282-8700-7e03e025b5b4",
                     "type": "RelicInventoryTierIncrementNodeAffixDefinition",
+                    "valuePerUpgrade": 4,
                     "hideDescription": true,
                     "description": [
                         {
@@ -11036,39 +11437,39 @@
                     "requirements": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Investiere INSGESAMT 1/55 PUNKTE zum Freischalten"
+                            "langTranslation": "Investiere INSGESAMT 36/55 PUNKTE zum Freischalten"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Invest 1/55 TOTAL POINTS to Unlock"
+                            "langTranslation": "Invest 36/55 TOTAL POINTS to Unlock"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Invierte 1/55 PUNTOS TOTALES para desbloquear"
+                            "langTranslation": "Invierte 36/55 PUNTOS TOTALES para desbloquear"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Dépensez 1/55 POINTS AU TOTAL pour débloquer ceci"
+                            "langTranslation": "Dépensez 36/55 POINTS AU TOTAL pour débloquer ceci"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "合計ポイントを1/55消費してアンロック"
+                            "langTranslation": "合計ポイントを36/55消費してアンロック"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wydaj W SUMIE 1/55 pkt., aby odblokować"
+                            "langTranslation": "Wydaj W SUMIE 36/55 pkt., aby odblokować"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Invista 1/55 PONTOS NO TOTAL para Desbloquear"
+                            "langTranslation": "Invista 36/55 PONTOS NO TOTAL para Desbloquear"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Вложите 1/55 оч., чтобы открыть"
+                            "langTranslation": "Вложите 36/55 оч., чтобы открыть"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "投入 1/55 总点数以解锁"
+                            "langTranslation": "投入 36/55 总点数以解锁"
                         }
                     ]
                 }
@@ -11119,7 +11520,11 @@
                 {
                     "name": "f6b6d90c-656b-4323-9656-9bd8f62b265b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",

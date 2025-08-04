@@ -53,7 +53,11 @@
                 {
                     "name": "dc059b25-1578-4b45-b6a4-07e2f61d6345",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 75.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -158,7 +162,11 @@
                 {
                     "name": "9c6196d7-5cc1-418b-a32d-70a45cb6fb90",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Mana",
+                    "statModifierType": "Additive",
+                    "value": 100.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -263,7 +271,11 @@
                 {
                     "name": "7497f0a4-de9e-472c-bec3-d403b4b67494",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 200.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -422,7 +434,11 @@
                 {
                     "name": "d101dd78-a537-4c5e-9f80-df6248d688ce",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ExperienceGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -527,7 +543,11 @@
                 {
                     "name": "cfecb720-5f2d-4d10-aece-e20a6481bb34",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -640,7 +660,11 @@
                 {
                     "name": "ceb7d18b-d12d-49f7-a449-6859ef7f698c",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalSkippedLevelsIncrease",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -753,7 +777,11 @@
                 {
                     "name": "22fde29b-0d82-43e9-b208-f6e29d460a29",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 120.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -858,7 +886,11 @@
                 {
                     "name": "24ea1688-4beb-46c5-bdfa-73bb68fe6b0a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 100.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -963,43 +995,47 @@
                 {
                     "name": "a3e6ff93-fab6-44ea-ac6a-d23e30047b29",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionLifePercentageRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.12,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Lebensregeneration durch Trank (%) +11%"
+                            "langTranslation": "Lebensregeneration durch Trank (%) +12%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Potion Life Percentage Regen +11%"
+                            "langTranslation": "Potion Life Percentage Regen +12%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Regen. porcentual de vida con poción +11%"
+                            "langTranslation": "Regen. porcentual de vida con poción +12%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "+11% Pourcentage de vie régénéré par potion"
+                            "langTranslation": "+12% Pourcentage de vie régénéré par potion"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ポーションのライフ割合再生+11%"
+                            "langTranslation": "ポーションのライフ割合再生+12%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Procentowa regeneracja życia z mikstury +11%"
+                            "langTranslation": "Procentowa regeneracja życia z mikstury +12%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Regeneração de Percentual de Vida por Poção +11%"
+                            "langTranslation": "Regeneração de Percentual de Vida por Poção +12%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Восстановление здоровья зельями, % +11%"
+                            "langTranslation": "Восстановление здоровья зельями, % +12%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "药水生命再生 (%) +11%"
+                            "langTranslation": "药水生命再生 (%) +12%"
                         }
                     ]
                 }
@@ -1092,7 +1128,9 @@
                 {
                     "name": "3c7bf077-ca0a-4ca7-9999-7b00a32eab50",
                     "type": "RelicInventoryTierIncrementNodeAffixDefinition",
+                    "valuePerUpgrade": 1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1197,7 +1235,11 @@
                 {
                     "name": "8e27fb07-5001-40ec-bf16-c69a5157a040",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 30.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1302,7 +1344,11 @@
                 {
                     "name": "4feb1fce-e650-4d85-b181-1f74c1365ae3",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1407,7 +1453,11 @@
                 {
                     "name": "dfafe0dc-f8aa-401b-a86f-03c4cba354b0",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalChanceIncrease",
+                    "valuePerLevel": 0.1,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1512,7 +1562,11 @@
                 {
                     "name": "35fc19dd-a3ba-4054-b2ad-dc7eb351a35d",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RedPortalSkippedLevelsIncrease",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1617,7 +1671,11 @@
                 {
                     "name": "8bb9ddd5-8dfb-450a-8388-0901976ed132",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.02,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1722,7 +1780,11 @@
                 {
                     "name": "94a4b7b6-1e6d-4392-8806-9f9224e3ef35",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1827,7 +1889,11 @@
                 {
                     "name": "5468d405-0be3-49bd-9965-5c53b608c8c4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1932,7 +1998,11 @@
                 {
                     "name": "83498b53-8136-4395-8e37-a84a7d931911",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2037,7 +2107,11 @@
                 {
                     "name": "3822df1f-7113-4876-9314-3f22a32fbdab",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2142,7 +2216,11 @@
                 {
                     "name": "d4aa45ad-65a1-407f-9ed7-1b110a11abb8",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2247,7 +2325,11 @@
                 {
                     "name": "f0b21309-1fbe-4b0a-971a-c6694714ea98",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2360,7 +2442,9 @@
                 {
                     "name": "54b78fb1-5338-4047-8986-467373935571",
                     "type": "RelicInventoryTierIncrementNodeAffixDefinition",
+                    "valuePerUpgrade": 1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2465,7 +2549,11 @@
                 {
                     "name": "93b80c12-b1e7-44f8-b0eb-0a70fb19e1c2",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "StartingGoldIncrease",
+                    "valuePerLevel": 500.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2570,7 +2658,11 @@
                 {
                     "name": "26ecabab-7143-4cec-a960-fc6359705590",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.075,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2675,7 +2767,11 @@
                 {
                     "name": "9b1630b1-cc3f-49ab-a4e9-2f9e72a214c6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaSpentBarrierRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2780,7 +2876,11 @@
                 {
                     "name": "64b88235-8449-48c2-9352-d3e76c3e4e79",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2885,7 +2985,11 @@
                 {
                     "name": "513e3dcd-8912-4b3d-add3-be0d5dc5497b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2990,7 +3094,11 @@
                 {
                     "name": "3d6f3812-35af-458b-9c0c-29ab55d081e9",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3095,7 +3203,11 @@
                 {
                     "name": "0127e7d4-2ddc-4aa6-8646-8a100aa86fc3",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessedGearShopDiscount",
+                    "valuePerLevel": 0.05,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3200,7 +3312,11 @@
                 {
                     "name": "c71ea641-dd60-4a54-9df4-9057bdd87b41",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RelicCostReduction",
+                    "valuePerLevel": 0.05,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3305,7 +3421,11 @@
                 {
                     "name": "6aea9e5e-9763-4245-b1f2-3a79e2431c97",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "TrinketDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3418,7 +3538,11 @@
                 {
                     "name": "b797ea87-69cd-4391-8308-7b4061f82e64",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "RelicDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3523,43 +3647,47 @@
                 {
                     "name": "7d791cf5-b37f-44fd-a2e5-6f61345b03e3",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "SoulStonesRecycleGainBonus",
+                    "valuePerLevel": 0.12,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Erhöht die durch Relikt-Wiederverwertung erhaltene Menge an Seelensteinen um 11%."
+                            "langTranslation": "Erhöht die durch Relikt-Wiederverwertung erhaltene Menge an Seelensteinen um 12%."
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Increases Soul Stones gained via Relic Recycle by 11%"
+                            "langTranslation": "Increases Soul Stones gained via Relic Recycle by 12%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Aumenta las piedras de alma obtenidas mediante el reciclaje de reliquias en 11%"
+                            "langTranslation": "Aumenta las piedras de alma obtenidas mediante el reciclaje de reliquias en 12%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Augmente de 11% la quantité de pierres d'âme obtenues par la fonte de reliques"
+                            "langTranslation": "Augmente de 12% la quantité de pierres d'âme obtenues par la fonte de reliques"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "聖遺物分解によるソウルストーン獲得量が11%増加する。"
+                            "langTranslation": "聖遺物分解によるソウルストーン獲得量が12%増加する。"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zwiększa liczbę Kamieni Dusz zdobywanych przez recykling artefaktu o 11%"
+                            "langTranslation": "Zwiększa liczbę Kamieni Dusz zdobywanych przez recykling artefaktu o 12%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Aumenta o reembolso de Fragmentos de Alma ao Reciclar Relíquias em 11%"
+                            "langTranslation": "Aumenta o reembolso de Fragmentos de Alma ao Reciclar Relíquias em 12%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Повышает количество камней душ, получаемых за преобразование реликвий, на 11%"
+                            "langTranslation": "Повышает количество камней душ, получаемых за преобразование реликвий, на 12%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "遗物回收获得的魂石数量提高 11%"
+                            "langTranslation": "遗物回收获得的魂石数量提高 12%"
                         }
                     ]
                 }
@@ -3628,7 +3756,11 @@
                 {
                     "name": "5a194a90-36d8-4ad4-a6e1-7d271a9d1dd4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3733,7 +3865,11 @@
                 {
                     "name": "edb6bd35-83b8-4916-b7c8-e4f4d7a3c251",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3846,7 +3982,11 @@
                 {
                     "name": "aa0505c2-d45e-4cfd-a906-97bbe666a16e",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PotionCapacity",
+                    "statModifierType": "Additive",
+                    "value": 1.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3959,7 +4099,11 @@
                 {
                     "name": "da1f60b3-ff40-418a-920e-a6ab36a6d7e5",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BlessedGearDropChanceBonus",
+                    "statModifierType": "Additive",
+                    "value": 0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4064,7 +4208,11 @@
                 {
                     "name": "2fac8f27-55a6-48b3-ba02-21f7e5b4a25f",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingRedrawCostMultiplier",
+                    "valuePerLevel": 0.9,
+                    "eModifierType": "Multiplicative",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4169,7 +4317,11 @@
                 {
                     "name": "3b422357-ba12-4f74-aa93-791cdbf995c9",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 80.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4274,7 +4426,30 @@
                 {
                     "name": "cfce9eeb-fe28-4c4d-b637-a3136db9c5a5",
                     "type": "SkillBehaviorNodeAffixDefinition",
+                    "eModifierType": "Multiplicative",
+                    "valuePerLevel": 0.9,
+                    "behaviorData": {
+                        "type": "SkillBehaviorData",
+                        "affectMultipleSkills": false,
+                        "useListOfSkills": false,
+                        "listOfSkills": [],
+                        "skillTagFilter": "0",
+                        "skillDefinition": {},
+                        "variables": {
+                            "type": "SkillEffectVariables",
+                            "variables": [
+                                {
+                                    "type": "SkillEffectVariable",
+                                    "name": "Cooldown",
+                                    "baseValue": 0.0,
+                                    "eSkillEffectVariableStackType": "Multiply",
+                                    "eSkillEffectVariableFormat": "Multiplicative"
+                                }
+                            ]
+                        }
+                    },
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4380,6 +4555,7 @@
                     "name": "47275bf2-22cb-41f3-88bd-3f1c3f579038",
                     "type": "SkillEquipNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4484,7 +4660,11 @@
                 {
                     "name": "804a3ddc-7764-49c2-91d4-0284d7fcfa60",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4589,7 +4769,11 @@
                 {
                     "name": "0484daac-0c58-4c55-a63a-46f91f7a2762",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CooldownSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4694,7 +4878,11 @@
                 {
                     "name": "1ecd370a-5892-4a8c-9e10-ea33287cdf83",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingSelectionIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4799,7 +4987,11 @@
                 {
                     "name": "512d4e13-6e40-4825-ad5f-9664e856a602",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4942,7 +5134,11 @@
                 {
                     "name": "4c54a09d-af60-4718-a7aa-f726e77d16af",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "StartingPlayerLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5038,7 +5234,11 @@
                 {
                     "name": "2143e6ac-e362-4c0c-9e74-9c2f0d2c90c3",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "StartingPlayerLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5143,7 +5343,11 @@
                 {
                     "name": "0561f467-fd1b-4a69-b6a1-f6b544d288e0",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "MaximumSkillLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5248,7 +5452,11 @@
                 {
                     "name": "b651af83-70ae-4ef4-bd56-695ac66535da",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 120.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5361,7 +5569,9 @@
                 {
                     "name": "2aeb2907-c1fc-4983-99f8-e86c54346081",
                     "type": "RelicInventoryTierIncrementNodeAffixDefinition",
+                    "valuePerUpgrade": 1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5466,7 +5676,11 @@
                 {
                     "name": "9446e0db-6fbb-4cd7-bd00-b3fc73bc2109",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5571,7 +5785,11 @@
                 {
                     "name": "c4a98576-1817-4c9b-9dfe-b75581cf070a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaSpentBarrierRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5676,7 +5894,11 @@
                 {
                     "name": "bfe7e36b-a248-4417-9a82-dbcc754bf3e6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5781,7 +6003,11 @@
                 {
                     "name": "3f3969b5-d0fb-43c9-adf6-56ae847d6bca",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5886,7 +6112,11 @@
                 {
                     "name": "23d82092-e9d9-4336-a314-e54177962eb9",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5991,7 +6221,11 @@
                 {
                     "name": "a5c74ca7-5cba-4719-9d9c-83b34324e6e6",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CooldownSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6112,7 +6346,11 @@
                 {
                     "name": "b6dd2e63-5c4d-4757-aac1-a2e36c52646e",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingBanishIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6225,7 +6463,11 @@
                 {
                     "name": "af0e4843-1825-436c-8220-4bf9d480c6ab",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "Multiplicative",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6330,7 +6572,11 @@
                 {
                     "name": "a77d0ace-27c8-48be-ae6c-c53ea4b94bfe",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6435,7 +6681,11 @@
                 {
                     "name": "dd553f78-a667-47d0-8031-ad9bcfa11309",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6548,7 +6798,11 @@
                 {
                     "name": "de4b5edd-5b53-4fa5-bde9-e5073f18cf0f",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.02,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6653,7 +6907,11 @@
                 {
                     "name": "780eb42b-7847-4c60-91e5-b731b0b76520",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingBanishIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6758,7 +7016,11 @@
                 {
                     "name": "1488451b-d775-438e-8014-993229d0875a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "Life",
+                    "statModifierType": "Additive",
+                    "value": 120.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6863,7 +7125,11 @@
                 {
                     "name": "bfc82992-2e52-4972-b100-08a75af6c83d",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 60.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6976,7 +7242,11 @@
                 {
                     "name": "3852898d-c016-4e43-9a65-7f2ad8bbe078",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BonusRelicDropsFromBoss",
+                    "statModifierType": "Additive",
+                    "value": 1.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7081,7 +7351,11 @@
                 {
                     "name": "9d17ddc0-b82d-4d7e-a549-ba7c11f7cddf",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "MovementSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7186,7 +7460,11 @@
                 {
                     "name": "7095fd9d-53e8-41d6-84de-696a9e63c8c5",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaSpentBarrierRegen",
+                    "statModifierType": "Additive",
+                    "value": 0.035,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7291,7 +7569,11 @@
                 {
                     "name": "10ad2e17-cb0a-4a3e-98e9-c22d395200c1",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierDecayResilience",
+                    "statModifierType": "Additive",
+                    "value": 0.03,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7396,7 +7678,11 @@
                 {
                     "name": "eb671979-0420-4a0b-adce-00c999f71a35",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BarrierGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7501,7 +7787,11 @@
                 {
                     "name": "44f5a6c3-7fa1-4fd4-b134-6f0f7e865eb5",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "MaximumSkillLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7606,7 +7896,11 @@
                 {
                     "name": "ea2cdcdc-934e-41ef-a9bc-0b824d658272",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "CooldownSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7711,7 +8005,11 @@
                 {
                     "name": "26bef0cf-5b9b-46bb-b671-8d648823bdd2",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "AttackSpeed",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7824,7 +8122,9 @@
                 {
                     "name": "a1883a9d-6d5d-446f-b640-1af290788d99",
                     "type": "RelicInventoryTierIncrementNodeAffixDefinition",
+                    "valuePerUpgrade": 1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -7929,7 +8229,11 @@
                 {
                     "name": "3c147839-57a1-44da-b51a-904fe5e0fc44",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8034,7 +8338,11 @@
                 {
                     "name": "7a0b6eb1-b41d-48fb-85b1-763e01b953e0",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8147,7 +8455,11 @@
                 {
                     "name": "4bc7d4c6-98c3-446a-b434-fd0540235d3c",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": 0.025,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8252,7 +8564,11 @@
                 {
                     "name": "551d30c5-e2fb-4dba-90ab-33da62889571",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "MultiplicativeAdditive",
+                    "value": 1.05,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8357,7 +8673,11 @@
                 {
                     "name": "2eddf89c-d109-4894-b267-df0bb7715030",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "MaximumSkillLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -8462,7 +8782,11 @@
                 {
                     "name": "7f745139-2787-43ad-be02-28766d7569f3",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "MaximumSkillLevelIncrementAmount",
+                    "valuePerLevel": 1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",

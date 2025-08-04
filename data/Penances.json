@@ -68,43 +68,47 @@
                 {
                     "name": "cae00326-c205-4158-9068-116ce996d35d",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Feuerresistenz ‑11%"
+                            "langTranslation": "Feuerresistenz ‑10%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Fire Resistance ‑11%"
+                            "langTranslation": "Fire Resistance ‑10%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia al Fuego ‑11%"
+                            "langTranslation": "Resistencia al Fuego ‑10%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑11% Résistance au feu"
+                            "langTranslation": "‑10% Résistance au feu"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "火炎抵抗‑11%"
+                            "langTranslation": "火炎抵抗‑10%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na ogień ‑11%"
+                            "langTranslation": "Odporność na ogień ‑10%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Ígnea ‑11%"
+                            "langTranslation": "Resistência Ígnea ‑10%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление огню ‑11%"
+                            "langTranslation": "Сопротивление огню ‑10%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "火焰抗性 ‑11%"
+                            "langTranslation": "火焰抗性 ‑10%"
                         }
                     ]
                 }
@@ -175,43 +179,47 @@
                 {
                     "name": "c4db8524-d77b-4213-a04d-d557efa71f1c",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Physikalische Resistenz ‑11%"
+                            "langTranslation": "Physikalische Resistenz ‑10%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Physical Resistance ‑11%"
+                            "langTranslation": "Physical Resistance ‑10%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia física ‑11%"
+                            "langTranslation": "Resistencia física ‑10%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑11% Résistance physique"
+                            "langTranslation": "‑10% Résistance physique"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "物理抵抗‑11%"
+                            "langTranslation": "物理抵抗‑10%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na obrażenia fizyczne ‑11%"
+                            "langTranslation": "Odporność na obrażenia fizyczne ‑10%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Física ‑11%"
+                            "langTranslation": "Resistência Física ‑10%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление физ. урону ‑11%"
+                            "langTranslation": "Сопротивление физ. урону ‑10%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "物理抗性 ‑11%"
+                            "langTranslation": "物理抗性 ‑10%"
                         }
                     ]
                 }
@@ -282,43 +290,47 @@
                 {
                     "name": "2ac84b97-0854-4ba6-b5e1-b7ed0f236065",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Blitzresistenz ‑11%"
+                            "langTranslation": "Blitzresistenz ‑10%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Lightning Resistance ‑11%"
+                            "langTranslation": "Lightning Resistance ‑10%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia al Rayo ‑11%"
+                            "langTranslation": "Resistencia al Rayo ‑10%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑11% Résistance à la foudre"
+                            "langTranslation": "‑10% Résistance à la foudre"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "電撃抵抗‑11%"
+                            "langTranslation": "電撃抵抗‑10%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na błyskawice ‑11%"
+                            "langTranslation": "Odporność na błyskawice ‑10%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Elétrica ‑11%"
+                            "langTranslation": "Resistência Elétrica ‑10%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление молниям ‑11%"
+                            "langTranslation": "Сопротивление молниям ‑10%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "闪电抗性 ‑11%"
+                            "langTranslation": "闪电抗性 ‑10%"
                         }
                     ]
                 }
@@ -389,43 +401,47 @@
                 {
                     "name": "bd0a69c2-a0ca-4b41-828b-c571bb4261ae",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.1,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Seuchenresistenz ‑11%"
+                            "langTranslation": "Seuchenresistenz ‑10%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Plague Resistance ‑11%"
+                            "langTranslation": "Plague Resistance ‑10%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia a la Plaga ‑11%"
+                            "langTranslation": "Resistencia a la Plaga ‑10%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑11% Résistance à la peste"
+                            "langTranslation": "‑10% Résistance à la peste"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "疫病抵抗‑11%"
+                            "langTranslation": "疫病抵抗‑10%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na zarazę ‑11%"
+                            "langTranslation": "Odporność na zarazę ‑10%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Tóxica ‑11%"
+                            "langTranslation": "Resistência Tóxica ‑10%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление чуме ‑11%"
+                            "langTranslation": "Сопротивление чуме ‑10%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "瘟疫抗性 ‑11%"
+                            "langTranslation": "瘟疫抗性 ‑10%"
                         }
                     ]
                 }
@@ -447,45 +463,7 @@
                         "name": "86b25177-dafc-46a2-831d-55c94b4ec90e",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_AreaofEffect",
@@ -535,42 +513,43 @@
                     "name": "4e0f5b67-8dc1-434a-8919-2ccfbb8dea54",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Radius von gegnerischen Wirkungsbereichen ist um +20%[+] erhöht."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemy Area Attack Radius increased by +20%[+]."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Se aumenta el radio de ataque del enemigo en +20%[+]."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Le rayon des attaques de zone ennemies est augmenté de +20%[+]"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵のエリア攻撃範囲が+20%[+]増加する。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zasięg ataków obszarowych wrogów zwiększony o +20%[+]"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Raio de Ataque de Área Inimigo aumentado em +20%[+]."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Радиус поражения атак врага увеличен на +20%[+]"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人范围攻击的半径扩大 +20%[+]。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -642,42 +621,43 @@
                     "name": "aecad1c0-3305-4cbb-b03c-dbfabbb2d427",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Radius von gegnerischen Wirkungsbereichen ist um +20%[+] erhöht."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemy Area Attack Radius increased by +20%[+]."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Se aumenta el radio de ataque del enemigo en +20%[+]."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Le rayon des attaques de zone ennemies est augmenté de +20%[+]"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵のエリア攻撃範囲が+20%[+]増加する。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zasięg ataków obszarowych wrogów zwiększony o +20%[+]"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Raio de Ataque de Área Inimigo aumentado em +20%[+]."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Радиус поражения атак врага увеличен на +20%[+]"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人范围攻击的半径扩大 +20%[+]。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -749,42 +729,43 @@
                     "name": "7c4b4d14-99d3-49ae-8e81-56e09d92df8f",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Radius von gegnerischen Wirkungsbereichen ist um +35%[+] erhöht."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemy Area Attack Radius increased by +35%[+]."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Se aumenta el radio de ataque del enemigo en +35%[+]."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Le rayon des attaques de zone ennemies est augmenté de +35%[+]"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵のエリア攻撃範囲が+35%[+]増加する。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zasięg ataków obszarowych wrogów zwiększony o +35%[+]"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Raio de Ataque de Área Inimigo aumentado em +35%[+]."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Радиус поражения атак врага увеличен на +35%[+]"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人范围攻击的半径扩大 +35%[+]。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -806,45 +787,7 @@
                         "name": "01812d28-4459-431f-bcac-9d083fc39bf0",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_HCTimer_Amount",
@@ -893,43 +836,47 @@
                 {
                     "name": "3b38b845-ef10-47a3-abf5-76f6cff281dc",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": -6.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Die Zeit auf dem Höllenuhr-Timer ist drastisch verringert, aber alle Gegner lassen zusätzliche Zeit fallen."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Hell Clock Timer is drastically reduced but all enemies drop additional time."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "El tiempo del Reloj Infernal se reduce drásticamente, pero todos los enemigos dejan caer tiempo adicional."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Le compte à rebours de l'Horloge infernale est beaucoup plus court, mais vous gagnez du temps en tuant chaque ennemi"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ヘルクロック制限時間が大きく減少するが、あらゆる敵が追加でドロップする。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Piekielny zegar tyka znacznie szybciej, ale wszyscy wrogowie upuszczają dodatkowy czas"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "O Temporizador do Relógio Infernal é drasticamente reduzido, mas todos os inimigos perdem tempo adicional."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Таймер Адских часов становится значительно короче, но все поверженные враги дают дополнительное время"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "地狱时钟计时器时间大幅降低，但所有敌人将掉落额外时间。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 },
@@ -1043,43 +990,47 @@
                 {
                     "name": "d9025077-6f7e-4d58-89e1-4581e38119c9",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 0.2,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "O tempo do Hell Clock e os itens de tempo são reduzidos em -20%"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -1150,43 +1101,47 @@
                 {
                     "name": "5b2348fb-bfe6-490e-8912-22dc0e404b68",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "HellClockTimerIncrease",
+                    "valuePerLevel": 0.2,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "O tempo do Hell Clock e os itens de tempo são reduzidos em -20%"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Hell Clock time and time drops reduced by -20%"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -1266,42 +1221,43 @@
                     "name": "edfa0524-31d5-4fd7-99ba-b009acc7fe4f",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Bewegungs- und Angriffstempo der Gegner sind um +29%[+] erhöht."
+                            "langTranslation": "Bewegungs- und Angriffstempo der Gegner sind um +30%[+] erhöht."
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemies move and attack +29%[+] faster."
+                            "langTranslation": "Enemies move and attack +30%[+] faster."
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Los enemigos se mueven y atacan +29%[+] más rápido."
+                            "langTranslation": "Los enemigos se mueven y atacan +30%[+] más rápido."
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les ennemis se déplacent et attaquent +29%[+] plus vite"
+                            "langTranslation": "Les ennemis se déplacent et attaquent +30%[+] plus vite"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵の移動速度と攻撃速度が+29%[+]速くなる。"
+                            "langTranslation": "敵の移動速度と攻撃速度が+30%[+]速くなる。"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wrogowie poruszają się i atakują +29%[+] szybciej"
+                            "langTranslation": "Wrogowie poruszają się i atakują +30%[+] szybciej"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Inimigos se movem e atacam +29%[+] mais rápido."
+                            "langTranslation": "Inimigos se movem e atacam +30%[+] mais rápido."
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Враги движутся и атакуют на +29%[+] быстрее"
+                            "langTranslation": "Враги движутся и атакуют на +30%[+] быстрее"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人的移动与攻击速度提高 +29%[+]。"
+                            "langTranslation": "敌人的移动与攻击速度提高 +30%[+]。"
                         }
                     ]
                 }
@@ -1373,42 +1329,43 @@
                     "name": "7982a944-9a2e-4808-b2b9-ea9fd8248bcd",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Bewegungs- und Angriffstempo der Gegner sind um +39%[+] erhöht."
+                            "langTranslation": "Bewegungs- und Angriffstempo der Gegner sind um +40%[+] erhöht."
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemies move and attack +39%[+] faster."
+                            "langTranslation": "Enemies move and attack +40%[+] faster."
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Los enemigos se mueven y atacan +39%[+] más rápido."
+                            "langTranslation": "Los enemigos se mueven y atacan +40%[+] más rápido."
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les ennemis se déplacent et attaquent +39%[+] plus vite"
+                            "langTranslation": "Les ennemis se déplacent et attaquent +40%[+] plus vite"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵の移動速度と攻撃速度が+39%[+]速くなる。"
+                            "langTranslation": "敵の移動速度と攻撃速度が+40%[+]速くなる。"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wrogowie poruszają się i atakują +39%[+] szybciej"
+                            "langTranslation": "Wrogowie poruszają się i atakują +40%[+] szybciej"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Inimigos se movem e atacam +39%[+] mais rápido."
+                            "langTranslation": "Inimigos se movem e atacam +40%[+] mais rápido."
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Враги движутся и атакуют на +39%[+] быстрее"
+                            "langTranslation": "Враги движутся и атакуют на +40%[+] быстрее"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人的移动与攻击速度提高 +39%[+]。"
+                            "langTranslation": "敌人的移动与攻击速度提高 +40%[+]。"
                         }
                     ]
                 }
@@ -1480,6 +1437,7 @@
                     "name": "da23b9fb-1138-41d8-be7f-75e75fe6dfab",
                     "type": "EnemyGlobalModifierNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1680,7 +1638,11 @@
                 {
                     "name": "0b7b7a7e-a916-46ee-ad7e-18665b0d052a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.75,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -1787,43 +1749,47 @@
                 {
                     "name": "6617928b-d7c0-4348-8343-ed8fa44df151",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "GoldGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Goldgewinn ‑31%[x]"
+                            "langTranslation": "Goldgewinn ‑30%[x]"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Gold Gain ‑31%[x]"
+                            "langTranslation": "Gold Gain ‑30%[x]"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Obtención de oro ‑31%[x]"
+                            "langTranslation": "Obtención de oro ‑30%[x]"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑31%[x] Gain de réis"
+                            "langTranslation": "‑30%[x] Gain de réis"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ゴールド獲得量‑31%[x]"
+                            "langTranslation": "ゴールド獲得量‑30%[x]"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zyskiwane złoto ‑31%[x]"
+                            "langTranslation": "Zyskiwane złoto ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Ganho de Ouro ‑31%[x]"
+                            "langTranslation": "Ganho de Ouro ‑30%[x]"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Получение золота ‑31%[x]"
+                            "langTranslation": "Получение золота ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "金币获取 ‑31%[x]"
+                            "langTranslation": "金币获取 ‑30%[x]"
                         }
                     ]
                 }
@@ -1894,7 +1860,11 @@
                 {
                     "name": "f59b948d-6bf2-43d6-a111-7fa83d395e7b",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingRedrawCostMultiplier",
+                    "valuePerLevel": 2.0,
+                    "eModifierType": "MultiplicativeAdditive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2001,7 +1971,11 @@
                 {
                     "name": "bd033816-0633-4d3f-9b3b-f1c27b65ea73",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "BlessingSelectionIncrementAmount",
+                    "valuePerLevel": -1.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2109,6 +2083,7 @@
                     "name": "67c3c8ac-5f55-46b1-bc66-dbfc693f395b",
                     "type": "EnemyAdditionalAffixesNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -2166,45 +2141,7 @@
                         "name": "4b74be67-2e9b-4654-ad95-00db4f9f9ce3",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_CriticalDamage",
@@ -2254,42 +2191,43 @@
                     "name": "ba505483-0c58-49e5-b4dd-ca56cb9eb815",
                     "type": "EnemyAdditionalAffixesNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Elitegegner haben 1 zusätzliche gefährliche Affixe."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Elite enemies have 1 additional Dangerous affixes"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Los enemigos de élite tienen 1 agregados peligrosos adicionales."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les ennemis d'élite ont 1 suffixes dangereux en plus"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "エリート敵が追加の危険な特性を1持つ。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Elitarni wrogowie mają 1 dodatkowe niebezpieczne atrybuty"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Inimigos de Elite têm 1 afixos Perigosos adicionais."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Элитные враги получают дополнительные эффекты опасности: 1 шт."
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "精锐敌人将额外拥有 1 个危险词缀。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -2360,43 +2298,47 @@
                 {
                     "name": "1fd21565-91ab-41a2-978b-13ba19d2f58a",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.15,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Feuerresistenz ‑16%"
+                            "langTranslation": "Feuerresistenz ‑15%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Fire Resistance ‑16%"
+                            "langTranslation": "Fire Resistance ‑15%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia al Fuego ‑16%"
+                            "langTranslation": "Resistencia al Fuego ‑15%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑16% Résistance au feu"
+                            "langTranslation": "‑15% Résistance au feu"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "火炎抵抗‑16%"
+                            "langTranslation": "火炎抵抗‑15%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na ogień ‑16%"
+                            "langTranslation": "Odporność na ogień ‑15%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Ígnea ‑16%"
+                            "langTranslation": "Resistência Ígnea ‑15%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление огню ‑16%"
+                            "langTranslation": "Сопротивление огню ‑15%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "火焰抗性 ‑16%"
+                            "langTranslation": "火焰抗性 ‑15%"
                         }
                     ]
                 }
@@ -2467,43 +2409,47 @@
                 {
                     "name": "67ced8ec-1fcb-4472-a9f9-0f65e74add7b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.15,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Blitzresistenz ‑16%"
+                            "langTranslation": "Blitzresistenz ‑15%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Lightning Resistance ‑16%"
+                            "langTranslation": "Lightning Resistance ‑15%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia al Rayo ‑16%"
+                            "langTranslation": "Resistencia al Rayo ‑15%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑16% Résistance à la foudre"
+                            "langTranslation": "‑15% Résistance à la foudre"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "電撃抵抗‑16%"
+                            "langTranslation": "電撃抵抗‑15%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na błyskawice ‑16%"
+                            "langTranslation": "Odporność na błyskawice ‑15%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Elétrica ‑16%"
+                            "langTranslation": "Resistência Elétrica ‑15%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление молниям ‑16%"
+                            "langTranslation": "Сопротивление молниям ‑15%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "闪电抗性 ‑16%"
+                            "langTranslation": "闪电抗性 ‑15%"
                         }
                     ]
                 }
@@ -2574,43 +2520,47 @@
                 {
                     "name": "5e252840-d844-47a8-814e-31fc518c67f9",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.15,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Seuchenresistenz ‑16%"
+                            "langTranslation": "Seuchenresistenz ‑15%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Plague Resistance ‑16%"
+                            "langTranslation": "Plague Resistance ‑15%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia a la Plaga ‑16%"
+                            "langTranslation": "Resistencia a la Plaga ‑15%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑16% Résistance à la peste"
+                            "langTranslation": "‑15% Résistance à la peste"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "疫病抵抗‑16%"
+                            "langTranslation": "疫病抵抗‑15%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na zarazę ‑16%"
+                            "langTranslation": "Odporność na zarazę ‑15%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Tóxica ‑16%"
+                            "langTranslation": "Resistência Tóxica ‑15%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление чуме ‑16%"
+                            "langTranslation": "Сопротивление чуме ‑15%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "瘟疫抗性 ‑16%"
+                            "langTranslation": "瘟疫抗性 ‑15%"
                         }
                     ]
                 }
@@ -2681,43 +2631,47 @@
                 {
                     "name": "307d990c-718f-4d06-8a43-eeb747083eb5",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.15,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Physikalische Resistenz ‑16%"
+                            "langTranslation": "Physikalische Resistenz ‑15%"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Physical Resistance ‑16%"
+                            "langTranslation": "Physical Resistance ‑15%"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Resistencia física ‑16%"
+                            "langTranslation": "Resistencia física ‑15%"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑16% Résistance physique"
+                            "langTranslation": "‑15% Résistance physique"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "物理抵抗‑16%"
+                            "langTranslation": "物理抵抗‑15%"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Odporność na obrażenia fizyczne ‑16%"
+                            "langTranslation": "Odporność na obrażenia fizyczne ‑15%"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Resistência Física ‑16%"
+                            "langTranslation": "Resistência Física ‑15%"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Сопротивление физ. урону ‑16%"
+                            "langTranslation": "Сопротивление физ. урону ‑15%"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "物理抗性 ‑16%"
+                            "langTranslation": "物理抗性 ‑15%"
                         }
                     ]
                 }
@@ -2788,43 +2742,47 @@
                 {
                     "name": "5851f3df-d445-41e0-b98c-b04fcec6b7f8",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Alle Manawiederherstellungs- und Manaregenerationseffekte sind um ‑31%[x] verringert."
+                            "langTranslation": "Alle Manawiederherstellungs- und Manaregenerationseffekte sind um ‑30%[x] verringert."
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "All Mana recovery and Mana Regen effects are reduced by ‑31%[x]."
+                            "langTranslation": "All Mana recovery and Mana Regen effects are reduced by ‑30%[x]."
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Todos los efectos de recuperación y regeneración de maná se reducen en ‑31%[x]."
+                            "langTranslation": "Todos los efectos de recuperación y regeneración de maná se reducen en ‑30%[x]."
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Tous les effets de régénération de ferveur sont réduits de ‑31%[x]"
+                            "langTranslation": "Tous les effets de régénération de ferveur sont réduits de ‑30%[x]"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "あらゆるマナ回復量とマナ再生量が‑31%[x]減少する。"
+                            "langTranslation": "あらゆるマナ回復量とマナ再生量が‑30%[x]減少する。"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wszystkie efekty odzyskiwania i regeneracji many są zmniejszone o ‑31%[x]"
+                            "langTranslation": "Wszystkie efekty odzyskiwania i regeneracji many są zmniejszone o ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Todos os efeitos de Recuperação de Energia e Regeneração de Energia são reduzidos em ‑31%[x]."
+                            "langTranslation": "Todos os efeitos de Recuperação de Energia e Regeneração de Energia são reduzidos em ‑30%[x]."
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Все пополнение и восстановление маны уменьшено на ‑31%[x]"
+                            "langTranslation": "Все пополнение и восстановление маны уменьшено на ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "所有法力恢复与法力再生效果降低 ‑31%[x]。"
+                            "langTranslation": "所有法力恢复与法力再生效果降低 ‑30%[x]。"
                         }
                     ]
                 }
@@ -2895,7 +2853,11 @@
                 {
                     "name": "454968e4-a4d4-49e8-a02d-445a4a222f94",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ManaGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.55,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3002,43 +2964,47 @@
                 {
                     "name": "f1ab4799-1f43-4b67-9edf-49f2a33d2e97",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LifeGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Alle Effekte von Heilung, Lebensraub und Lebensregeneration sind um ‑31%[x] verringert."
+                            "langTranslation": "Alle Effekte von Heilung, Lebensraub und Lebensregeneration sind um ‑30%[x] verringert."
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "All Healing, Life Steal and Life Regen effects are reduced by ‑31%[x]."
+                            "langTranslation": "All Healing, Life Steal and Life Regen effects are reduced by ‑30%[x]."
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Todos los efectos de curación, Robavida y regeneración de vida se reducen en ‑31%[x]."
+                            "langTranslation": "Todos los efectos de curación, Robavida y regeneración de vida se reducen en ‑30%[x]."
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Tous les effets de gain, drain et régénération de vie sont réduits de ‑31%[x]"
+                            "langTranslation": "Tous les effets de gain, drain et régénération de vie sont réduits de ‑30%[x]"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "あらゆる回復量、ライフ吸収量、ライフ再生量が‑31%[x]減少する。"
+                            "langTranslation": "あらゆる回復量、ライフ吸収量、ライフ再生量が‑30%[x]減少する。"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wszystkie efekty leczenia, kradzieży życia i regeneracji życia są zmniejszone o ‑31%[x]"
+                            "langTranslation": "Wszystkie efekty leczenia, kradzieży życia i regeneracji życia są zmniejszone o ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Todos os efeitos de Cura, Roubo de Vida e Regeneração de Vida são reduzidos em ‑31%[x]."
+                            "langTranslation": "Todos os efeitos de Cura, Roubo de Vida e Regeneração de Vida são reduzidos em ‑30%[x]."
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Все лечение, кража здоровья и восстановление здоровья уменьшены на ‑31%[x]"
+                            "langTranslation": "Все лечение, кража здоровья и восстановление здоровья уменьшены на ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "所有治疗、吸血与生命再生效果降低 ‑31%[x]"
+                            "langTranslation": "所有治疗、吸血与生命再生效果降低 ‑30%[x]"
                         }
                     ]
                 }
@@ -3109,7 +3075,11 @@
                 {
                     "name": "64008cd9-059a-44f4-af86-e61a179138fe",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LifeGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.55,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3175,45 +3145,7 @@
                         "name": "3e478ce3-5806-4b10-af37-f3fe598d50ba",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_ProjectileSkills",
@@ -3263,6 +3195,7 @@
                     "name": "139d214f-2c6f-4c81-8923-0526d7aa3039",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3394,6 +3327,7 @@
                     "name": "bdd68e1d-68d7-4332-9261-a0b3c74def96",
                     "type": "EnemyGlobalModifierNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -3451,45 +3385,7 @@
                         "name": "01812d28-4459-431f-bcac-9d083fc39bf0",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_FireDamage_Base",
@@ -3539,42 +3435,43 @@
                     "name": "bef44f4c-f332-4230-8d4a-0ccfe6c7b274",
                     "type": "EnemyGlobalModifierNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Manche Ebenen weisen Bodeneffekte auf."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Some Floors will have Ground Effects."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Algunos pisos tienen efectos en el suelo."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Certains étages ont des effets au sol"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "地面の一部が地形効果を持つ。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Niektóre piętra będą miały efekty podłoża"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Alguns Andares terão Efeitos no Chão."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "На некоторых этажах будут опасные области"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "部分层级将出现地面效果。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -3646,42 +3543,43 @@
                     "name": "b55d9ef0-43d8-4602-b283-18dc19417aa2",
                     "type": "EnemyGlobalModifierNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Alle Ebenen weisen Bodeneffekte auf."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "All Floors will have Ground Effects."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Todos los pisos tienen efectos en el suelo."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Tous les étages ont des effets au sol"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "すべての地面が地形効果を持つ。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wszystkie piętra będą miały efekty podłoża"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Todos os Andares terão Efeitos no Chão."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "На всех этажах будут опасные области"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "全部层级将出现地面效果。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -3753,42 +3651,43 @@
                     "name": "25787eec-5031-4e53-8a18-d44d1dcedb9f",
                     "type": "EnemyGlobalModifierNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Bei Bossbegegnungen erscheint ein zusätzlicher Boss."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Boss encounters have one additional Boss."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Hay un jefe adicional en los enfrentamientos con jefes."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les boss sont accompagnés d'un second boss"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "ボス遭遇にボスが１体追加される。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "W starciach z bossami pojawia się dodatkowy boss"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Encontros com chefes têm um chefe adicional."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "В битвах с боссами появляется один дополнительный босс"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "首领对战将新增一名首领。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -3859,43 +3758,47 @@
                 {
                     "name": "2d1ba912-c12b-4390-a403-b6dc26af8a13",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BuffDuration",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Bestimmt die Dauer der vorteilhaften Effekte, die auf dich wirken. ‑31%[x]"
+                            "langTranslation": "Bestimmt die Dauer der vorteilhaften Effekte, die auf dich wirken. ‑30%[x]"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Determines the duration of beneficial effects active on you ‑31%[x]"
+                            "langTranslation": "Determines the duration of beneficial effects active on you ‑30%[x]"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Determina la duración de los efectos beneficiosos que tienes activos. ‑31%[x]"
+                            "langTranslation": "Determina la duración de los efectos beneficiosos que tienes activos. ‑30%[x]"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑31%[x] Détermine la durée des effets bénéfiques actifs sur vous."
+                            "langTranslation": "‑30%[x] Détermine la durée des effets bénéfiques actifs sur vous."
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "自分にかかっている有益な効果の持続時間を決定する。‑31%[x]"
+                            "langTranslation": "自分にかかっている有益な効果の持続時間を決定する。‑30%[x]"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Określa czas trwania korzystnych efektów działających na użytkownika ‑31%[x]"
+                            "langTranslation": "Określa czas trwania korzystnych efektów działających na użytkownika ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Determina a duração dos efeitos de benéficos ativos em você ‑31%[x]"
+                            "langTranslation": "Determina a duração dos efeitos de benéficos ativos em você ‑30%[x]"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Определяет длительность положительных эффектов на персонаже. ‑31%[x]"
+                            "langTranslation": "Определяет длительность положительных эффектов на персонаже. ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "决定了你身上正面效果的持续时间。 ‑31%[x]"
+                            "langTranslation": "决定了你身上正面效果的持续时间。 ‑30%[x]"
                         }
                     ]
                 }
@@ -3966,43 +3869,47 @@
                 {
                     "name": "40a46f2d-351b-422c-b2bc-aaf8c0a63e27",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BuffDuration",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Bestimmt die Dauer der vorteilhaften Effekte, die auf dich wirken. ‑31%[x]"
+                            "langTranslation": "Bestimmt die Dauer der vorteilhaften Effekte, die auf dich wirken. ‑30%[x]"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Determines the duration of beneficial effects active on you ‑31%[x]"
+                            "langTranslation": "Determines the duration of beneficial effects active on you ‑30%[x]"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Determina la duración de los efectos beneficiosos que tienes activos. ‑31%[x]"
+                            "langTranslation": "Determina la duración de los efectos beneficiosos que tienes activos. ‑30%[x]"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑31%[x] Détermine la durée des effets bénéfiques actifs sur vous."
+                            "langTranslation": "‑30%[x] Détermine la durée des effets bénéfiques actifs sur vous."
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "自分にかかっている有益な効果の持続時間を決定する。‑31%[x]"
+                            "langTranslation": "自分にかかっている有益な効果の持続時間を決定する。‑30%[x]"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Określa czas trwania korzystnych efektów działających na użytkownika ‑31%[x]"
+                            "langTranslation": "Określa czas trwania korzystnych efektów działających na użytkownika ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Determina a duração dos efeitos de benéficos ativos em você ‑31%[x]"
+                            "langTranslation": "Determina a duração dos efeitos de benéficos ativos em você ‑30%[x]"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Определяет длительность положительных эффектов на персонаже. ‑31%[x]"
+                            "langTranslation": "Определяет длительность положительных эффектов на персонаже. ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "决定了你身上正面效果的持续时间。 ‑31%[x]"
+                            "langTranslation": "决定了你身上正面效果的持续时间。 ‑30%[x]"
                         }
                     ]
                 }
@@ -4073,7 +3980,11 @@
                 {
                     "name": "e759acfc-26f4-46b5-a1a2-1c3536286a39",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ExperienceGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.8,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4180,43 +4091,47 @@
                 {
                     "name": "1c321333-6509-467b-bb9f-c5d0ba2c8005",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "ExperienceGain",
+                    "statModifierType": "Multiplicative",
+                    "value": 0.7,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Erfahrungsgewinn ‑31%[x]"
+                            "langTranslation": "Erfahrungsgewinn ‑30%[x]"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Experience Gain ‑31%[x]"
+                            "langTranslation": "Experience Gain ‑30%[x]"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Obtención de experiencia ‑31%[x]"
+                            "langTranslation": "Obtención de experiencia ‑30%[x]"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "‑31%[x] Gain d'expérience"
+                            "langTranslation": "‑30%[x] Gain d'expérience"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "経験値獲得量‑31%[x]"
+                            "langTranslation": "経験値獲得量‑30%[x]"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Zyskiwane PD ‑31%[x]"
+                            "langTranslation": "Zyskiwane PD ‑30%[x]"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Ganho de Experiencia ‑31%[x]"
+                            "langTranslation": "Ganho de Experiencia ‑30%[x]"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Получение опыта ‑31%[x]"
+                            "langTranslation": "Получение опыта ‑30%[x]"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "经验值获取 ‑31%[x]"
+                            "langTranslation": "经验值获取 ‑30%[x]"
                         }
                     ]
                 }
@@ -4288,6 +4203,7 @@
                     "name": "9f862d10-a4ea-45dc-83b2-5c48ec3d2af6",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4395,6 +4311,7 @@
                     "name": "eb3753c4-0dcd-444d-91d5-651679b76c39",
                     "type": "EnemyStatModifiersNodeAffixDefinition",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4452,45 +4369,7 @@
                         "name": "e3e875c5-a4d7-4de8-b934-b0fc19be4cbe",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_Fire_Resistance",
@@ -4539,7 +4418,11 @@
                 {
                     "name": "c2b0bedc-1bd6-43a3-a569-4043607fcda4",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "FireResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4646,7 +4529,11 @@
                 {
                     "name": "fa61c163-4ecb-4295-8103-fd86280798ca",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PhysicalResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4704,45 +4591,7 @@
                         "name": "e3e875c5-a4d7-4de8-b934-b0fc19be4cbe",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_Lightning_Resistance",
@@ -4791,7 +4640,11 @@
                 {
                     "name": "ea7325cd-e14f-4471-9b70-90b6a2f6e794",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "LightningResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -4849,45 +4702,7 @@
                         "name": "e3e875c5-a4d7-4de8-b934-b0fc19be4cbe",
                         "type": "PenanceSkillTreeNodeDefinition"
                     },
-                    "pointsToUnlock": 1,
-                    "requirements": [
-                        {
-                            "langCode": "de",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "en",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "es",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "fr",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "ja",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pl",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "pt-br",
-                            "langTranslation": "! BETA: Em Construção !"
-                        },
-                        {
-                            "langCode": "ru",
-                            "langTranslation": "! BETA: Under Construction !"
-                        },
-                        {
-                            "langCode": "zh-cn",
-                            "langTranslation": "! BETA: Under Construction !"
-                        }
-                    ]
+                    "pointsToUnlock": 1
                 }
             ],
             "sprite": "Icon_Plague_Resistance",
@@ -4936,7 +4751,11 @@
                 {
                     "name": "c1fc8c97-c7fe-45a8-a9e6-53751ccaebf8",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "PlagueResistance",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -5034,7 +4853,11 @@
                 {
                     "name": "33dd9256-7d4b-4ccc-af14-b934cfdf6c6d",
                     "type": "CharacterIncrementNodeAffixDefinition",
+                    "eCharacterIncrement": "RunsPerActIncrementAmount",
+                    "valuePerLevel": 7.0,
+                    "eModifierType": "Additive",
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": true,
                     "description": [
                         {
                             "langCode": "de",
@@ -5141,43 +4964,47 @@
                 {
                     "name": "38973e29-d9ef-4281-b451-99ee128ce674",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Dano Corpo-A-Corpo de monstros tem uma chance de causar Lentidão"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Monster Melee Damage has Chance to cause Slow"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5248,43 +5075,47 @@
                 {
                     "name": "31334c57-d077-4b27-bd3a-1fe60e15b3d7",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Dano de Longa Distância de monstros tem uma chance de causar Lentidão"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Monster Ranged Damage has Chance to cause Slow"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5379,43 +5210,47 @@
                 {
                     "name": "5caf6a3d-6581-474b-a969-0e30551d210b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Gegner sind immun gegen +0. Diese Buße wechselt nach Zufallsprinzip bei jedem Aufstieg."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemies are immune to +0. This Penance randomly changes at every Ascension."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Los enemigos son inmunes a +0. Esta Penitencia cambia al azar en cada Ascensión."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les ennemis sont immunisés à l'effet +0. Cette pénitence change aléatoirement après chaque Ascension"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵は+0の耐性を得る。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wrogowie są odporni na +0. Ta pokuta zmienia się losowo po każdym Wniebowstąpieniu."
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Inimigos são imunes a +0. Esta Penitência muda aleatoriamente a cada Ascensão."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Враги получают иммунитет к статусу «+0». Эта кара случайным образом меняется при каждом Вознесении."
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人对+0免疫。这项苦修在每次升华时都会随机变化。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5486,43 +5321,47 @@
                 {
                     "name": "93856a6b-1bfc-4178-8bef-5118959ed2a0",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "50% menos Chance de encontrar Poções"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Potions Have 50% Less Chance to Drop"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5593,43 +5432,47 @@
                 {
                     "name": "7a995118-2cdb-46ce-ad51-0292ea507930",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Poções podem ser encontradas apenas em Únicos e Chefes"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Potions Drop Only From Uniques and Bosses"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5700,43 +5543,47 @@
                 {
                     "name": "d9959a2f-113b-44fc-85c9-26b17a714195",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Monstros regeneram Vida"
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "Monsters Regenerate Life"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5807,43 +5654,47 @@
                 {
                     "name": "362c59c4-83ee-4c03-b038-048a2bad6d83",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "Gegner können Leiden auf dich anwenden."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "Enemies can apply Ailments to you."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "Los enemigos pueden aplicarte dolencias."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "Les ennemis peuvent vous infliger des afflictions"
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "敵がプレイヤーを状態異常にする可能性がある。"
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "Wrogowie mogą nakładać na ciebie dolegliwości"
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Inimigos podem aplicar Afecções a você."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "Враги могут накладывать на вас статусы"
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "敌人可对你施加异常状态。"
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -5914,43 +5765,47 @@
                 {
                     "name": "ca3615f8-0424-4f1d-b23c-389722fb0c12",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Você tem -+0 Tentativas iniciais.\nVocê recebe -+0 Tentativas ao completar cada Ato pela primeira vez."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -6021,43 +5876,47 @@
                 {
                     "name": "afa719ab-487b-4abd-8ebd-e67f637946e1",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "BaseDamage",
+                    "statModifierType": "Additive",
+                    "value": 0.0,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: In Arbeit"
                         },
                         {
                             "langCode": "en",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Work In Progress"
                         },
                         {
                             "langCode": "es",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Trabajo en progreso"
                         },
                         {
                             "langCode": "fr",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BÊTA : Travail en cours"
                         },
                         {
                             "langCode": "ja",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "ベータ版: 進行中"
                         },
                         {
                             "langCode": "pl",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Praca w toku"
                         },
                         {
                             "langCode": "pt-br",
-                            "langTranslation": "Você tem -+0 Tentativas iniciais.\nVocê recebe -+0 Tentativas ao completar cada Ato pela primeira vez."
+                            "langTranslation": "BETA: Trabalho em Progresso"
                         },
                         {
                             "langCode": "ru",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "BETA: Работа в процессе"
                         },
                         {
                             "langCode": "zh-cn",
-                            "langTranslation": "You have -+0 starting Runs.\nYou get -+0 Runs after completing each Act for the first time."
+                            "langTranslation": "测试版：正在进行中"
                         }
                     ]
                 }
@@ -6128,7 +5987,11 @@
                 {
                     "name": "00b98eaf-849d-458e-a99f-078238541dd2",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",
@@ -6226,7 +6089,11 @@
                 {
                     "name": "1e2214c6-e354-469f-b1d2-cab5ca6ada7b",
                     "type": "StatModifierNodeAffixDefinition",
+                    "eStatDefinition": "SoulStoneGain",
+                    "statModifierType": "Additive",
+                    "value": -0.25,
                     "hideDescription": false,
+                    "hideFromAggregatedDescriptions": false,
                     "description": [
                         {
                             "langCode": "de",

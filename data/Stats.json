@@ -6774,7 +6774,7 @@
             "isPlayerStat": false,
             "willClamp": true,
             "minimumValue": 0.0,
-            "maximumValue": 0.75
+            "maximumValue": 0.95
         },
         {
             "name": "AntiMagic",
@@ -6862,7 +6862,7 @@
             "isPlayerStat": false,
             "willClamp": true,
             "minimumValue": 0.0,
-            "maximumValue": 0.75
+            "maximumValue": 0.95
         },
         {
             "name": "ChanceToMiss",
